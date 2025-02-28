@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\alquilervehiculos\\wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E7C364-F3A3-4BEB-8454-E8CFDED28064}|..\\capaEntidad\\capaEntidad.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\capaentidad\\vehiculoscls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98E49A8-CAD1-4914-9699-A2FC623B288F}|..\\capaDatos\\capaDatos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\capadatos\\vehiculosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E1D978-6844-47AD-9861-2AD48869F11D}|..\\capaNegocio\\capaNegocio.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\capanegocio\\vehiculosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\alquilervehiculos\\wwwroot\\js\\vehiculos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\js\\vehiculos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E7C364-F3A3-4BEB-8454-E8CFDED28064}|..\\capaEntidad\\capaEntidad.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\capaentidad\\clientescls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\alquilervehiculos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98E49A8-CAD1-4914-9699-A2FC623B288F}|..\\capaDatos\\capaDatos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\capadatos\\segurosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\alquilervehiculos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\alquilervehiculos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\alquilervehiculos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\alquilervehiculos\\views\\vehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\vehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\alquilervehiculos\\wwwroot\\js\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\js\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98E49A8-CAD1-4914-9699-A2FC623B288F}|..\\capaDatos\\capaDatos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\capadatos\\clientesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98E49A8-CAD1-4914-9699-A2FC623B288F}|..\\capaDatos\\capaDatos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\capadatos\\empleadosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98E49A8-CAD1-4914-9699-A2FC623B288F}|..\\capaDatos\\capaDatos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\capadatos\\pagosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98E49A8-CAD1-4914-9699-A2FC623B288F}|..\\capaDatos\\capaDatos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\capadatos\\reservasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\downloads\\proyectofinalweb\\alquilervehiculos\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vehiculos.js",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\vehiculos.js",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
+              "RelativeToolTip": "wwwroot\\js\\vehiculos.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-24T06:24:00.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T06:27:02.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiculosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\VehiculosDAL.cs",
+              "RelativeDocumentMoniker": "..\\capaDatos\\VehiculosDAL.cs",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\VehiculosDAL.cs",
+              "RelativeToolTip": "..\\capaDatos\\VehiculosDAL.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:16:51.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "generic.js",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\generic.js",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
+              "RelativeToolTip": "wwwroot\\js\\generic.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-28T01:38:26.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-25T15:17:05.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SegurosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\SegurosDAL.cs",
+              "RelativeDocumentMoniker": "..\\capaDatos\\SegurosDAL.cs",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\SegurosDAL.cs",
+              "RelativeToolTip": "..\\capaDatos\\SegurosDAL.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:52:55.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiculosBL.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaNegocio\\VehiculosBL.cs",
+              "RelativeDocumentMoniker": "..\\capaNegocio\\VehiculosBL.cs",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaNegocio\\VehiculosBL.cs",
+              "RelativeToolTip": "..\\capaNegocio\\VehiculosBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:22:53.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesCLS.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaEntidad\\ClientesCLS.cs",
+              "RelativeDocumentMoniker": "..\\capaEntidad\\ClientesCLS.cs",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaEntidad\\ClientesCLS.cs",
+              "RelativeToolTip": "..\\capaEntidad\\ClientesCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:40:29.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiculosCLS.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaEntidad\\VehiculosCLS.cs",
+              "RelativeDocumentMoniker": "..\\capaEntidad\\VehiculosCLS.cs",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaEntidad\\VehiculosCLS.cs",
+              "RelativeToolTip": "..\\capaEntidad\\VehiculosCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:42:10.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\Views\\Vehiculos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\Views\\Vehiculos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vehiculos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T06:26:33.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientesDAL.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\ClientesDAL.cs",
+              "RelativeDocumentMoniker": "..\\capaDatos\\ClientesDAL.cs",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\ClientesDAL.cs",
+              "RelativeToolTip": "..\\capaDatos\\ClientesDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:50:51.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpleadosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\EmpleadosDAL.cs",
+              "RelativeDocumentMoniker": "..\\capaDatos\\EmpleadosDAL.cs",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\EmpleadosDAL.cs",
+              "RelativeToolTip": "..\\capaDatos\\EmpleadosDAL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:51:17.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-25T15:20:02.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PagosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\PagosDAL.cs",
+              "RelativeDocumentMoniker": "..\\capaDatos\\PagosDAL.cs",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\PagosDAL.cs",
+              "RelativeToolTip": "..\\capaDatos\\PagosDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:51:41.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAALMBAAAAAAAAAAAAAKoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T15:29:52.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clientes.js",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\clientes.js",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
+              "RelativeToolTip": "wwwroot\\js\\clientes.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-26T13:37:47.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReservasDAL.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\ReservasDAL.cs",
+              "RelativeDocumentMoniker": "..\\capaDatos\\ReservasDAL.cs",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\ReservasDAL.cs",
+              "RelativeToolTip": "..\\capaDatos\\ReservasDAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:52:18.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\AlquilerVehiculos\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "Controllers\\VehiculosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:23:47.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

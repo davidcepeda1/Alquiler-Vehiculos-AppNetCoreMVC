@@ -1,0 +1,11 @@
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\bin\Debug\net8.0\capaEntidad.deps.json
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\obj\Debug\net8.0\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\obj\Debug\net8.0\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\obj\Debug\net8.0\capaEntidad.AssemblyInfo.cs
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\obj\Debug\net8.0\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\obj\Debug\net8.0\capaEntidad.dll
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\obj\Debug\net8.0\refint\capaEntidad.dll
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\obj\Debug\net8.0\capaEntidad.pdb
+C:\Users\David\Downloads\ProyectoFinalWeb\capaEntidad\obj\Debug\net8.0\ref\capaEntidad.dll
