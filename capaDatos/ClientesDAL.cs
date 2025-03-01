@@ -32,20 +32,24 @@ namespace capaDatos
                             ClientesCLS oClientesCLS;
                             Lista = new List<ClientesCLS>();
 
-                            int posidCliente = drd.GetOrdinal("ID");
+                            int posidCliente = drd.GetOrdinal("CLIENTE_ID");
+                            int posidUsuario = drd.GetOrdinal("USUARIO_ID");
+                            int posnombreU = drd.GetOrdinal("NOMBRE_USUARIO");
+                            int posemailCl = drd.GetOrdinal("EMAIL");
                             int posnombreCl = drd.GetOrdinal("NOMBRE");
                             int posapellidoCl = drd.GetOrdinal("APELLIDO");
                             int postelefonoCl = drd.GetOrdinal("TELEFONO");
-                            int posemailCl = drd.GetOrdinal("EMAIL");
 
                             while (drd.Read())
                             {
                                 oClientesCLS = new ClientesCLS();
                                 oClientesCLS.idCliente = drd.IsDBNull(posidCliente) ? 0 : drd.GetInt32(0);
-                                oClientesCLS.nombre = drd.IsDBNull(posnombreCl) ? " " : drd.GetString(1);
-                                oClientesCLS.apellido = drd.IsDBNull(posapellidoCl) ? " " : drd.GetString(2);
-                                oClientesCLS.telefono = drd.IsDBNull(postelefonoCl) ? " " : drd.GetString(3);
-                                oClientesCLS.email = drd.IsDBNull(posemailCl) ? " " : drd.GetString(4);
+                                oClientesCLS.idUsuario = drd.IsDBNull(posidCliente) ? 0 : drd.GetInt32(1);
+                                oClientesCLS.nombreUsuario = drd.IsDBNull(posnombreU) ? " " : drd.GetString(2);
+                                oClientesCLS.email = drd.IsDBNull(posemailCl) ? " " : drd.GetString(3);
+                                oClientesCLS.nombre = drd.IsDBNull(posnombreCl) ? " " : drd.GetString(4);
+                                oClientesCLS.apellido = drd.IsDBNull(posapellidoCl) ? " " : drd.GetString(5);
+                                oClientesCLS.telefono = drd.IsDBNull(postelefonoCl) ? " " : drd.GetString(6);
 
                                 Lista.Add(oClientesCLS);
                             }

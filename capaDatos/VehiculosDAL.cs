@@ -22,7 +22,7 @@ namespace capaDatos
                 try
                 {
                     cn.Open();
-                    using (SqlCommand cmd = new SqlCommand("uspListarVehiculosDisponibles", cn))
+                    using (SqlCommand cmd = new SqlCommand("uspListarVehiculos", cn))
                     {
                         cmd.CommandType = System.Data.CommandType.StoredProcedure;
                         SqlDataReader drd = cmd.ExecuteReader(CommandBehavior.SingleResult);
@@ -32,10 +32,10 @@ namespace capaDatos
                             VehiculosCLS oVehiculosCLS;
                             Lista = new List<VehiculosCLS>();
 
-                            int posidVehiculo = drd.GetOrdinal("ID"); 
+                            int posidVehiculo = drd.GetOrdinal("VEHICULO_ID"); 
                             int posmarca = drd.GetOrdinal("MARCA");
                             int posmodelo = drd.GetOrdinal("MODELO");
-                            int posaño = drd.GetOrdinal("AÑO");
+                            int posaño = drd.GetOrdinal("ANIO");
                             int posprecio = drd.GetOrdinal("PRECIO");
                             int posestado = drd.GetOrdinal("ESTADO");
                             int posimagen = drd.GetOrdinal("IMAGEN");
@@ -61,7 +61,6 @@ namespace capaDatos
                     Lista = null;
                 }
             }
-            Console.WriteLine("✅ Vehículos obtenidos: " + (Lista != null ? Lista.Count.ToString() : "null"));
             return Lista;
         }
     }

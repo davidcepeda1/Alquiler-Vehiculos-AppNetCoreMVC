@@ -32,22 +32,26 @@ namespace capaDatos
                             EmpleadosCLS oEmpleadosCLS;
                             Lista = new List<EmpleadosCLS>();
 
-                            int posidEmpleado = drd.GetOrdinal("ID");
+                            int posidEmpleado = drd.GetOrdinal("EMPLEADO_ID");
+                            int posidUsuario = drd.GetOrdinal("USUARIO_ID");
+                            int posnombreUsuario = drd.GetOrdinal("NOMBRE_USUARIO");
+                            int posemailEm = drd.GetOrdinal("EMAIL");
                             int posnombreEm = drd.GetOrdinal("NOMBRE");
                             int posapellidoEm = drd.GetOrdinal("APELLIDO");
                             int poscargoEm = drd.GetOrdinal("CARGO");
                             int postelefonoEm = drd.GetOrdinal("TELEFONO");
-                            int posemailEm = drd.GetOrdinal("EMAIL");
 
                             while (drd.Read())
                             {
                                 oEmpleadosCLS = new EmpleadosCLS();
                                 oEmpleadosCLS.idEmpleado = drd.IsDBNull(posidEmpleado) ? 0 : drd.GetInt32(0);
-                                oEmpleadosCLS.nombre = drd.IsDBNull(posnombreEm) ? " " : drd.GetString(1);
-                                oEmpleadosCLS.apellido = drd.IsDBNull(posapellidoEm) ? " " : drd.GetString(2);
-                                oEmpleadosCLS.cargo = drd.IsDBNull(poscargoEm) ? " " : drd.GetString(3);
-                                oEmpleadosCLS.telefono = drd.IsDBNull(postelefonoEm) ? " " : drd.GetString(4);
-                                oEmpleadosCLS.email = drd.IsDBNull(posemailEm) ? " " : drd.GetString(5);
+                                oEmpleadosCLS.idUsuario = drd.IsDBNull(posidUsuario) ? 0 : drd.GetInt32(1);
+                                oEmpleadosCLS.nombreUsuario = drd.IsDBNull(posnombreUsuario) ? " " : drd.GetString(2);
+                                oEmpleadosCLS.email = drd.IsDBNull(posemailEm) ? " " : drd.GetString(3);
+                                oEmpleadosCLS.nombre = drd.IsDBNull(posnombreEm) ? " " : drd.GetString(4);
+                                oEmpleadosCLS.apellido = drd.IsDBNull(posapellidoEm) ? " " : drd.GetString(5);
+                                oEmpleadosCLS.cargo = drd.IsDBNull(poscargoEm) ? " " : drd.GetString(6);
+                                oEmpleadosCLS.telefono = drd.IsDBNull(postelefonoEm) ? " " : drd.GetString(7);
 
                                 Lista.Add(oEmpleadosCLS);
                             }

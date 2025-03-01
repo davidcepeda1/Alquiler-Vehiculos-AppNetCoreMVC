@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaEntidad\\capaEntidad.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj",
       "projectName": "capaEntidad",
-      "projectPath": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaEntidad\\capaEntidad.csproj",
+      "projectPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaEntidad\\obj\\",
+      "outputPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

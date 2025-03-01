@@ -180,3 +180,26 @@ function generarTabla(res) {
 
     return contenido;
 }
+
+function generarSliderVehiculos(res) {
+    let slider = '<div class="swiper vehicles-slider">';
+    slider += '<div class="swiper-wrapper">';
+
+    res.forEach(vehiculo => {
+        slider += '<div class="swiper-slide box">';
+        slider += `<h3>${vehiculo.marca} ${vehiculo.modelo}</h3>`;
+        slider += '<div class="content">';
+        slider += `<img src="${vehiculo.imagen}" alt="${vehiculo.marca} ${vehiculo.modelo}">`;
+        slider += `<div class="price"> <span>Precio : </span> $${vehiculo.precio}</div>`;
+        slider += `<p>Año: ${vehiculo.año}</p>`;
+        slider += `<p>Estado: ${vehiculo.estado}</p>`;
+        slider += '<button class="btn">Rentar Ahora</button>';
+        slider += '</div>';
+        slider += '</div>';
+    });
+    slider += '</div>';
+    slider += '<div class="swiper-pagination"></div>';
+    slider += '</div>';
+
+    document.getElementById("vehicles").innerHTML = slider;
+}

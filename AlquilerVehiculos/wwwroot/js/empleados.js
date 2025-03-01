@@ -7,8 +7,8 @@ let objEmpleados;
 async function listarEmpleados() {
     objEmpleados = {
         url: "Empleados/listarEmpleados",
-        cabeceras: ["Id", "Nombre", "Apellido", "Cargo", "Telefono", "Email"],
-        propiedades: ["idEmpleado", "nombre", "apellido", "cargo", "telefono", "email"]
+        cabeceras: ["ID Empleado", "ID Usuario", "Nombre Usuario", "Email", "Nombre", "Apellido", "Cargo", "Telefono"],
+        propiedades: ["idEmpleado", "idUsuario", "nombreUsuario", "email", "nombre", "apellido", "cargo", "telefono"]
     }
     pintar(objEmpleados);
 }

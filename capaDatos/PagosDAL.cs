@@ -32,9 +32,13 @@ namespace capaDatos
                             PagosCLS oPagosCLS;
                             Lista = new List<PagosCLS>();
 
-                            int posidPago = drd.GetOrdinal("ID");
+                            int posidPago = drd.GetOrdinal("PAGO_ID");
                             int posidReserva = drd.GetOrdinal("RESERVA_ID");
+                            int posidCliente = drd.GetOrdinal("CLIENTE_ID");
+                            int posclienteNombre = drd.GetOrdinal("CLIENTE_NOMBRE");
+                            int posclienteApellido = drd.GetOrdinal("CLIENTE_APELLIDO");
                             int posmontoP = drd.GetOrdinal("MONTO");
+                            int posmetodoPagoId = drd.GetOrdinal("METODO_PAGO_ID");
                             int posmetodoPago = drd.GetOrdinal("METODO_PAGO");
                             int posfechaPago = drd.GetOrdinal("FECHA_PAGO");
 
@@ -43,9 +47,13 @@ namespace capaDatos
                                 oPagosCLS = new PagosCLS();
                                 oPagosCLS.idPago = drd.IsDBNull(posidPago) ? 0 : drd.GetInt32(0);
                                 oPagosCLS.idReserva = drd.IsDBNull(posidReserva) ? 0 : drd.GetInt32(1);
-                                oPagosCLS.monto = drd.IsDBNull(posmontoP) ? 0 : drd.GetDecimal(2);
-                                oPagosCLS.metodoPago = drd.IsDBNull(posmetodoPago) ? " " : drd.GetString(3);
-                                oPagosCLS.fechaPago = drd.IsDBNull(posfechaPago) ? DateTime.Now : drd.GetDateTime(4);
+                                oPagosCLS.idCliente = drd.IsDBNull(posidCliente) ? 0 : drd.GetInt32(2);
+                                oPagosCLS.clienteNombre = drd.IsDBNull(posclienteNombre) ? " " : drd.GetString(3);
+                                oPagosCLS.clienteApellido = drd.IsDBNull(posclienteApellido) ? " " : drd.GetString(4);
+                                oPagosCLS.monto = drd.IsDBNull(posmontoP) ? 0 : drd.GetDecimal(5);
+                                oPagosCLS.idMetodoPago = drd.IsDBNull(posmetodoPagoId) ? 0 : drd.GetInt32(6);
+                                oPagosCLS.metodoPago = drd.IsDBNull(posmetodoPago) ? " " : drd.GetString(7);
+                                oPagosCLS.fechaPago = drd.IsDBNull(posfechaPago) ? DateTime.Now : drd.GetDateTime(8);
                                 Lista.Add(oPagosCLS);
                             }
                         }

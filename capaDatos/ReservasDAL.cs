@@ -32,22 +32,32 @@ namespace capaDatos
                             ReservasCLS oReservasCLS;
                             Lista = new List<ReservasCLS>();
 
-                            int posidReserva = drd.GetOrdinal("ID");
+                            int posidReserva = drd.GetOrdinal("RESERVA_ID");
                             int posidCliente = drd.GetOrdinal("CLIENTE_ID");
+                            int posclienteNombre = drd.GetOrdinal("CLIENTE_NOMBRE");
+                            int posclienteApellido = drd.GetOrdinal("CLIENTE_APELLIDO");
                             int posidVehiculo = drd.GetOrdinal("VEHICULO_ID");
+                            int posvehiculoMarca = drd.GetOrdinal("VEHICULO_MARCA");
+                            int posvehiculoModelo = drd.GetOrdinal("VEHICULO_MODELO");
+                            int posvehiculoAño = drd.GetOrdinal("VEHICULO_AÑO");
                             int posfechaInicio = drd.GetOrdinal("FECHA_INICIO");
                             int posfechaFin = drd.GetOrdinal("FECHA_FIN");
-                            int posestadoR = drd.GetOrdinal("ESTADO");
+                            int posestado = drd.GetOrdinal("ESTADO");
 
                             while (drd.Read())
                             {
                                 oReservasCLS = new ReservasCLS();
                                 oReservasCLS.idReserva = drd.IsDBNull(posidReserva) ? 0 : drd.GetInt32(0);
                                 oReservasCLS.idCliente = drd.IsDBNull(posidCliente) ? 0 : drd.GetInt32(1);
-                                oReservasCLS.idVehiculo = drd.IsDBNull(posidVehiculo) ? 0 : drd.GetInt32(2);
-                                oReservasCLS.fechaInicio = drd.IsDBNull(posfechaInicio) ? DateTime.Now : drd.GetDateTime(3);
-                                oReservasCLS.fechaFin = drd.IsDBNull(posfechaFin) ? DateTime.Now : drd.GetDateTime(4);
-                                oReservasCLS.estado = drd.IsDBNull(posestadoR) ? " " : drd.GetString(5);
+                                oReservasCLS.clienteNombre = drd.IsDBNull(posclienteNombre) ? " " : drd.GetString(3);
+                                oReservasCLS.clienteApellido = drd.IsDBNull(posclienteApellido) ? " " : drd.GetString(4);
+                                oReservasCLS.idVehiculo = drd.IsDBNull(posidVehiculo) ? 0 : drd.GetInt32(5);
+                                oReservasCLS.vehiculoMarca = drd.IsDBNull(posvehiculoMarca) ? " " : drd.GetString(6);
+                                oReservasCLS.vehiculoModelo = drd.IsDBNull(posvehiculoModelo) ? " " : drd.GetString(7);
+                                oReservasCLS.vehiculoAño = drd.IsDBNull(posvehiculoAño) ? 0 : drd.GetInt32(8);
+                                oReservasCLS.fechaInicio = drd.IsDBNull(posfechaInicio) ? DateTime.Now : drd.GetDateTime(9);
+                                oReservasCLS.fechaFin = drd.IsDBNull(posfechaFin) ? DateTime.Now : drd.GetDateTime(10);
+                                oReservasCLS.estado = drd.IsDBNull(posestado) ? " " : drd.GetString(11);
                                 Lista.Add(oReservasCLS);
                             }
                         }

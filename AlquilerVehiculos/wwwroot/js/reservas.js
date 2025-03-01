@@ -7,8 +7,8 @@ let objReservas;
 async function listarReservas() {
     objReservas = {
         url: "Reservas/listarReservas",
-        cabeceras: ["Id", "Id Cliente", "Id Vehiculo", "Fecha Inicial", "Fecha Final", "Estado"],
-        propiedades: ["idReserva", "idCliente", "idVehiculo", "fechaInicio", "fechaFin", "estado"]
+        cabeceras: ["ID Reserva", "ID Cliente", "Nombre", "Apellido", "Id Vehiculo", "Vehiculo Marca", "Vehiculo Modelo", "Vehiculo Año", "Fecha Inicial", "Fecha Final", "Estado"],
+        propiedades: ["idReserva", "idCliente", "clienteNombre", "clienteApellido", "idVehiculo", "vehiculoMarca", "vehiculoModelo", "vehiculoAño", "fechaInicio", "fechaFin", "estado"]
     }
     pintar(objReservas);
 }

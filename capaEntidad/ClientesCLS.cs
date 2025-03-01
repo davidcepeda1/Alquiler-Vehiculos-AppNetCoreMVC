@@ -9,10 +9,13 @@ namespace capaEntidad
     public class ClientesCLS
     {
         public int idCliente { get; set; }
+        public int idUsuario { get; set; }
+        public string nombreUsuario { get; set; }
+        public string email { get; set; }
         public string nombre { get; set; }
         public string apellido { get; set; }
         public string telefono { get; set; }
-        public string email { get; set; }
+        
 
     }
 }

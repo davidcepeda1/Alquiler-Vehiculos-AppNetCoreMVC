@@ -7,8 +7,8 @@ let objSeguros;
 async function listarSeguros() {
     objSeguros = {
         url: "Seguros/listarSeguros",
-        cabeceras: ["Id", "Id Reserva", "Tipo Seguro", "Costo"],
-        propiedades: ["idSeguro", "idReserva", "tipoSeguro", "costo"]
+        cabeceras: ["ID", "ID Reserva", "ID Cliente", "Nombre", "Apellido", "ID Tipo Seguro", "Tipo Seguro", "Descripcion Seguro", "Costo", "Fecha Contratacion"],
+        propiedades: ["idSeguro", "idReserva", "idCliente", "clienteNombre", "clienteApellido", "idTipoSeguro", "tipoSeguro", "descripcionSeguro", "costo", "fechaContratacion"]
     }
     pintar(objSeguros);
 }

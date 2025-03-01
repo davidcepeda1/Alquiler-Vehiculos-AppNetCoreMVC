@@ -7,8 +7,8 @@ let objPagos;
 async function listarPagos() {
     objPagos = {
         url: "Pagos/listarPagos",
-        cabeceras: ["Id", "Id Reserva", "Monto", "Metodo de Pago", "Fecha de Pago"],
-        propiedades: ["idPago", "idReserva", "monto", "metodoPago", "fechaPago"]
+        cabeceras: ["ID Pago", "ID Reserva", "ID Cliente", "Nombre", "Apellido", "Monto", "ID Metodo de Pago", "Metodo de Pago", "Fecha de Pago"],
+        propiedades: ["idPago","idReserva", "idCliente", "clienteNombre", "clienteApellido", "monto", "idMetodoPago", "metodoPago", "fechaPago"]
     }
     pintar(objPagos);
 }
