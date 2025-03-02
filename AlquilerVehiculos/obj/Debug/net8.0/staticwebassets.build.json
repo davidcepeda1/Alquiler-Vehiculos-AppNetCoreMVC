@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+lqJ3Rw9WEZ2jjXI2jrd1JAo18oJHhuTW0bhPrCS/Yc=",
+  "Hash": "/Bf0/yXjpUCI7FPaIzEXS8g0XUfvh7wnhMJaNIlUZiw=",
   "Source": "AlquilerVehiculos",
   "BasePath": "_content/AlquilerVehiculos",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yn6mo9mhhi",
-      "Integrity": "wrjyAJJjdRunZeHMV7mrclVQvY2SNbakgFG8Dq5nFXc=",
+      "Fingerprint": "fhgyawj2u4",
+      "Integrity": "8wHG/P/ZVakClmOSfq9Q5X+2ZCaac/0n2oOnij9jjQI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "75ejpwrdm2",
-      "Integrity": "pQgfDkGsMb2NRWSksfCv5JtYiXxndeedVAyWiqrvK8g=",
+      "Fingerprint": "tgmkgeuf2u",
+      "Integrity": "Q6mushtY99WfUb3kec9UyQRP7i01kmRjALPoZyaJDH8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\clientes.js"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "db3w8fomi9",
-      "Integrity": "N4OD0FGJ/+DLHQiW2w5j5rFQYAAs2mvj8umdh/DuPzg=",
+      "Fingerprint": "qf180180d6",
+      "Integrity": "Rt39qnozQfw6CZvt7N/vbJqlnOksFzgiLHu8jVWrxFk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\empleados.js"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m8k6wz2hdk",
-      "Integrity": "9pcKVawRGeRs+yn3OyhWr8tFPtL0i6X44w9ez79p+AI=",
+      "Fingerprint": "aba4hftsbo",
+      "Integrity": "ytU63x/eLK7bBzFmtVS4JvglUMPoLDNgD/ix1vjWKqc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\generic.js"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nsq7zfdths",
-      "Integrity": "ZzKIFMk8Na9rMamLXBgyrO0n8kuO8TNEfrODgx6csOU=",
+      "Fingerprint": "xs5swd4kxq",
+      "Integrity": "nz8LIdrhLW2qMah8ME46+sJew9Rd29gr+thWjG/hs1M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\pagos.js"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1m1rchj8wr",
-      "Integrity": "6eAHV5pZw/gSOzrq22r44agL9yeN/9x/oSBHKvwso/4=",
+      "Fingerprint": "jtsb82jsbg",
+      "Integrity": "WRmNyXY5XNWTH3ClnevrCptrbyNpO7llkyANW8MAh4k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\reservas.js"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "slomjumf9m",
-      "Integrity": "8I53BGqimkTQ4kCbm19fdEyl2C3bmo/ZHNRGC4wg8wY=",
+      "Fingerprint": "0aghdmkp9o",
+      "Integrity": "qDGOs6cVi8IJ1vgC2Wepj0MTWycQvpWxG3G9r3UqlIQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\seguros.js"
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zxwkfrvbbn",
-      "Integrity": "ObG6OfE5vJLYlSAACSrdF+ZQq/10SFiIIv3YSINyUXo=",
+      "Fingerprint": "oa6nizjn45",
+      "Integrity": "YNIP3agy6fSKG6/MwBT0bOOpIDAG55xY/E24EjG1KZI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\vehiculos.js"
@@ -1642,7 +1642,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15475"
+          "Value": "16173"
         },
         {
           "Name": "Content-Type",
@@ -1650,11 +1650,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wrjyAJJjdRunZeHMV7mrclVQvY2SNbakgFG8Dq5nFXc=\""
+          "Value": "\"8wHG/P/ZVakClmOSfq9Q5X+2ZCaac/0n2oOnij9jjQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 06:45:55 GMT"
+          "Value": "Sun, 02 Mar 2025 15:11:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1664,12 +1664,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wrjyAJJjdRunZeHMV7mrclVQvY2SNbakgFG8Dq5nFXc="
+          "Value": "sha256-8wHG/P/ZVakClmOSfq9Q5X+2ZCaac/0n2oOnij9jjQI="
         }
       ]
     },
     {
-      "Route": "css/site.yn6mo9mhhi.css",
+      "Route": "css/site.fhgyawj2u4.css",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1679,7 +1679,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15475"
+          "Value": "16173"
         },
         {
           "Name": "Content-Type",
@@ -1687,11 +1687,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wrjyAJJjdRunZeHMV7mrclVQvY2SNbakgFG8Dq5nFXc=\""
+          "Value": "\"8wHG/P/ZVakClmOSfq9Q5X+2ZCaac/0n2oOnij9jjQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 06:45:55 GMT"
+          "Value": "Sun, 02 Mar 2025 15:11:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1701,7 +1701,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yn6mo9mhhi"
+          "Value": "fhgyawj2u4"
         },
         {
           "Name": "label",
@@ -1709,7 +1709,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wrjyAJJjdRunZeHMV7mrclVQvY2SNbakgFG8Dq5nFXc="
+          "Value": "sha256-8wHG/P/ZVakClmOSfq9Q5X+2ZCaac/0n2oOnij9jjQI="
         }
       ]
     },
@@ -1796,51 +1796,6 @@
       ]
     },
     {
-      "Route": "js/clientes.75ejpwrdm2.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "421"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pQgfDkGsMb2NRWSksfCv5JtYiXxndeedVAyWiqrvK8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:07:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "75ejpwrdm2"
-        },
-        {
-          "Name": "label",
-          "Value": "js/clientes.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pQgfDkGsMb2NRWSksfCv5JtYiXxndeedVAyWiqrvK8g="
-        }
-      ]
-    },
-    {
       "Route": "js/clientes.js",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
       "Selectors": [],
@@ -1851,7 +1806,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "421"
+          "Value": "467"
         },
         {
           "Name": "Content-Type",
@@ -1859,11 +1814,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pQgfDkGsMb2NRWSksfCv5JtYiXxndeedVAyWiqrvK8g=\""
+          "Value": "\"Q6mushtY99WfUb3kec9UyQRP7i01kmRjALPoZyaJDH8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:07:11 GMT"
+          "Value": "Sun, 02 Mar 2025 00:50:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1873,13 +1828,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pQgfDkGsMb2NRWSksfCv5JtYiXxndeedVAyWiqrvK8g="
+          "Value": "sha256-Q6mushtY99WfUb3kec9UyQRP7i01kmRjALPoZyaJDH8="
         }
       ]
     },
     {
-      "Route": "js/empleados.db3w8fomi9.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\empleados.js",
+      "Route": "js/clientes.tgmkgeuf2u.js",
+      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1888,7 +1843,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "447"
+          "Value": "467"
         },
         {
           "Name": "Content-Type",
@@ -1896,11 +1851,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N4OD0FGJ/+DLHQiW2w5j5rFQYAAs2mvj8umdh/DuPzg=\""
+          "Value": "\"Q6mushtY99WfUb3kec9UyQRP7i01kmRjALPoZyaJDH8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:18:20 GMT"
+          "Value": "Sun, 02 Mar 2025 00:50:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1910,15 +1865,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "db3w8fomi9"
+          "Value": "tgmkgeuf2u"
         },
         {
           "Name": "label",
-          "Value": "js/empleados.js"
+          "Value": "js/clientes.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-N4OD0FGJ/+DLHQiW2w5j5rFQYAAs2mvj8umdh/DuPzg="
+          "Value": "sha256-Q6mushtY99WfUb3kec9UyQRP7i01kmRjALPoZyaJDH8="
         }
       ]
     },
@@ -1933,7 +1888,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "447"
+          "Value": "493"
         },
         {
           "Name": "Content-Type",
@@ -1941,11 +1896,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N4OD0FGJ/+DLHQiW2w5j5rFQYAAs2mvj8umdh/DuPzg=\""
+          "Value": "\"Rt39qnozQfw6CZvt7N/vbJqlnOksFzgiLHu8jVWrxFk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:18:20 GMT"
+          "Value": "Sun, 02 Mar 2025 00:50:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1955,7 +1910,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N4OD0FGJ/+DLHQiW2w5j5rFQYAAs2mvj8umdh/DuPzg="
+          "Value": "sha256-Rt39qnozQfw6CZvt7N/vbJqlnOksFzgiLHu8jVWrxFk="
+        }
+      ]
+    },
+    {
+      "Route": "js/empleados.qf180180d6.js",
+      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\empleados.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rt39qnozQfw6CZvt7N/vbJqlnOksFzgiLHu8jVWrxFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 00:50:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qf180180d6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/empleados.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rt39qnozQfw6CZvt7N/vbJqlnOksFzgiLHu8jVWrxFk="
+        }
+      ]
+    },
+    {
+      "Route": "js/generic.aba4hftsbo.js",
+      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ytU63x/eLK7bBzFmtVS4JvglUMPoLDNgD/ix1vjWKqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 05:37:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aba4hftsbo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/generic.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ytU63x/eLK7bBzFmtVS4JvglUMPoLDNgD/ix1vjWKqc="
         }
       ]
     },
@@ -1970,7 +2015,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6998"
+          "Value": "7195"
         },
         {
           "Name": "Content-Type",
@@ -1978,11 +2023,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9pcKVawRGeRs+yn3OyhWr8tFPtL0i6X44w9ez79p+AI=\""
+          "Value": "\"ytU63x/eLK7bBzFmtVS4JvglUMPoLDNgD/ix1vjWKqc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 06:50:23 GMT"
+          "Value": "Sun, 02 Mar 2025 05:37:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1992,52 +2037,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9pcKVawRGeRs+yn3OyhWr8tFPtL0i6X44w9ez79p+AI="
-        }
-      ]
-    },
-    {
-      "Route": "js/generic.m8k6wz2hdk.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6998"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9pcKVawRGeRs+yn3OyhWr8tFPtL0i6X44w9ez79p+AI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 06:50:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m8k6wz2hdk"
-        },
-        {
-          "Name": "label",
-          "Value": "js/generic.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9pcKVawRGeRs+yn3OyhWr8tFPtL0i6X44w9ez79p+AI="
+          "Value": "sha256-ytU63x/eLK7bBzFmtVS4JvglUMPoLDNgD/ix1vjWKqc="
         }
       ]
     },
@@ -2052,7 +2052,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "473"
+          "Value": "520"
         },
         {
           "Name": "Content-Type",
@@ -2060,11 +2060,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZzKIFMk8Na9rMamLXBgyrO0n8kuO8TNEfrODgx6csOU=\""
+          "Value": "\"nz8LIdrhLW2qMah8ME46+sJew9Rd29gr+thWjG/hs1M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:33:20 GMT"
+          "Value": "Sun, 02 Mar 2025 00:50:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2074,12 +2074,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZzKIFMk8Na9rMamLXBgyrO0n8kuO8TNEfrODgx6csOU="
+          "Value": "sha256-nz8LIdrhLW2qMah8ME46+sJew9Rd29gr+thWjG/hs1M="
         }
       ]
     },
     {
-      "Route": "js/pagos.nsq7zfdths.js",
+      "Route": "js/pagos.xs5swd4kxq.js",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\pagos.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2089,7 +2089,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "473"
+          "Value": "520"
         },
         {
           "Name": "Content-Type",
@@ -2097,11 +2097,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZzKIFMk8Na9rMamLXBgyrO0n8kuO8TNEfrODgx6csOU=\""
+          "Value": "\"nz8LIdrhLW2qMah8ME46+sJew9Rd29gr+thWjG/hs1M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 21:33:20 GMT"
+          "Value": "Sun, 02 Mar 2025 00:50:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2111,7 +2111,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nsq7zfdths"
+          "Value": "xs5swd4kxq"
         },
         {
           "Name": "label",
@@ -2119,52 +2119,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZzKIFMk8Na9rMamLXBgyrO0n8kuO8TNEfrODgx6csOU="
-        }
-      ]
-    },
-    {
-      "Route": "js/reservas.1m1rchj8wr.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\reservas.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "570"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6eAHV5pZw/gSOzrq22r44agL9yeN/9x/oSBHKvwso/4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 22:00:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1m1rchj8wr"
-        },
-        {
-          "Name": "label",
-          "Value": "js/reservas.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6eAHV5pZw/gSOzrq22r44agL9yeN/9x/oSBHKvwso/4="
+          "Value": "sha256-nz8LIdrhLW2qMah8ME46+sJew9Rd29gr+thWjG/hs1M="
         }
       ]
     },
@@ -2179,7 +2134,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "570"
+          "Value": "616"
         },
         {
           "Name": "Content-Type",
@@ -2187,11 +2142,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6eAHV5pZw/gSOzrq22r44agL9yeN/9x/oSBHKvwso/4=\""
+          "Value": "\"WRmNyXY5XNWTH3ClnevrCptrbyNpO7llkyANW8MAh4k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 22:00:45 GMT"
+          "Value": "Sun, 02 Mar 2025 00:50:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2201,7 +2156,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6eAHV5pZw/gSOzrq22r44agL9yeN/9x/oSBHKvwso/4="
+          "Value": "sha256-WRmNyXY5XNWTH3ClnevrCptrbyNpO7llkyANW8MAh4k="
+        }
+      ]
+    },
+    {
+      "Route": "js/reservas.jtsb82jsbg.js",
+      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\reservas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WRmNyXY5XNWTH3ClnevrCptrbyNpO7llkyANW8MAh4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 00:50:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtsb82jsbg"
+        },
+        {
+          "Name": "label",
+          "Value": "js/reservas.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WRmNyXY5XNWTH3ClnevrCptrbyNpO7llkyANW8MAh4k="
+        }
+      ]
+    },
+    {
+      "Route": "js/seguros.0aghdmkp9o.js",
+      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDGOs6cVi8IJ1vgC2Wepj0MTWycQvpWxG3G9r3UqlIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 00:50:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0aghdmkp9o"
+        },
+        {
+          "Name": "label",
+          "Value": "js/seguros.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDGOs6cVi8IJ1vgC2Wepj0MTWycQvpWxG3G9r3UqlIQ="
         }
       ]
     },
@@ -2216,7 +2261,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "535"
+          "Value": "581"
         },
         {
           "Name": "Content-Type",
@@ -2224,11 +2269,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8I53BGqimkTQ4kCbm19fdEyl2C3bmo/ZHNRGC4wg8wY=\""
+          "Value": "\"qDGOs6cVi8IJ1vgC2Wepj0MTWycQvpWxG3G9r3UqlIQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 22:21:12 GMT"
+          "Value": "Sun, 02 Mar 2025 00:50:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2238,52 +2283,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8I53BGqimkTQ4kCbm19fdEyl2C3bmo/ZHNRGC4wg8wY="
-        }
-      ]
-    },
-    {
-      "Route": "js/seguros.slomjumf9m.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "535"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8I53BGqimkTQ4kCbm19fdEyl2C3bmo/ZHNRGC4wg8wY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 22:21:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "slomjumf9m"
-        },
-        {
-          "Name": "label",
-          "Value": "js/seguros.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8I53BGqimkTQ4kCbm19fdEyl2C3bmo/ZHNRGC4wg8wY="
+          "Value": "sha256-qDGOs6cVi8IJ1vgC2Wepj0MTWycQvpWxG3G9r3UqlIQ="
         }
       ]
     },
@@ -2380,7 +2380,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "806"
+          "Value": "1102"
         },
         {
           "Name": "Content-Type",
@@ -2388,11 +2388,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ObG6OfE5vJLYlSAACSrdF+ZQq/10SFiIIv3YSINyUXo=\""
+          "Value": "\"YNIP3agy6fSKG6/MwBT0bOOpIDAG55xY/E24EjG1KZI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 23:49:14 GMT"
+          "Value": "Sun, 02 Mar 2025 05:38:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2402,12 +2402,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ObG6OfE5vJLYlSAACSrdF+ZQq/10SFiIIv3YSINyUXo="
+          "Value": "sha256-YNIP3agy6fSKG6/MwBT0bOOpIDAG55xY/E24EjG1KZI="
         }
       ]
     },
     {
-      "Route": "js/vehiculos.zxwkfrvbbn.js",
+      "Route": "js/vehiculos.oa6nizjn45.js",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2417,7 +2417,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "806"
+          "Value": "1102"
         },
         {
           "Name": "Content-Type",
@@ -2425,11 +2425,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ObG6OfE5vJLYlSAACSrdF+ZQq/10SFiIIv3YSINyUXo=\""
+          "Value": "\"YNIP3agy6fSKG6/MwBT0bOOpIDAG55xY/E24EjG1KZI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 23:49:14 GMT"
+          "Value": "Sun, 02 Mar 2025 05:38:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2439,7 +2439,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zxwkfrvbbn"
+          "Value": "oa6nizjn45"
         },
         {
           "Name": "label",
@@ -2447,7 +2447,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ObG6OfE5vJLYlSAACSrdF+ZQq/10SFiIIv3YSINyUXo="
+          "Value": "sha256-YNIP3agy6fSKG6/MwBT0bOOpIDAG55xY/E24EjG1KZI="
         }
       ]
     },

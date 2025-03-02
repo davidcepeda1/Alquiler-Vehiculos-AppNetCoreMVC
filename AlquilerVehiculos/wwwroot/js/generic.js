@@ -100,6 +100,7 @@ function pintar(objConfiguracion) {
         contenido += "</div>";
 
         document.getElementById("divtabla").innerHTML = contenido;
+        new DataTable("#dataTable")
     })
 }
 
@@ -111,7 +112,7 @@ function generarTabla(res) {
 
     let nombrePropiedades = objConfiguracionGlobal.propiedades;
 
-    contenido = '<table class="table">';
+    contenido = '<table class="table" id="dataTable">';
     contenido += "<thead>"
 
     /* Primera fila de la tabla con los headers */
@@ -161,6 +162,7 @@ function generarTabla(res) {
                 </button>`;
             }
 
+            contenido += " ";
             if (objConfiguracionGlobal.eliminar) {
                 contenido += `<button class="btn btn-danger" type="submit">
                     <i class="icon">
@@ -199,6 +201,8 @@ function generarSliderVehiculos(res) {
     });
     slider += '</div>';
     slider += '<div class="swiper-pagination"></div>';
+    slider += '<div class="swiper-button-next"></div>';
+    slider += '<div class="swiper-button-prev"></div>';
     slider += '</div>';
 
     document.getElementById("vehicles").innerHTML = slider;

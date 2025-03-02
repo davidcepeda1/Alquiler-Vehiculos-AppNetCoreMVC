@@ -11,6 +11,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AlquilerVehiculos.styles.css" asp-append-version="true" />
+    <link href="//cdn.datatables.net/2.2.2/css/dataTables.dataTables.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="//cdn.datatables.net/2.2.2/js/dataTables.min.js"></script>
+
 </head>
 
 <body>
@@ -26,27 +30,25 @@
             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
         </a>
         <a class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Clientes" asp-action="Index">Clientes</a>
-        </a>
-        <a class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Empleados" asp-action="Index">Empleados</a>
-        </a>
-        <a class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Pagos" asp-action="Index">Pagos</a>
-        </a>
-        <a class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Reservas" asp-action="Index">Reservas</a>
-        </a>
-        <a class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Seguros" asp-action="Index">Seguros</a>
-        </a>
-        <a class="nav-item">
             <a class="nav-link text-dark" asp-area="" asp-controller="Vehiculos" asp-action="Index">Vehiculos</a>
         </a>
+            <div class="nav-item dropdown">
+                <a class="nav-link text-dark dropbtn" href="/Seguros">Seguros ▾</a>
+                <ul class="dropdown-content">
+                    <li><a asp-area="" asp-controller="Seguros" asp-action="Basico">Seguro Basico</a></li>
+                    <li><a asp-area="" asp-controller="Seguros" asp-action="Intermedio">Seguro Intermedio</a></li>
+                    <li><a asp-area="" asp-controller="Seguros" asp-action="Premium">Seguro Premium</a></li>
+                </ul>
+            </div>
         <a class="nav-item">
             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </a>
         </nav>
+
+        <div id="login-btn">
+            <button class="btn">Login</button>
+            <i class="far fa-user"></i>
+        </div>
 
     </header>
 
@@ -61,21 +63,21 @@
         <div class="box-container">
             <div class="box">
                 <h3>Sucursales</h3>
-                <a href="#"> <i class="fas fa-map-marker-alt"></i>Sangolqui - Ecuador </a>
+                <a href="https://maps.app.goo.gl/X3iaUb2omEWneXfx7" target="_blank"> <i class="fas fa-map-marker-alt"></i>Sangolqui - Ecuador </a>
             </div>
             <div class="box">
                 <h3>Informacion de Contacto</h3>
-                <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-                <a href="#"> <i class="fas fa-envelope"></i> drivgo@gmail.com </a>
-                <a href="#"> <i class="fas fa-map-marker-alt"></i> ecuador - sangolqui 17707 </a>
+                <a href="https://wa.me/message/5BYYLRCUIQBEB1" target="_blank"> <i class="fas fa-phone"></i> +593 99 097 9587 </a>
+                <a href="mailto:drivgo@gmail.com"> <i class="fas fa-envelope"></i> drivgo@gmail.com </a>
+                <a href="https://maps.app.goo.gl/X3iaUb2omEWneXfx7" target="_blank"> <i class="fas fa-map-marker-alt"></i> Ecuador - Sangolqui 17707 </a>
             </div>
 
             <div class="box">
                 <h3>‎</h3>
-                <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-                <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-                <a href="#"> <i class="fab fa-whatsapp"></i> whatsapp </a>
-                <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+                <a href="https://www.facebook.com/?locale=es_LA" target="_blank"> <i class="fab fa-facebook-f"></i> Facebook </a>
+                <a href="https://x.com/?lang=es" target="_blank"> <i class="fab fa-twitter"></i> Twitter </a>
+                <a href="https://wa.me/message/5BYYLRCUIQBEB1" target="_blank"> <i class="fab fa-whatsapp"></i> Whatsapp </a>
+                <a href="https://www.instagram.com/" target="_blank"> <i class="fab fa-instagram"></i> Instagram </a>
             </div>
 
         </div>

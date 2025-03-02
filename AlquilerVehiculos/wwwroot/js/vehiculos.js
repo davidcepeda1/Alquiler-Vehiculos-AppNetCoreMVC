@@ -1,7 +1,11 @@
 ﻿window.onload = function () {
-    listarVehiculos();
-    listarVehiculosSlider();
-}
+    if (document.getElementById("divtabla")) {
+        listarVehiculos();
+    }
+    if (document.getElementById("vehicles")) {
+        listarVehiculosSlider();
+    }
+};
 
 let objVehiculos;
 
@@ -9,7 +13,9 @@ async function listarVehiculos() {
     objVehiculos = {
         url: "Vehiculos/listarVehiculos",
         cabeceras: ["Id", "Marca", "Modelo", "Año", "Precio", "Estado"],
-        propiedades: ["idVehiculo", "marca", "modelo", "año", "precio", "estado"]
+        propiedades: ["idVehiculo", "marca", "modelo", "año", "precio", "estado"],
+        editar: true,
+        eliminar: true
     }
     pintar(objVehiculos);
 }
@@ -24,6 +30,10 @@ function listarVehiculosSlider() {
             loop: true, 
             autoplay: {
                 delay: 3000,
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
             },
         });
     });
