@@ -1,0 +1,19 @@
+# Archivos de configuracion de Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Archivos de build
+bin/
+obj/
+
+# Archivos de cache
+.vscode/
+.idea/
+
+# Archivos generados por Visual Studio
+*.db
+*.bak
+*.log

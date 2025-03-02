@@ -188,6 +188,7 @@ function login() {
     }
 }
 
+<<<<<<< HEAD
 Swal.fire({
   title: '¡Alerta!',
   text: 'Este es un mensaje de alerta.',
@@ -195,3 +196,5 @@ Swal.fire({
   confirmButtonText: 'OK',
   confirmButtonColor: '#FF5733'  // Cambia el color del botón a naranja
 });
+=======
+>>>>>>> 93744c76ce29b2f98b6047bf292d0f25e99d9155
