@@ -69,6 +69,7 @@ section {
     border-radius: 0.5rem;
     font-weight: 500;
     text-align: center;
+    text-decoration: none;
 }
 
 .btn:hover {
@@ -79,11 +80,11 @@ section {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    position: relative;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    padding: 3rem 9%;
+    padding: 2rem 9%;
     z-index: 1000;
     background: #fff;
 }
@@ -110,8 +111,55 @@ section {
     color: var(--light-yellow) !important;
 }
 
+.dropdown {
+    position: relative;
+}
+
+.dropbtn {
+    cursor: pointer;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    list-style: none;
+    padding: 10px;
+    min-width: 200px;
+    z-index: 100;
+}
+
+.dropdown-content li {
+    padding: 10px;
+}
+
+.dropdown-content li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+.dropdown-content li a:hover {
+    color: var(--light-yellow);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
 #login-btn .btn {
     margin-top: 0;
+}
+
+#login-btn a {
+    text-decoration: none;
+    color: black;
 }
 
 #login-btn i {
@@ -220,7 +268,7 @@ section {
     padding-top: 10rem;
     text-align: center;
     overflow: hidden;
-    margin: 25px auto 0; 
+    margin: 100px auto 0; 
     border-radius: 30px; 
     max-width: 95%;
 }
