@@ -3,32 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\views\\seguros\\basico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\seguros\\basico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\views\\seguros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\seguros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\views\\seguros\\intermedio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\seguros\\intermedio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\views\\seguros\\premium.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\seguros\\premium.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\wwwroot\\js\\seguros.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\js\\seguros.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\wwwroot\\css\\singup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\css\\singup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\wwwroot\\js\\singup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\js\\singup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\views\\iniciosesion\\iniciosesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\iniciosesion\\iniciosesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\wwwroot\\css\\singup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\css\\singup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\controllers\\iniciosesioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\views\\vehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\vehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\views\\seguros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:views\\seguros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\wwwroot\\js\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -57,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\alquilervehiculos\\wwwroot\\js\\seguros.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{16309F38-71E3-4853-ACCB-76F680E49CDA}|AlquilerVehiculos.csproj|solutionrelative:wwwroot\\js\\seguros.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F98E49A8-CAD1-4914-9699-A2FC623B288F}|..\\capaDatos\\capaDatos.csproj|c:\\users\\david\\documents\\alquiler-vehiculos-appnetcoremvc\\capadatos\\reservasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -173,11 +193,11 @@
         },
         {
           "DockedWidth": 330,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "empleados.js",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\empleados.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\empleados.js",
@@ -190,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -199,12 +219,11 @@
               "ViewState": "AgIAACcAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-25T15:17:05.458Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "generic.js",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\generic.js",
@@ -213,18 +232,17 @@
               "ViewState": "AgIAACIAAAAAAAAAAAAkwMwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-02T00:44:40.151Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Seguros\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Seguros\\Index.cshtml",
               "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Seguros\\Index.cshtml",
               "RelativeToolTip": "Views\\Seguros\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-02T05:44:11.026Z",
               "IsPinned": true,
@@ -232,59 +250,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SingUp.css",
-              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\SingUp.css",
-              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
-              "RelativeToolTip": "wwwroot\\css\\SingUp.css",
-              "ViewState": "AgIAANgAAAAAAAAAAAAAAO4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-02T20:19:45.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Vehiculos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Vehiculos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Vehiculos\\Index.cshtml",
-              "RelativeToolTip": "Views\\Vehiculos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Premium.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Seguros\\Premium.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seguros\\Premium.cshtml",
+              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Seguros\\Premium.cshtml",
+              "RelativeToolTip": "Views\\Seguros\\Premium.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T06:26:33.548Z",
+              "WhenOpened": "2025-03-02T22:14:33.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Intermedio.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Seguros\\Intermedio.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seguros\\Intermedio.cshtml",
+              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Seguros\\Intermedio.cshtml",
+              "RelativeToolTip": "Views\\Seguros\\Intermedio.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T22:13:48.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basico.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Seguros\\Basico.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seguros\\Basico.cshtml",
+              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Seguros\\Basico.cshtml",
+              "RelativeToolTip": "Views\\Seguros\\Basico.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T22:13:17.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SegurosController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Controllers\\SegurosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SegurosController.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Controllers\\SegurosController.cs",
+              "RelativeToolTip": "Controllers\\SegurosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:11:11.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "singup.js",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\singup.js",
+              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
+              "RelativeToolTip": "wwwroot\\js\\singup.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-02T21:38:30.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-02T19:51:53.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-24T06:27:02.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -297,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -310,20 +367,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "seguros.js",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\seguros.js",
+              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
+              "RelativeToolTip": "wwwroot\\js\\seguros.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-28T22:17:37.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Vehiculos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Vehiculos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vehiculos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T06:26:33.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "InicioSesion.cshtml",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\InicioSesion\\InicioSesion.cshtml",
               "RelativeDocumentMoniker": "Views\\InicioSesion\\InicioSesion.cshtml",
               "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\InicioSesion\\InicioSesion.cshtml",
               "RelativeToolTip": "Views\\InicioSesion\\InicioSesion.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-02T20:03:15.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "SingUp.css",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\SingUp.css",
+              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
+              "RelativeToolTip": "wwwroot\\css\\SingUp.css",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-02T20:19:45.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "InicioSesionController.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Controllers\\InicioSesionController.cs",
               "RelativeDocumentMoniker": "Controllers\\InicioSesionController.cs",
@@ -331,12 +425,11 @@
               "RelativeToolTip": "Controllers\\InicioSesionController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T20:12:50.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T20:12:50.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "clientes.js",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\clientes.js",
@@ -344,12 +437,11 @@
               "RelativeToolTip": "wwwroot\\js\\clientes.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-02T00:49:58.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T00:49:58.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -357,12 +449,11 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T20:10:32.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T20:10:32.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Views\\Clientes\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
@@ -370,12 +461,11 @@
               "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T20:10:27.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T20:10:27.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "ClientesDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\ClientesDAL.cs",
               "RelativeDocumentMoniker": "..\\capaDatos\\ClientesDAL.cs",
@@ -387,19 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "seguros.js",
-              "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\seguros.js",
-              "ToolTip": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
-              "RelativeToolTip": "wwwroot\\js\\seguros.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-28T22:17:37.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "ReservasDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\ReservasDAL.cs",
               "RelativeDocumentMoniker": "..\\capaDatos\\ReservasDAL.cs",
@@ -411,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "vehiculos.js",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\vehiculos.js",
@@ -423,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "PagosDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\PagosDAL.cs",
               "RelativeDocumentMoniker": "..\\capaDatos\\PagosDAL.cs",
@@ -435,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "pagos.js",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\pagos.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\pagos.js",
@@ -447,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "reservas.js",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\reservas.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\reservas.js",
@@ -459,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "SegurosDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\SegurosDAL.cs",
               "RelativeDocumentMoniker": "..\\capaDatos\\SegurosDAL.cs",
@@ -471,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "VehiculosDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\VehiculosDAL.cs",
               "RelativeDocumentMoniker": "..\\capaDatos\\VehiculosDAL.cs",
@@ -483,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "EmpleadosDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\EmpleadosDAL.cs",
               "RelativeDocumentMoniker": "..\\capaDatos\\EmpleadosDAL.cs",
@@ -495,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "SegurosDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\SegurosDAL.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ProyectoFinalWeb\\capaDatos\\SegurosDAL.cs",
@@ -506,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "VehiculosBL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaNegocio\\VehiculosBL.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ProyectoFinalWeb\\capaNegocio\\VehiculosBL.cs",
@@ -517,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "VehiculosDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\VehiculosDAL.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ProyectoFinalWeb\\capaDatos\\VehiculosDAL.cs",
@@ -528,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "ClientesCLS.cs",
               "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaEntidad\\ClientesCLS.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ProyectoFinalWeb\\capaEntidad\\ClientesCLS.cs",
@@ -539,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "VehiculosCLS.cs",
               "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaEntidad\\VehiculosCLS.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ProyectoFinalWeb\\capaEntidad\\VehiculosCLS.cs",
@@ -550,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "ClientesDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\ClientesDAL.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ProyectoFinalWeb\\capaDatos\\ClientesDAL.cs",
@@ -561,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "EmpleadosDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\EmpleadosDAL.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ProyectoFinalWeb\\capaDatos\\EmpleadosDAL.cs",
@@ -572,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "PagosDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\PagosDAL.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ProyectoFinalWeb\\capaDatos\\PagosDAL.cs",
@@ -583,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "ReservasDAL.cs",
               "DocumentMoniker": "C:\\Users\\David\\Downloads\\ProyectoFinalWeb\\capaDatos\\ReservasDAL.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ProyectoFinalWeb\\capaDatos\\ReservasDAL.cs",
@@ -594,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "VehiculosController.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\Controllers\\VehiculosController.cs",
               "RelativeDocumentMoniker": "Controllers\\VehiculosController.cs",

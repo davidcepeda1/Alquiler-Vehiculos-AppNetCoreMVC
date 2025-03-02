@@ -188,7 +188,6 @@ function login() {
     }
 }
 
-function 
 Swal.fire({
   title: '¡Alerta!',
   text: 'Este es un mensaje de alerta.',

@@ -823,6 +823,51 @@
       ]
     },
     {
+      "Route": "js/singup.5bq39brlnb.js",
+      "AssetFile": "js/singup.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 21:40:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bq39brlnb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0="
+        },
+        {
+          "Name": "label",
+          "Value": "js/singup.js"
+        }
+      ]
+    },
+    {
       "Route": "js/singup.js",
       "AssetFile": "js/singup.js",
       "Selectors": [],
@@ -837,7 +882,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6157"
+          "Value": "6146"
         },
         {
           "Name": "Content-Type",
@@ -845,62 +890,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rPIIz56Qf2CUYXs7n3Y1Iygb4+xPl/NIkUozEqkTL5M=\""
+          "Value": "\"D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 19:41:17 GMT"
+          "Value": "Sun, 02 Mar 2025 21:40:34 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rPIIz56Qf2CUYXs7n3Y1Iygb4+xPl/NIkUozEqkTL5M="
-        }
-      ]
-    },
-    {
-      "Route": "js/singup.seg53282s8.js",
-      "AssetFile": "js/singup.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6157"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rPIIz56Qf2CUYXs7n3Y1Iygb4+xPl/NIkUozEqkTL5M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 19:41:17 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "seg53282s8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rPIIz56Qf2CUYXs7n3Y1Iygb4+xPl/NIkUozEqkTL5M="
-        },
-        {
-          "Name": "label",
-          "Value": "js/singup.js"
+          "Value": "sha256-D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0="
         }
       ]
     },

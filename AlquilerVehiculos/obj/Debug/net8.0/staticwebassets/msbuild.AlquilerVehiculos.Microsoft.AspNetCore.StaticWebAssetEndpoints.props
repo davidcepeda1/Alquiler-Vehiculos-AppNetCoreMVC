@@ -120,17 +120,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lf0abma7so"},{"Name":"integrity","Value":"sha256-T3z\u002BxqlPBQe4poxGBEoZ4gagq5ECnm4MYriFN7AbuxM="},{"Name":"label","Value":"_content/AlquilerVehiculos/js/seguros.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"596"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022T3z\u002BxqlPBQe4poxGBEoZ4gagq5ECnm4MYriFN7AbuxM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 19:40:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlquilerVehiculos/js/singup.5bq39brlnb.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\singup.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5bq39brlnb"},{"Name":"integrity","Value":"sha256-D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0="},{"Name":"label","Value":"_content/AlquilerVehiculos/js/singup.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6146"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 21:40:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AlquilerVehiculos/js/singup.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\singup.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rPIIz56Qf2CUYXs7n3Y1Iygb4\u002BxPl/NIkUozEqkTL5M="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6157"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rPIIz56Qf2CUYXs7n3Y1Iygb4\u002BxPl/NIkUozEqkTL5M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 19:41:17 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/AlquilerVehiculos/js/singup.seg53282s8.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\singup.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"seg53282s8"},{"Name":"integrity","Value":"sha256-rPIIz56Qf2CUYXs7n3Y1Iygb4\u002BxPl/NIkUozEqkTL5M="},{"Name":"label","Value":"_content/AlquilerVehiculos/js/singup.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6157"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rPIIz56Qf2CUYXs7n3Y1Iygb4\u002BxPl/NIkUozEqkTL5M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 19:41:17 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6146"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 21:40:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AlquilerVehiculos/js/site.el3volk8xa.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

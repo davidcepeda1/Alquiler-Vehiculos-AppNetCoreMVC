@@ -56,8 +56,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/David/Documents/Alquiler-Vehiculos-AppNetCoreMVC/AlquilerVehiculos/Views/Seguros/Basico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndXJvc1xCYXNpY28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/David/Documents/Alquiler-Vehiculos-AppNetCoreMVC/AlquilerVehiculos/Views/Seguros/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndXJvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/Documents/Alquiler-Vehiculos-AppNetCoreMVC/AlquilerVehiculos/Views/Seguros/Intermedio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndXJvc1xJbnRlcm1lZGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/David/Documents/Alquiler-Vehiculos-AppNetCoreMVC/AlquilerVehiculos/Views/Seguros/Premium.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndXJvc1xQcmVtaXVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/David/Documents/Alquiler-Vehiculos-AppNetCoreMVC/AlquilerVehiculos/Views/Shared/Error.cshtml]

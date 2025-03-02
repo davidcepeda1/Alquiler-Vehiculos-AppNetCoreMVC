@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lfPMNP/NmfTMPexVeXxm+Pf8z/zVW2JP8Pxw+piR0Kc=",
+  "Hash": "Sxt9A/4iDgL1216Qf9AQdkbZGtavpjRBlCw236TFeSg=",
   "Source": "AlquilerVehiculos",
   "BasePath": "_content/AlquilerVehiculos",
   "Mode": "Default",
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "seg53282s8",
-      "Integrity": "rPIIz56Qf2CUYXs7n3Y1Iygb4+xPl/NIkUozEqkTL5M=",
+      "Fingerprint": "5bq39brlnb",
+      "Integrity": "D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\singup.js"
@@ -2412,6 +2412,51 @@
       ]
     },
     {
+      "Route": "js/singup.5bq39brlnb.js",
+      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 21:40:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bq39brlnb"
+        },
+        {
+          "Name": "label",
+          "Value": "js/singup.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0="
+        }
+      ]
+    },
+    {
       "Route": "js/singup.js",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
       "Selectors": [],
@@ -2422,7 +2467,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6157"
+          "Value": "6146"
         },
         {
           "Name": "Content-Type",
@@ -2430,11 +2475,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rPIIz56Qf2CUYXs7n3Y1Iygb4+xPl/NIkUozEqkTL5M=\""
+          "Value": "\"D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 19:41:17 GMT"
+          "Value": "Sun, 02 Mar 2025 21:40:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2444,52 +2489,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rPIIz56Qf2CUYXs7n3Y1Iygb4+xPl/NIkUozEqkTL5M="
-        }
-      ]
-    },
-    {
-      "Route": "js/singup.seg53282s8.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6157"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rPIIz56Qf2CUYXs7n3Y1Iygb4+xPl/NIkUozEqkTL5M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 19:41:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "seg53282s8"
-        },
-        {
-          "Name": "label",
-          "Value": "js/singup.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rPIIz56Qf2CUYXs7n3Y1Iygb4+xPl/NIkUozEqkTL5M="
+          "Value": "sha256-D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0="
         }
       ]
     },
