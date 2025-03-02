@@ -21,3 +21,15 @@ C:\Users\David\Documents\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\
 C:\Users\David\Documents\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\refint\capaEntidad.dll
 C:\Users\David\Documents\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.pdb
 C:\Users\David\Documents\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\ref\capaEntidad.dll
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\bin\Debug\net8.0\capaEntidad.deps.json
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\bin\Debug\net8.0\capaEntidad.dll
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\bin\Debug\net8.0\capaEntidad.pdb
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.AssemblyInfoInputs.cache
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.AssemblyInfo.cs
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.csproj.CoreCompileInputs.cache
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.sourcelink.json
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.dll
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\refint\capaEntidad.dll
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.pdb
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\ref\capaEntidad.dll
