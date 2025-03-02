@@ -18,6 +18,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AlquilerVehiculos.9dlpslrajh.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\SingUp.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AlquilerVehiculos</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AlquilerVehiculos</BasePath>
+      <RelativePath>css/SingUp.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fbbmxy8sp9</Fingerprint>
+      <Integrity>y+sLVad5/7M9CgDT+ZXyTvlck0iZavwUV8fw2tyqTF8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\SingUp.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))">
       <SourceType>Package</SourceType>
       <SourceId>AlquilerVehiculos</SourceId>
@@ -30,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fhgyawj2u4</Fingerprint>
-      <Integrity>8wHG/P/ZVakClmOSfq9Q5X+2ZCaac/0n2oOnij9jjQI=</Integrity>
+      <Fingerprint>8cr5xb80k7</Fingerprint>
+      <Integrity>qGYfBZWZAPYhi64LQr4a8X3qXkLltcIbJqfkRFIu02A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -66,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>tgmkgeuf2u</Fingerprint>
-      <Integrity>Q6mushtY99WfUb3kec9UyQRP7i01kmRjALPoZyaJDH8=</Integrity>
+      <Fingerprint>id3o6sk5zr</Fingerprint>
+      <Integrity>Fl3IkFns2/NHF7nx4i/IHvaDGhkKcQDykO1+qMQ+qDs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\clientes.js'))</OriginalItemSpec>
@@ -84,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qf180180d6</Fingerprint>
-      <Integrity>Rt39qnozQfw6CZvt7N/vbJqlnOksFzgiLHu8jVWrxFk=</Integrity>
+      <Fingerprint>i2fdn3nw5i</Fingerprint>
+      <Integrity>imAmNBVkx1AgXCecdhbBSqJSd5svmELFEVcZ+YmowLs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\empleados.js'))</OriginalItemSpec>
@@ -120,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xs5swd4kxq</Fingerprint>
-      <Integrity>nz8LIdrhLW2qMah8ME46+sJew9Rd29gr+thWjG/hs1M=</Integrity>
+      <Fingerprint>mt5q0acv8r</Fingerprint>
+      <Integrity>+odPED9XYmJmu2EbdpQOJdF1c9HxracChQV4O/h0kWw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\pagos.js'))</OriginalItemSpec>
@@ -138,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jtsb82jsbg</Fingerprint>
-      <Integrity>WRmNyXY5XNWTH3ClnevrCptrbyNpO7llkyANW8MAh4k=</Integrity>
+      <Fingerprint>7felc2m25n</Fingerprint>
+      <Integrity>vQ/fYCHu/B/hrU0fvlKNufVQdYqyaPWHItgB5ls4Nvc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\reservas.js'))</OriginalItemSpec>
@@ -156,11 +174,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0aghdmkp9o</Fingerprint>
-      <Integrity>qDGOs6cVi8IJ1vgC2Wepj0MTWycQvpWxG3G9r3UqlIQ=</Integrity>
+      <Fingerprint>lf0abma7so</Fingerprint>
+      <Integrity>T3z+xqlPBQe4poxGBEoZ4gagq5ECnm4MYriFN7AbuxM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\seguros.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\singup.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AlquilerVehiculos</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AlquilerVehiculos</BasePath>
+      <RelativePath>js/singup.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>seg53282s8</Fingerprint>
+      <Integrity>rPIIz56Qf2CUYXs7n3Y1Iygb4+xPl/NIkUozEqkTL5M=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\singup.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>
@@ -192,8 +228,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>oa6nizjn45</Fingerprint>
-      <Integrity>YNIP3agy6fSKG6/MwBT0bOOpIDAG55xY/E24EjG1KZI=</Integrity>
+      <Fingerprint>pwzfmdehgj</Fingerprint>
+      <Integrity>ia2aV7H/CK9cBVpzdPCL4dvYpW6opezDb0F6NmPBNY8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vehiculos.js'))</OriginalItemSpec>

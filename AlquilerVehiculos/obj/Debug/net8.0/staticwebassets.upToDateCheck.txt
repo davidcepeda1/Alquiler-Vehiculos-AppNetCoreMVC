@@ -1,3 +1,4 @@
+wwwroot\css\SingUp.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\clientes.js
@@ -6,6 +7,7 @@ wwwroot\js\generic.js
 wwwroot\js\pagos.js
 wwwroot\js\reservas.js
 wwwroot\js\seguros.js
+wwwroot\js\singup.js
 wwwroot\js\site.js
 wwwroot\js\vehiculos.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

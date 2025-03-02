@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\AlquilerVehiculos.9dlpslrajh.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
+      "PackagePath": "staticwebassets\\css\\SingUp.css"
+    },
+    {
       "Id": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -35,6 +39,10 @@
     {
       "Id": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
       "PackagePath": "staticwebassets\\js\\seguros.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
+      "PackagePath": "staticwebassets\\js\\singup.js"
     },
     {
       "Id": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\site.js",
