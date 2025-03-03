@@ -5,6 +5,9 @@
     if (document.getElementById("vehicles")) {
         listarVehiculosSlider();
     }
+    if (document.getElementById("vehicles-container")) {
+        listarVehiculosCard();
+    }
 };
 
 let objVehiculos;
@@ -38,3 +41,15 @@ function listarVehiculosSlider() {
         });
     });
 }
+
+function listarVehiculosCard() {
+    fetch("Vehiculos/listarVehiculos")
+        .then(response => response.json())
+        .then(vehiculos => {
+            if (document.getElementById("vehicles-container")) {
+                generarLista(vehiculos, "vehicles-container", {});
+            }
+        })
+        .catch(error => console.error("Error al obtener vehículos:", error));
+}
+

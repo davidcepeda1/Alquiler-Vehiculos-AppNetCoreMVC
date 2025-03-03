@@ -1056,6 +1056,78 @@ section {
     color: #000000;
 }
 
+.lista-generica {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.tarjeta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1100px;
+    background: #f3f3f3;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tarjeta-imagen img {
+    width: 350px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.tarjeta-detalles {
+    flex: 1;
+    padding: 0 20px;
+}
+
+.tarjeta-detalles h2 {
+    font-size: 24px;
+    color: #004aad;
+}
+
+.detalles{
+    font-size: 15px;
+}
+.tarjeta-precio {
+    text-align: center;
+    background: var(--black);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.tarjeta-precio .precio {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.reservar {
+    background: #002b80;
+    color: white;
+}
+
+.whatsapp {
+    background: #25D366;
+    color: white;
+}
+
+
 footer {
     background: var(--light-yellow);
     padding-bottom: 8rem;

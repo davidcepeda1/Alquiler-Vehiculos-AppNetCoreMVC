@@ -192,7 +192,7 @@ function generarSliderVehiculos(res) {
         slider += `<h3>${vehiculo.marca} ${vehiculo.modelo}</h3>`;
         slider += '<div class="content">';
         slider += `<img src="${vehiculo.imagen}" alt="${vehiculo.marca} ${vehiculo.modelo}">`;
-        slider += `<div class="price"> <span>Precio : </span> $${vehiculo.precio}</div>`;
+        slider += `<p>Precio : $${vehiculo.precio}</p>`;
         slider += `<p>Año: ${vehiculo.año}</p>`;
         slider += `<p>Estado: ${vehiculo.estado}</p>`;
         slider += '<button class="btn">Rentar Ahora</button>';
@@ -206,4 +206,36 @@ function generarSliderVehiculos(res) {
     slider += '</div>';
 
     document.getElementById("vehicles").innerHTML = slider;
+}
+
+function generarLista(data, contenedorId, opciones) {
+    let contenedor = document.getElementById(contenedorId);
+    if (!contenedor) return;
+
+    let listaHTML = '<div class="lista-generica">';
+
+    data.forEach(item => {
+        listaHTML += `
+        <div class="tarjeta">
+            <div class="tarjeta-imagen">
+                <img src="${item.imagen}" alt="${item.marca} ${item.modelo}">
+            </div>
+            <div class="tarjeta-detalles">
+                <h2><span class="marca">${item.marca}</span> ${item.modelo}</h2>
+                <ul class="detalles">
+                    <li><i class="fas fa-calendar"></i> ${item.año}</li>
+                    <li><i class="fas fa-check-circle"></i> ${item.estado}</li>
+                </ul>
+            </div>
+            <div class="tarjeta-precio">
+                <h3>Pago x Día</h3>
+                <p class="precio">$${item.precio}</p>
+                <button class="btn reservar">Reservar</button>
+                <a href="https://wa.me/message/5BYYLRCUIQBEB1" class="btn whatsapp">Whatsapp</a>
+            </div>
+        </div>`;
+    });
+
+    listaHTML += '</div>';
+    contenedor.innerHTML = listaHTML;
 }
