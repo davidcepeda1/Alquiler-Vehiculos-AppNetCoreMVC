@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fbbmxy8sp9</Fingerprint>
-      <Integrity>y+sLVad5/7M9CgDT+ZXyTvlck0iZavwUV8fw2tyqTF8=</Integrity>
+      <Fingerprint>b1otxabk30</Fingerprint>
+      <Integrity>7/eyvhuGykhOet98TOXT4TonDsXKlSjET4hSRgB+2u4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\SingUp.css'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8cr5xb80k7</Fingerprint>
-      <Integrity>qGYfBZWZAPYhi64LQr4a8X3qXkLltcIbJqfkRFIu02A=</Integrity>
+      <Fingerprint>s3yuq5939s</Fingerprint>
+      <Integrity>2BlPosKdhcHILWXKC3hs521z5pj4Ix1OZeFE0Ofa1AI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -192,8 +192,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5bq39brlnb</Fingerprint>
-      <Integrity>D7MMDa3SiYzmXafEWvOn8BLVNCP0XYG8LsMc/kDZLw0=</Integrity>
+      <Fingerprint>v3ok2eg10k</Fingerprint>
+      <Integrity>CzHWQjroFKI+SFkpFwVPIehdIRxTJXlUZ0uWlVE0AVc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\singup.js'))</OriginalItemSpec>

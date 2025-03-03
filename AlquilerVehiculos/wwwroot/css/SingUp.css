@@ -36,18 +36,19 @@ body {
 }
 
 .main {
-    width: 320px;
+    width: 610px;
     background-color: var(--First-color);
     height: 500px;
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 5px 20px 50px #000;
     position: absolute;
-    top: 55%;
+    top: 50%;
     left: 50%;
-    margin: -250px 0 0 -160px;
+    transform: translate(-50%, -50%);
     backdrop-filter: blur(30px);
 }
+
 
 @media screen and (max-width: 320px) {
     .main {
@@ -227,6 +228,14 @@ label[for="chk"] {
 
 .login input {
     border-color: var(--third-color);
+}
+
+.form-row {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 20px;
+    width: 620px;
+    margin-bottom: 10px;
 }
 
 header {

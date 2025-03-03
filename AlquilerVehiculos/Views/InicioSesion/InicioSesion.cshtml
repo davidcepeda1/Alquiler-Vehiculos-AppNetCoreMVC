@@ -14,29 +14,49 @@
 
         <input type="checkbox" id="chk">
         <div class="signup">
-            <label for="chk" class="sig">Sign up</label>
+            <label for="chk" class="sig">Registrarse</label>
+            <div class="form-row">
+                <div class="user-box">
+                    <input type="text" title="Enter name" id="name" required autocomplete="off">
+                    <label id="nameLabel">Nombre</label>
+                    <img src="https://raw.githubusercontent.com/Ahmed-Massoud/Login-and-sign-up-form/main/logo.svg" alt="Logo" class="logo-img" id="nameIcon">
+                </div>
 
-            <div class="user-box">
-                <input type="text" title="Enter Username" id="username" required autocomplete="off">
-
-                <label id="usernameLabel">Username</label>
-
-
-                <img src="https://raw.githubusercontent.com/Ahmed-Massoud/Login-and-sign-up-form/main/logo.svg" alt="Logo" class="logo-img" id="userIcon" />
-
-
-                <i></i>
+                <div class="user-box">
+                    <input type="text" title="Enter last name" id="lastName" required autocomplete="off">
+                    <label id="nameLabel">Apellido</label>
+                    <img src="https://raw.githubusercontent.com/Ahmed-Massoud/Login-and-sign-up-form/main/logo.svg" alt="Logo" class="logo-img" id="lastNameIcon">
+                </div>
             </div>
-            <div class="user-box">
-                <input type="text" title="Enter email" id="email" required autocomplete="off">
-                <label id="emailLabel">Email</label>
-                <img src="https://raw.githubusercontent.com/Ahmed-Massoud/Login-and-sign-up-form/main/logo.svg" alt="Logo" class="logo-img" id="emailIcon">
+
+            <div class="form-row">
+                <div class="user-box">
+                    <input type="text" title="Enter Username" id="username" required autocomplete="off">
+                    <label id="usernameLabel">Nombre de Usuario</label>
+                    <img src="https://raw.githubusercontent.com/Ahmed-Massoud/Login-and-sign-up-form/main/logo.svg" alt="Logo" class="logo-img" id="userIcon">
+                </div>
+
+                <div class="user-box">
+                    <input type="text" title="Enter telephone" id="telephone" required autocomplete="off">
+                    <label id="telephoneLabel">Teléfono</label>
+                    <img src="https://raw.githubusercontent.com/Ahmed-Massoud/Login-and-sign-up-form/main/logo.svg" alt="Logo" class="logo-img" id="telephoneIcon">
+                </div>
             </div>
-            <div class="user-box">
-                <input type="password" title="Enter password" id="password" required autocomplete="off">
-                <label id="passwordLabel">Password</label>
-                <img src="https://raw.githubusercontent.com/Ahmed-Massoud/Login-and-sign-up-form/main/logo.svg" alt="Logo" class="logo-img" id="passIcon">
+
+            <div class="form-row">
+                <div class="user-box">
+                    <input type="text" title="Enter email" id="email" required autocomplete="off">
+                    <label id="emailLabel">Email</label>
+                    <img src="https://raw.githubusercontent.com/Ahmed-Massoud/Login-and-sign-up-form/main/logo.svg" alt="Logo" class="logo-img" id="emailIcon">
+                </div>
+
+                <div class="user-box">
+                    <input type="password" title="Enter password" id="password" required autocomplete="off">
+                    <label id="passwordLabel">Contraseña</label>
+                    <img src="https://raw.githubusercontent.com/Ahmed-Massoud/Login-and-sign-up-form/main/logo.svg" alt="Logo" class="logo-img" id="passIcon">
+                </div>
             </div>
+
 
             <button onclick="check()" id="button" class="btnLogIn">Sign up</button>
 

@@ -100,53 +100,82 @@ function check() {
     let usernameRe = /^[A-Za-z0-9]{5,15}$/;
     let emailRe = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
     let passwordRe = /^[A-Za-z0-9]{7,14}$/;
+    let nameRe = /^[A-Za-zÁÉÍÓÚáéíóúÑñ]{2,20}$/;  
+    let lastNameRe = /^[A-Za-zÁÉÍÓÚáéíóúÑñ]{2,20}$/;
+    let telephoneRe = /^[0-9]{10}$/;
+
     let username = document.getElementById("username");
     let email = document.getElementById("email");
     let password = document.getElementById("password");
+    let name = document.getElementById("name");
+    let lastName = document.getElementById("lastName");
+    let telephone = document.getElementById("telephone");
+
     let button = document.getElementById("button");
     let usernameLabel = document.getElementById("usernameLabel");
     let emailLabel = document.getElementById("emailLabel");
     let passwordLabel = document.getElementById("passwordLabel");
+    let nameLabel = document.getElementById("nameLabel");
+    let lastNameLabel = document.getElementById("lastNameLabel");
+    let telephoneLabel = document.getElementById("telephoneLabel");
+
 
     let passwordCorrect = validation(password, "password", passwordRe);
     let emailCorrect = validation(email, "email", emailRe);
     let usernameCorrect = validation(username, "username", usernameRe);
+    let nameCorrect = validation(name, "name", nameRe);
+    let lastNameCorrect = validation(lastName, "lastName", lastNameRe);
+    let telephoneCorrect = validation(telephone, "telephone", telephoneRe);
+
     console.log(usernameCorrect);
     console.log(emailCorrect);
     console.log(passwordCorrect);
     console.log("###########");
 
-    if (usernameCorrect == true && emailCorrect == true && passwordCorrect == true) {
+    if (usernameCorrect && emailCorrect && passwordCorrect && nameCorrect && lastNameCorrect && telephoneCorrect) {
         let newUser = {
             Username: totxt(username),
             Email: totxt(email),
             Password: totxt(password),
+            Name: totxt(name),
+            LastName: totxt(lastName),
+            Telephone: totxt(telephone),
         };
+
         dataPro.push(newUser);
-        localStorage.setItem("User", JSON.stringify(dataPro))
+        localStorage.setItem("User", JSON.stringify(dataPro));
 
-
+        // Limpiar los campos
         username.value = "";
         email.value = "";
         password.value = "";
+        name.value = "";
+        lastName.value = "";
+        telephone.value = "";
 
         username.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
-
         email.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
-
         password.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
+        name.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
+        lastName.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
+        telephone.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
 
-        Swal.fire("La cuenta se ha creado con éxito", "La cuenta ha sido creada, por favor inicie sesión", "éxito");
+        Swal.fire("La cuenta se ha creado con éxito", "La cuenta ha sido creada, por favor inicie sesión", "success");
 
         let chk = document.getElementById("chk");
         chk.checked = true;
-        console.log("added")
+        console.log("Usuario agregado");
+    } else {
+        Swal.fire("Error en el registro", "Por favor, revise los campos ingresados.", "error");
     }
 }
 
 let userIcon = document.getElementById("userIcon");
 let emailIcon = document.getElementById("emailIcon");
 let passIcon = document.getElementById("passIcon");
+let nameIcon = document.getElementById("nameIcon");
+let lastNameIcon = document.getElementById("lastNameIcon");
+let telephoneIcon = document.getElementById("telephoneIcon");
 
 userIcon.onclick = function () {
 
@@ -160,9 +189,26 @@ emailIcon.onclick = function () {
 }
 passIcon.onclick = function () {
 
-    Swal.fire(`La contraseña no olvidarse y debe
+    Swal.fire(`La contraseña debe:
                 #Contener números y letras
                 #Tener de 7 a 14 caracteres`);
+}
+nameIcon.onclick = function () {
+    Swal.fire(`El nombre debe:
+          # Contener solo letras.
+          # Tener entre 2 y 20 caracteres.`);
+}
+
+lastNameIcon.onclick = function () {
+    Swal.fire(`El apellido debe:
+          # Contener solo letras.
+          # Tener entre 2 y 20 caracteres.`);
+}
+
+telephoneIcon.onclick = function () {
+    Swal.fire(`El teléfono debe:
+          # Contener solo números.
+          # Tener 10 dígitos.`);
 }
 
 function login() {
@@ -175,26 +221,15 @@ function login() {
     for (let i = 0; i < dataPro.length; i++) {
         if (dataPro[i].Username == totxt(username)) {
             if (dataPro[i].Password == totxt(password)) {
-                Swal.fire("Inicio de Secion exitoso", "", "success");
+                Swal.fire("Inicio de Sesion exitoso", "", "success");
             } else {
                 Swal.fire("Contraseña Incorrecta", "Por favor revise su contraseña", "error");
                 break;
             }
         } else {
             if (dataPro.length - i == 1) {
-                Swal.fire("Inicio de Secion fallida", "No podemos encontrar su nombre de Usuario", "error","easdsad");
+                Swal.fire("Inicio de Sesion fallida", "No podemos encontrar su nombre de Usuario", "error","easdsad");
             }
         }
     }
 }
-
-<<<<<<< HEAD
-Swal.fire({
-  title: '¡Alerta!',
-  text: 'Este es un mensaje de alerta.',
-  icon: 'warning',
-  confirmButtonText: 'OK',
-  confirmButtonColor: '#FF5733'  // Cambia el color del botón a naranja
-});
-=======
->>>>>>> 93744c76ce29b2f98b6047bf292d0f25e99d9155
