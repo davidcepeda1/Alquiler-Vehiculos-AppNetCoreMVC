@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XzglQlY/wgTjYVJft2qLBFZzvjrlCLMf5MVoVtfnUBE=",
+  "Hash": "k6iBI+zulvrANGMNHdStDvTRfwj0O/IDUOuoivIvP8k=",
   "Source": "AlquilerVehiculos",
   "BasePath": "_content/AlquilerVehiculos",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerVehiculos.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\AdminStyle.css",
+      "SourceId": "AlquilerVehiculos",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "BasePath": "_content/AlquilerVehiculos",
+      "RelativePath": "css/AdminStyle#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jjki4n7gz7",
+      "Integrity": "gRfLIPALZeacZOqRxYbbNDvGY4zXTzjD1yIrD2Pege0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AdminStyle.css"
     },
     {
       "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
@@ -262,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8285j32hld",
-      "Integrity": "EPcT2poYQDA3kXFl3ZLCUbsfyQ1nbEGweissIes6C6w=",
+      "Fingerprint": "lln1jh7u37",
+      "Integrity": "ufRg6/VkYGIGh1VqCkHW1F1Ip2vo9zwJTTIoc5A5JRk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\singup.js"
@@ -1674,6 +1695,88 @@
       ]
     },
     {
+      "Route": "css/AdminStyle.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\AdminStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gRfLIPALZeacZOqRxYbbNDvGY4zXTzjD1yIrD2Pege0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 21:01:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gRfLIPALZeacZOqRxYbbNDvGY4zXTzjD1yIrD2Pege0="
+        }
+      ]
+    },
+    {
+      "Route": "css/AdminStyle.jjki4n7gz7.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\AdminStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gRfLIPALZeacZOqRxYbbNDvGY4zXTzjD1yIrD2Pege0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 21:01:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jjki4n7gz7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AdminStyle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gRfLIPALZeacZOqRxYbbNDvGY4zXTzjD1yIrD2Pege0="
+        }
+      ]
+    },
+    {
       "Route": "css/SingUp.2bczqprsv9.css",
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
       "Selectors": [],
@@ -2412,51 +2515,6 @@
       ]
     },
     {
-      "Route": "js/singup.8285j32hld.js",
-      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8053"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EPcT2poYQDA3kXFl3ZLCUbsfyQ1nbEGweissIes6C6w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 18:20:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8285j32hld"
-        },
-        {
-          "Name": "label",
-          "Value": "js/singup.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EPcT2poYQDA3kXFl3ZLCUbsfyQ1nbEGweissIes6C6w="
-        }
-      ]
-    },
-    {
       "Route": "js/singup.js",
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
       "Selectors": [],
@@ -2467,7 +2525,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8053"
+          "Value": "8396"
         },
         {
           "Name": "Content-Type",
@@ -2475,11 +2533,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EPcT2poYQDA3kXFl3ZLCUbsfyQ1nbEGweissIes6C6w=\""
+          "Value": "\"ufRg6/VkYGIGh1VqCkHW1F1Ip2vo9zwJTTIoc5A5JRk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 18:20:31 GMT"
+          "Value": "Tue, 04 Mar 2025 20:42:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2489,7 +2547,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EPcT2poYQDA3kXFl3ZLCUbsfyQ1nbEGweissIes6C6w="
+          "Value": "sha256-ufRg6/VkYGIGh1VqCkHW1F1Ip2vo9zwJTTIoc5A5JRk="
+        }
+      ]
+    },
+    {
+      "Route": "js/singup.lln1jh7u37.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ufRg6/VkYGIGh1VqCkHW1F1Ip2vo9zwJTTIoc5A5JRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 20:42:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lln1jh7u37"
+        },
+        {
+          "Name": "label",
+          "Value": "js/singup.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ufRg6/VkYGIGh1VqCkHW1F1Ip2vo9zwJTTIoc5A5JRk="
         }
       ]
     },

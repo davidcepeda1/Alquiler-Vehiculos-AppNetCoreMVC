@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using capaEntidad;
 using System.Text.RegularExpressions;
+using System.ComponentModel.DataAnnotations;
 
 namespace capaDatos
 {
@@ -107,7 +108,7 @@ namespace capaDatos
 
         public int ValidarUsuario(ClientesCLS usuario)
         {
-            int respuesta = 0;
+            int respuesta = -2;
             string cadenaDato = ConexionBD.getCadenaConexion();
 
             using (SqlConnection cn = new SqlConnection(cadenaDato))
@@ -122,14 +123,15 @@ namespace capaDatos
        
                         cmd.Parameters.AddWithValue("@usuario", usuario.nombreUsuario ?? string.Empty);
                         cmd.Parameters.AddWithValue("@contrasena", usuario.contraseña ?? string.Empty);
-
                         cn.Open();
 
                         var resultado = cmd.ExecuteScalar();  // ✅ Aquí recuperas el resultado
-                        if (resultado != null)
+                        
+                        if (resultado != null && resultado != DBNull.Value)
                         {
-                            respuesta = Convert.ToInt32(resultado);
+                            return respuesta = Convert.ToInt32(resultado); // Convierte el valor obtenido de SQL
                         }
+
 
                     }
                 }
@@ -141,7 +143,7 @@ namespace capaDatos
                 }
             }
 
-            return respuesta == 0 ? -1 : respuesta;
+            return respuesta;
         }
     }
 }

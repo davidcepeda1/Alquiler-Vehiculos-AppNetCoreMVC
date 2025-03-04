@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\AlquilerVehiculos.9dlpslrajh.bundle.scp.css"
     },
     {
+      "Id": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\AdminStyle.css",
+      "PackagePath": "staticwebassets\\css\\AdminStyle.css"
+    },
+    {
       "Id": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
       "PackagePath": "staticwebassets\\css\\SingUp.css"
     },

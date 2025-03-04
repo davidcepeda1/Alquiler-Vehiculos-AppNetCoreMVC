@@ -1,0 +1,81 @@
+﻿/* Estilos generales */
+html, body {
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Barra de navegación lateral */
+.sidebar {
+    width: 250px; /* Ancho de la barra lateral */
+    background: #2A2D33; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    height: 100vh; /* Altura completa */
+    position: fixed; /* Fija la barra lateral */
+    top: 0;
+    left: 0;
+    overflow-y: auto; /* Permite el desplazamiento si el contenido es largo */
+}
+
+.navbar {
+    padding: 20px 0;
+}
+
+.nav-item {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    color: #fff; /* Color del texto */
+    text-decoration: none; /* Quita el subrayado */
+    display: block; /* Hace que el enlace ocupe todo el ancho */
+    padding: 10px 20px; /* Espaciado interno */
+    font-size: 1.1em; /* Tamaño de la fuente */
+    transition: background 0.3s ease; /* Transición suave */
+}
+
+    .nav-link:hover {
+        background: #279BE4; /* Color de fondo al pasar el mouse */
+    }
+
+/* Contenido principal */
+.main-content {
+    margin-left: 250px; /* Deja espacio para la barra lateral */
+    flex-grow: 1; /* Ocupa el espacio restante */
+    padding: 20px; /* Espaciado interno */
+    background: #f4f4f4; /* Color de fondo del contenido */
+}
+
+.header {
+    background: #279BE4; /* Color de fondo del header */
+    color: #fff; /* Color del texto */
+    padding: 15px; /* Espaciado interno */
+    margin-bottom: 20px; /* Espaciado inferior */
+    border-radius: 8px; /* Bordes redondeados */
+}
+
+.container {
+    background: #fff; /* Fondo blanco */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Footer */
+.footer {
+    background: #2A2D33; /* Color de fondo del footer */
+    color: #fff; /* Color del texto */
+    text-align: center; /* Centra el texto */
+    padding: 10px 0; /* Espaciado interno */
+    margin-left: 250px; /* Deja espacio para la barra lateral */
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}

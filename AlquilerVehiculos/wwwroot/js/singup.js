@@ -187,14 +187,21 @@ async function ValidarInicioSesion() {
     frm.append("contraseña", contraseñaEncriptada);
 
     // Enviar los datos al servidor para validar el inicio de sesión
-    fetchPost("InicioSesion/Validar", "text",frm, function (res) {
-        if (res != -1) {
+    fetchPost("InicioSesion/Validar", "text", frm, function (res) {
+        console.log(res + "respuesta");
+        if (res >= 0) {
             // Si las credenciales son correctas
             Swal.fire("Bienvenido", "Has iniciado sesión correctamente.", "success").then(() => {
                 // Redirigir al usuario a la página principal
                 window.location.href = "/Home";
             });
-        } else {
+        } else if ( res == -1) {
+            Swal.fire("Bienvenido Administrador", "Has iniciado sesión correctamente.", "success").then(() => {
+                // Redirigir al administrador a su página específica
+                window.location.href = "/Admin/Admin";
+            });
+        }
+        else {
             // Si las credenciales son incorrectas
             Swal.fire("Error", "Usuario o contraseña incorrectos.", "error");
         }
