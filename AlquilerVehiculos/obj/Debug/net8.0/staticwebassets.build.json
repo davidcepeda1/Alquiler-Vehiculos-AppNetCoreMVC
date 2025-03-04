@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "DliLQcdiK4+Y04HyQ438khyf/bnEiknMDuefPGR/Q4g=",
+=======
+  "Hash": "Q5xyIP/BeOJ3fz7bHcDue/1XEQ13eG9c7pdOMK9a4zM=",
+>>>>>>> 47bfd35 (Registro y Validar)
   "Source": "AlquilerVehiculos",
   "BasePath": "_content/AlquilerVehiculos",
   "Mode": "Default",
@@ -10,17 +14,17 @@
     {
       "Name": "AlquilerVehiculos\\wwwroot",
       "Source": "AlquilerVehiculos",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerVehiculos.styles.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerVehiculos.styles.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "AlquilerVehiculos#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +39,13 @@
       "Integrity": "bXj79noDz1taqUKWwpkv2PbfMSPQ2+4xWsZ0RViJFpw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerVehiculos.styles.css"
+      "OriginalItemSpec": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerVehiculos.styles.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerVehiculos.bundle.scp.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerVehiculos.bundle.scp.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "AlquilerVehiculos#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +60,13 @@
       "Integrity": "bXj79noDz1taqUKWwpkv2PbfMSPQ2+4xWsZ0RViJFpw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerVehiculos.bundle.scp.css"
+      "OriginalItemSpec": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerVehiculos.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "css/SingUp#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +84,10 @@
       "OriginalItemSpec": "wwwroot\\css\\SingUp.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\favicon.ico",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\favicon.ico",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -122,10 +126,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "js/clientes#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +147,10 @@
       "OriginalItemSpec": "wwwroot\\js\\clientes.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\empleados.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\empleados.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "js/empleados#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +168,10 @@
       "OriginalItemSpec": "wwwroot\\js\\empleados.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "js/generic#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -178,17 +182,22 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+<<<<<<< HEAD
       "Fingerprint": "bym4mlnyyz",
       "Integrity": "M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE=",
+=======
+      "Fingerprint": "swvgkmi68f",
+      "Integrity": "dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY=",
+>>>>>>> 47bfd35 (Registro y Validar)
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\generic.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\pagos.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\pagos.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "js/pagos#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -206,10 +215,10 @@
       "OriginalItemSpec": "wwwroot\\js\\pagos.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\reservas.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\reservas.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "js/reservas#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -227,10 +236,10 @@
       "OriginalItemSpec": "wwwroot\\js\\reservas.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "js/seguros#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -248,10 +257,10 @@
       "OriginalItemSpec": "wwwroot\\js\\seguros.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "js/singup#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -262,17 +271,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v3ok2eg10k",
-      "Integrity": "CzHWQjroFKI+SFkpFwVPIehdIRxTJXlUZ0uWlVE0AVc=",
+      "Fingerprint": "4y24f56ii0",
+      "Integrity": "7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\singup.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\site.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\site.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -290,10 +299,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "js/vehiculos#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -311,10 +320,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vehiculos.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +341,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +362,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +383,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +446,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +467,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +488,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +509,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +551,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +572,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +593,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +614,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +656,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +698,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +719,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +740,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +761,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +824,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +845,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +866,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -878,10 +887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +908,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -920,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +950,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -962,10 +971,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1004,10 +1013,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1034,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1055,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1097,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1118,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1151,10 +1160,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1181,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1193,10 +1202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1223,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1235,10 +1244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1256,10 +1265,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1286,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1307,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1319,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1340,10 +1349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1370,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1403,10 +1412,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1424,10 +1433,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1445,10 +1454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1487,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AlquilerVehiculos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
+      "ContentRoot": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\",
       "BasePath": "_content/AlquilerVehiculos",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1511,7 +1520,7 @@
   "Endpoints": [
     {
       "Route": "AlquilerVehiculos.9dlpslrajh.bundle.scp.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerVehiculos.bundle.scp.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerVehiculos.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1532,7 +1541,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:47 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 21:52:00 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1556,7 +1569,7 @@
     },
     {
       "Route": "AlquilerVehiculos.9dlpslrajh.styles.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerVehiculos.styles.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerVehiculos.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1577,7 +1590,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:47 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 21:52:00 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1601,7 +1618,7 @@
     },
     {
       "Route": "AlquilerVehiculos.bundle.scp.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerVehiculos.bundle.scp.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlquilerVehiculos.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1622,7 +1639,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:47 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 21:52:00 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1638,7 +1659,7 @@
     },
     {
       "Route": "AlquilerVehiculos.styles.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerVehiculos.styles.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlquilerVehiculos.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1659,7 +1680,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:47 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 21:52:00 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1675,7 +1700,7 @@
     },
     {
       "Route": "css/SingUp.b1otxabk30.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1696,7 +1721,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1720,7 +1749,7 @@
     },
     {
       "Route": "css/SingUp.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1741,7 +1770,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1757,7 +1790,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1778,7 +1811,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 22:45:40 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1793,8 +1830,13 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "css/site.dviem40wyx.css",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
+=======
+      "Route": "css/site.s3yuq5939s.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1815,7 +1857,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 22:45:40 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1839,7 +1885,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1860,7 +1906,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1884,7 +1934,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1905,7 +1955,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1921,7 +1975,7 @@
     },
     {
       "Route": "js/clientes.id3o6sk5zr.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1942,7 +1996,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1966,7 +2024,7 @@
     },
     {
       "Route": "js/clientes.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\clientes.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1987,7 +2045,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2003,7 +2065,7 @@
     },
     {
       "Route": "js/empleados.i2fdn3nw5i.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\empleados.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\empleados.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2024,7 +2086,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2048,7 +2114,7 @@
     },
     {
       "Route": "js/empleados.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\empleados.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\empleados.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2069,7 +2135,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2084,6 +2154,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "js/generic.bym4mlnyyz.js",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
       "Selectors": [],
@@ -2129,8 +2200,10 @@
       ]
     },
     {
+=======
+>>>>>>> 47bfd35 (Registro y Validar)
       "Route": "js/generic.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2139,7 +2212,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "8371"
+=======
+          "Value": "11463"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Content-Type",
@@ -2147,11 +2224,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 03 Mar 2025 22:28:31 GMT"
+=======
+          "Value": "\"dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 05:53:59 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2161,13 +2246,62 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE="
+=======
+          "Value": "sha256-dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY="
+        }
+      ]
+    },
+    {
+      "Route": "js/generic.swvgkmi68f.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 05:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "swvgkmi68f"
+        },
+        {
+          "Name": "label",
+          "Value": "js/generic.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY="
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
     {
       "Route": "js/pagos.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\pagos.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\pagos.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2188,7 +2322,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2204,7 +2342,7 @@
     },
     {
       "Route": "js/pagos.mt5q0acv8r.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\pagos.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\pagos.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2225,7 +2363,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2249,7 +2391,7 @@
     },
     {
       "Route": "js/reservas.7felc2m25n.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\reservas.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\reservas.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2270,7 +2412,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2294,7 +2440,7 @@
     },
     {
       "Route": "js/reservas.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\reservas.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\reservas.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2315,7 +2461,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2331,7 +2481,7 @@
     },
     {
       "Route": "js/seguros.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2352,7 +2502,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2368,7 +2522,7 @@
     },
     {
       "Route": "js/seguros.lf0abma7so.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\seguros.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2389,7 +2543,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2412,8 +2570,8 @@
       ]
     },
     {
-      "Route": "js/singup.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
+      "Route": "js/singup.4y24f56ii0.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2422,7 +2580,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7959"
+          "Value": "7415"
         },
         {
           "Name": "Content-Type",
@@ -2430,10 +2588,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CzHWQjroFKI+SFkpFwVPIehdIRxTJXlUZ0uWlVE0AVc=\""
+          "Value": "\"7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs=\""
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
         },
         {
@@ -2472,6 +2631,9 @@
         {
           "Name": "Last-Modified",
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Tue, 04 Mar 2025 06:10:12 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2481,7 +2643,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v3ok2eg10k"
+          "Value": "4y24f56ii0"
         },
         {
           "Name": "label",
@@ -2489,13 +2651,50 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CzHWQjroFKI+SFkpFwVPIehdIRxTJXlUZ0uWlVE0AVc="
+          "Value": "sha256-7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs="
+        }
+      ]
+    },
+    {
+      "Route": "js/singup.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 06:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs="
         }
       ]
     },
     {
       "Route": "js/site.el3volk8xa.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2516,7 +2715,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2540,7 +2743,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2561,7 +2764,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2622,7 +2829,7 @@
     },
     {
       "Route": "js/vehiculos.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2643,7 +2850,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 22:04:13 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2653,13 +2864,62 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-lWxsS3BITVTveEqeZnu7Xs0Honk88Et8UZC2ttJxwLU="
+=======
+          "Value": "sha256-ia2aV7H/CK9cBVpzdPCL4dvYpW6opezDb0F6NmPBNY8="
+        }
+      ]
+    },
+    {
+      "Route": "js/vehiculos.pwzfmdehgj.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ia2aV7H/CK9cBVpzdPCL4dvYpW6opezDb0F6NmPBNY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pwzfmdehgj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/vehiculos.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ia2aV7H/CK9cBVpzdPCL4dvYpW6opezDb0F6NmPBNY8="
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2680,7 +2940,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2696,7 +2960,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2717,7 +2981,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2741,7 +3009,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2762,7 +3030,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2778,7 +3050,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2799,7 +3075,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +3103,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2844,7 +3124,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2860,7 +3144,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2881,7 +3165,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2905,7 +3193,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2926,7 +3214,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2942,7 +3234,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2963,7 +3259,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2987,7 +3287,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3008,7 +3308,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3024,7 +3328,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3045,7 +3349,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3069,7 +3377,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3090,7 +3398,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3106,7 +3418,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3127,7 +3443,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3138,6 +3458,7 @@
         {
           "Name": "fingerprint",
           "Value": "gjcw7pocpk"
+<<<<<<< HEAD
         },
         {
           "Name": "label",
@@ -3183,20 +3504,26 @@
         {
           "Name": "fingerprint",
           "Value": "6l4ir0ityv"
+=======
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8="
+=======
+          "Value": "sha256-hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg="
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3217,7 +3544,56 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6l4ir0ityv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3233,7 +3609,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3254,7 +3630,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3278,7 +3658,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3299,7 +3679,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3315,7 +3699,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3336,7 +3720,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3352,7 +3740,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3373,7 +3761,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3389,7 +3781,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3410,7 +3802,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3434,6 +3830,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3480,6 +3877,9 @@
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3500,7 +3900,56 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5p029spbuu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-96ayIUEnpKr7n5BIsFK5vJ3qXMXFgvRl9/CBcHs6/Ts="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96ayIUEnpKr7n5BIsFK5vJ3qXMXFgvRl9/CBcHs6/Ts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3516,7 +3965,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3537,7 +3986,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3561,7 +4014,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3582,7 +4035,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3598,7 +4055,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3619,7 +4080,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3643,7 +4108,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3664,7 +4129,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3680,7 +4149,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3701,7 +4170,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3725,7 +4198,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3746,7 +4219,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3762,6 +4239,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3808,6 +4286,65 @@
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+>>>>>>> 47bfd35 (Registro y Validar)
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "51400"
+=======
+          "Value": "75607"
+>>>>>>> 47bfd35 (Registro y Validar)
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"9eX2dpELXvYs+6il2MHwf5OOPVOZjxVK1b1GWgL0B0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "\"+ugQREUkP4Wnp1VX2L2lvw0Q2mgKYvYAZr1c2or+ysM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e6q6xbwqzk"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ugQREUkP4Wnp1VX2L2lvw0Q2mgKYvYAZr1c2or+ysM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3828,7 +4365,8 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3844,7 +4382,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3865,7 +4403,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3881,7 +4423,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3902,7 +4444,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3926,7 +4472,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3947,7 +4497,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3971,7 +4525,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3992,7 +4546,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4008,7 +4566,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4029,7 +4587,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4053,7 +4615,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4074,7 +4636,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4090,7 +4656,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4111,7 +4677,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4127,7 +4697,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4148,7 +4718,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4164,7 +4738,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4185,7 +4759,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4209,7 +4787,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4230,7 +4812,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4254,6 +4840,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4300,6 +4887,74 @@
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+>>>>>>> 47bfd35 (Registro y Validar)
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "6250"
+=======
+          "Value": "6276"
+>>>>>>> 47bfd35 (Registro y Validar)
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"G0PQCDL7ETO6rITRlBIHDKvvSuJFn5p6h+WmbPX5xr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "\"Jtl65EICD4ds6dQZbx1ongvMXj8D127HCg5XRBXXYGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "97yrjpyf9r"
+=======
+          "Value": "mk8rdyw69w"
+>>>>>>> 47bfd35 (Registro y Validar)
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
+        },
+        {
+          "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-G0PQCDL7ETO6rITRlBIHDKvvSuJFn5p6h+WmbPX5xr4="
+=======
+          "Value": "sha256-Jtl65EICD4ds6dQZbx1ongvMXj8D127HCg5XRBXXYGw="
+>>>>>>> 47bfd35 (Registro y Validar)
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4320,7 +4975,10 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4344,7 +5002,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4365,7 +5023,8 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4381,7 +5040,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4402,7 +5061,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4426,7 +5089,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4447,7 +5110,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4463,7 +5130,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4484,7 +5151,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4500,7 +5171,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4521,7 +5192,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4537,7 +5212,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4558,7 +5233,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4582,7 +5261,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4603,7 +5286,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4627,7 +5314,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4648,7 +5335,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4664,7 +5355,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4685,7 +5376,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4709,7 +5404,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4730,7 +5425,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4746,7 +5445,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4767,7 +5470,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4791,7 +5498,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4812,7 +5519,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4828,7 +5539,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4849,7 +5560,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4865,7 +5580,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4886,7 +5601,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4910,7 +5629,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4931,7 +5650,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4947,7 +5670,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4968,7 +5691,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4992,7 +5719,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5013,7 +5740,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5029,7 +5760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5050,7 +5781,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5066,7 +5801,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5087,7 +5822,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5111,7 +5850,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5132,7 +5871,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5148,7 +5891,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5169,7 +5916,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5193,6 +5944,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5239,6 +5991,9 @@
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5247,7 +6002,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "76449"
+=======
+          "Value": "76307"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Content-Type",
@@ -5255,11 +6014,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"mcVOHRq7FsWaycSfboGsTpzuQZ3cIOR/GDHYxL6q2Yg=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "\"1N1aPW6sTYexHfJCcDS4iElpPdWahP2Fr+Um56w0PjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5269,14 +6036,19 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
           "Value": "z9shlbduue"
+=======
+          "Value": "ophe14yye5"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-utilities.css"
+          "Value": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-mcVOHRq7FsWaycSfboGsTpzuQZ3cIOR/GDHYxL6q2Yg="
         }
       ]
@@ -5368,12 +6140,116 @@
         {
           "Name": "integrity",
           "Value": "sha256-l/hyCcHXdGwW6cO0xfobuAMZk3Nh8dsRdWwdaeSn9qo="
+=======
+          "Value": "sha256-1N1aPW6sTYexHfJCcDS4iElpPdWahP2Fr+Um56w0PjI="
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "215272"
+=======
+          "Value": "76449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcVOHRq7FsWaycSfboGsTpzuQZ3cIOR/GDHYxL6q2Yg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9shlbduue"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-utilities.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcVOHRq7FsWaycSfboGsTpzuQZ3cIOR/GDHYxL6q2Yg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153194"
+>>>>>>> 47bfd35 (Registro y Validar)
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"l/hyCcHXdGwW6cO0xfobuAMZk3Nh8dsRdWwdaeSn9qo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "\"JV8zLOxqX3ENLwiQX8lCiDY3TvQzbeibDAsdYtalZ4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1piudyfv7h"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JV8zLOxqX3ENLwiQX8lCiDY3TvQzbeibDAsdYtalZ4w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5394,7 +6270,53 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f6zq8v6eb3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/hyCcHXdGwW6cO0xfobuAMZk3Nh8dsRdWwdaeSn9qo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l/hyCcHXdGwW6cO0xfobuAMZk3Nh8dsRdWwdaeSn9qo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5410,7 +6332,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5431,7 +6353,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5455,7 +6381,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5476,7 +6402,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5492,7 +6422,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5513,7 +6447,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5537,7 +6475,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5558,7 +6496,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5574,7 +6516,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5595,7 +6537,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5619,7 +6565,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5640,7 +6586,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5656,7 +6606,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5677,7 +6627,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5693,7 +6647,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5714,7 +6668,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5738,7 +6696,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5759,7 +6717,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5775,7 +6737,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5796,7 +6762,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5820,7 +6790,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5841,7 +6811,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5857,7 +6831,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5878,7 +6852,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5894,7 +6872,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5915,7 +6893,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5939,7 +6921,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5960,7 +6946,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5984,7 +6974,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6005,7 +6995,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6021,7 +7015,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6042,7 +7036,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6066,7 +7064,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6087,7 +7085,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6103,6 +7105,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6149,6 +7152,9 @@
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6169,7 +7175,56 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4908xmbfjr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uAMYHAQlaHq1buKLwrk7FF4qxvcLWntS2/DpdKucfmU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uAMYHAQlaHq1buKLwrk7FF4qxvcLWntS2/DpdKucfmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6185,7 +7240,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6206,7 +7261,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6222,7 +7281,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6243,7 +7302,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6267,7 +7330,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6288,7 +7351,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6304,7 +7371,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6325,7 +7392,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6349,7 +7420,11 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6370,7 +7445,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6394,7 +7473,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6415,7 +7494,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6431,7 +7514,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6452,7 +7535,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6476,7 +7563,11 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6497,7 +7588,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6521,7 +7616,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6542,7 +7637,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6558,7 +7657,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6579,7 +7678,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6595,7 +7698,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6616,7 +7719,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6640,7 +7747,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6661,7 +7768,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6677,7 +7788,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6698,7 +7809,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6722,7 +7837,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6743,7 +7858,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6759,7 +7878,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6780,7 +7899,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6804,7 +7927,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6825,7 +7948,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6841,6 +7968,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6887,6 +8015,9 @@
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6907,6 +8038,7 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
         },
         {
@@ -6982,6 +8114,134 @@
         {
           "Name": "Last-Modified",
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "l1zq2mitth"
+=======
+          "Value": "6d0lkjaslc"
+>>>>>>> 47bfd35 (Registro y Validar)
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+<<<<<<< HEAD
+=======
+          "Value": "sha256-5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6999,13 +8259,14 @@
         },
         {
           "Name": "integrity",
+>>>>>>> 47bfd35 (Registro y Validar)
           "Value": "sha256-6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w="
         }
       ]
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7026,7 +8287,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7042,7 +8307,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7063,7 +8328,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7087,7 +8356,11 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7108,7 +8381,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7132,7 +8409,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7153,7 +8430,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7169,7 +8450,11 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+=======
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+>>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7190,7 +8475,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7214,7 +8503,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7235,7 +8524,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7251,7 +8544,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7272,7 +8565,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7296,7 +8593,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7317,7 +8614,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",

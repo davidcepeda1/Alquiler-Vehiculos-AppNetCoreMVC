@@ -29,7 +29,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:47 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 21:52:00 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -74,7 +78,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:47 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 21:52:00 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -111,7 +119,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -156,7 +168,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -193,7 +209,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 22:45:40 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -230,7 +250,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 22:45:40 GMT"
+=======
+          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -275,7 +299,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -320,7 +348,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -357,7 +389,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -402,7 +438,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -439,7 +479,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -484,7 +528,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -495,6 +543,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "js/generic.bym4mlnyyz.js",
       "AssetFile": "js/generic.js",
       "Selectors": [],
@@ -540,6 +589,8 @@
       ]
     },
     {
+=======
+>>>>>>> 47bfd35 (Registro y Validar)
       "Route": "js/generic.js",
       "AssetFile": "js/generic.js",
       "Selectors": [],
@@ -554,7 +605,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "8371"
+=======
+          "Value": "11463"
+>>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Content-Type",
@@ -562,17 +617,74 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Mon, 03 Mar 2025 22:28:31 GMT"
+=======
+          "Value": "\"dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 05:53:59 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE="
+=======
+          "Value": "sha256-dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY="
+        }
+      ]
+    },
+    {
+      "Route": "js/generic.swvgkmi68f.js",
+      "AssetFile": "js/generic.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 05:53:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "swvgkmi68f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY="
+        },
+        {
+          "Name": "label",
+          "Value": "js/generic.js"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
@@ -603,7 +715,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -640,7 +756,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -685,7 +805,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -730,7 +854,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -767,7 +895,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -804,7 +936,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -823,6 +959,51 @@
       ]
     },
     {
+      "Route": "js/singup.4y24f56ii0.js",
+      "AssetFile": "js/singup.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 06:10:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4y24f56ii0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs="
+        },
+        {
+          "Name": "label",
+          "Value": "js/singup.js"
+        }
+      ]
+    },
+    {
       "Route": "js/singup.js",
       "AssetFile": "js/singup.js",
       "Selectors": [],
@@ -837,7 +1018,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7959"
+          "Value": "7415"
         },
         {
           "Name": "Content-Type",
@@ -845,16 +1026,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CzHWQjroFKI+SFkpFwVPIehdIRxTJXlUZ0uWlVE0AVc=\""
+          "Value": "\"7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs=\""
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Tue, 04 Mar 2025 06:10:12 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-CzHWQjroFKI+SFkpFwVPIehdIRxTJXlUZ0uWlVE0AVc="
         }
       ]
@@ -901,6 +1087,9 @@
         {
           "Name": "label",
           "Value": "js/singup.js"
+=======
+          "Value": "sha256-7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs="
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
@@ -931,7 +1120,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -976,7 +1169,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1058,13 +1255,66 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 22:04:13 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-lWxsS3BITVTveEqeZnu7Xs0Honk88Et8UZC2ttJxwLU="
+=======
+          "Value": "sha256-ia2aV7H/CK9cBVpzdPCL4dvYpW6opezDb0F6NmPBNY8="
+        }
+      ]
+    },
+    {
+      "Route": "js/vehiculos.pwzfmdehgj.js",
+      "AssetFile": "js/vehiculos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ia2aV7H/CK9cBVpzdPCL4dvYpW6opezDb0F6NmPBNY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pwzfmdehgj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ia2aV7H/CK9cBVpzdPCL4dvYpW6opezDb0F6NmPBNY8="
+        },
+        {
+          "Name": "label",
+          "Value": "js/vehiculos.js"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
@@ -1095,7 +1345,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1132,7 +1386,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1177,7 +1435,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1214,7 +1476,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1251,7 +1517,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1296,7 +1566,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1341,7 +1615,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1378,7 +1656,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1423,7 +1705,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1460,7 +1746,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1505,7 +1795,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1542,7 +1836,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1587,7 +1885,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1624,7 +1926,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1669,7 +1975,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1706,7 +2016,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1743,7 +2057,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1788,7 +2106,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1833,7 +2155,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1870,7 +2196,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1915,7 +2245,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1952,7 +2286,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -1989,7 +2327,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2026,7 +2368,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2071,7 +2417,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2116,7 +2466,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2161,7 +2515,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2206,7 +2564,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2243,7 +2605,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2288,7 +2654,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2325,7 +2695,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2362,7 +2736,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2399,7 +2777,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2444,7 +2826,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2489,7 +2875,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2526,7 +2916,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2571,7 +2965,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2608,7 +3006,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2653,7 +3055,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2690,7 +3096,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2727,7 +3137,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2772,7 +3186,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2809,7 +3227,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2854,7 +3276,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2891,7 +3317,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2928,7 +3358,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -2973,7 +3407,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3010,7 +3448,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3055,7 +3497,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3100,7 +3546,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3145,7 +3595,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3182,7 +3636,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3227,7 +3685,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3264,7 +3726,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3309,7 +3775,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3346,7 +3816,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3391,7 +3865,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3428,7 +3906,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3473,7 +3955,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3510,7 +3996,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3555,7 +4045,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3592,7 +4086,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3637,7 +4135,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3682,7 +4184,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3719,7 +4225,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3764,7 +4274,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3801,7 +4315,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3846,7 +4364,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3891,7 +4413,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3928,7 +4454,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -3973,7 +4503,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4010,7 +4544,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4055,7 +4593,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4092,7 +4634,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4137,7 +4683,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4174,7 +4724,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4211,7 +4765,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4256,7 +4814,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4293,7 +4855,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4338,7 +4904,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4375,7 +4945,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4412,7 +4986,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4457,7 +5035,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4502,7 +5084,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4539,7 +5125,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4584,7 +5174,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4621,7 +5215,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4666,7 +5264,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4703,7 +5305,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4740,7 +5346,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4785,7 +5395,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4830,7 +5444,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4867,7 +5485,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4912,7 +5534,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4949,7 +5575,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -4994,7 +5624,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5031,7 +5665,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5068,7 +5706,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5113,7 +5755,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5158,7 +5804,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5195,7 +5845,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5240,7 +5894,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5277,7 +5935,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5322,7 +5984,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5359,7 +6025,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5396,7 +6066,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5441,7 +6115,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5486,7 +6164,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5523,7 +6205,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5568,7 +6254,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5605,7 +6295,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5650,7 +6344,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5695,7 +6393,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [
@@ -5732,7 +6434,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+=======
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
+>>>>>>> 47bfd35 (Registro y Validar)
         }
       ],
       "EndpointProperties": [

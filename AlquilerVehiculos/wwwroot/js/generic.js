@@ -32,11 +32,15 @@ async function fetchGet(url, tipoRespuesta, callback) {
     try {
         let raiz = document.getElementById("hdfOculto")?.value || "";
         let urlCompleta = `${window.location.protocol}//${window.location.host}/${raiz}${url}`;
-
         console.log("🔍 URL completa que intenta acceder: ", urlCompleta);  // Verifica la URL
 
         let res = await fetch(urlCompleta);
+        if (!res.ok) {
+            throw new Error('Error en la solicitud: ' + res.statusText);
+        }
 
+
+        
         if (tipoRespuesta == "json") {
             res = await res.json();
         } else if (tipoRespuesta == "text") {
@@ -52,9 +56,61 @@ async function fetchGet(url, tipoRespuesta, callback) {
     }
 }
 
+//async function fetchGet(url, tipoRespuesta, callback) {
+//    try {
+//        let raiz = document.getElementById("hdfOculto")?.value || "";
+//        let urlCompleta = `${window.location.protocol}//${window.location.host}/${raiz}${url}`;
+
+//        console.log("🔍 URL completa que intenta acceder: ", urlCompleta);  // Verifica la URL
+
+//        let res = await fetch(urlCompleta);
+//        console.log(res);
+
+//        // Verifica si la respuesta es exitosa
+//        if (!res.ok) {
+//            throw new Error(`Error en la solicitud: ${res.status} ${res.statusText}`);
+//        }
+
+//        // Procesa la respuesta según el tipo solicitado
+//        if (tipoRespuesta === "json") {
+//            try {
+//                res = await res.json();
+//            } catch (jsonError) {
+//                throw new Error("Error al procesar la respuesta como JSON: " + jsonError.message);
+//            }
+//        } else if (tipoRespuesta === "text") {
+//            try {
+//                res = await res.text();
+//            } catch (textError) {
+//                throw new Error("Error al procesar la respuesta como texto: " + textError.message);
+//            }
+//        }
+
+//        console.log("✅ Datos recibidos del backend:", res);
+//        callback(res);
+
+//    } catch (e) {
+//        // Manejo de errores más específicos
+//        if (e.name === 'TypeError' && e.message.includes('Failed to fetch')) {
+//            console.error("❌ Error de red: No se pudo conectar al servidor.");
+//            alert("No se pudo conectar con el servidor. Verifica tu conexión a internet.");
+//        } else if (e.message.includes('Error en la solicitud')) {
+//            console.error("❌ Error en la solicitud:", e.message);
+//            alert(`Ocurrió un error en la solicitud: ${e.message}`);
+//        } else if (e.message.includes('Error al procesar la respuesta')) {
+//            console.error("❌ Error en el procesamiento de la respuesta:", e.message);
+//            alert(`Error al procesar la respuesta del servidor: ${e.message}`);
+//        } else {
+//            console.error("❌ Error desconocido:", e);
+//            alert("Ocurrió un problema desconocido: " + e.message);
+//        }
+//    }
+//}
+
+
 async function fetchPost(url, tipoRespuesta, frm, callback) {
     try {
-        let raiz = document.getElementById("hdfOculto")?.value || ""; 
+        let raiz = document.getElementById("hdfOculto")?.value || "";
         let urlCompleta = `${window.location.protocol}//${window.location.host}/${raiz}${url}`;
 
         let res = await fetch(urlCompleta, {
@@ -79,6 +135,56 @@ async function fetchPost(url, tipoRespuesta, frm, callback) {
     }
 }
 
+//async function fetchPost(url, tipoRespuesta, frm, callback) {
+//    try {
+//        // Validar que la URL no esté vacía
+//        if (!url || typeof url !== "string") {
+//            throw new Error("URL no válida o vacía.");
+//        }
+
+//        let raiz = document.getElementById("hdfOculto")?.value || ""; 
+//        let urlCompleta = `${window.location.protocol}//${window.location.host}/${raiz}${url}`;
+
+//        let res;
+//        try {
+//            res = await fetch(urlCompleta, {
+//                method: "POST",
+//                body: frm
+//            });
+//        } catch (networkError) {
+//            throw new Error(`Error de red: No se pudo conectar con el servidor. Detalles: ${networkError.message}`);
+//        }
+
+//        // Manejo de errores HTTP
+//        if (!res.ok) {
+//            throw new Error(`Error HTTP ${res.status}: ${res.statusText}`);
+//        }
+
+//        let responseData;
+//        try {
+//            if (tipoRespuesta === "json") {
+//                responseData = await res.json();
+//            } else if (tipoRespuesta === "text") {
+//                responseData = await res.text();
+//            } else {
+//                throw new Error(`Tipo de respuesta desconocido: '${tipoRespuesta}'. Usa 'json' o 'text'.`);
+//            }
+//        } catch (parseError) {
+//            throw new Error(`Error al procesar la respuesta: ${parseError.message}`);
+//        }
+
+//        // Validar que el callback sea una función
+//        if (typeof callback !== "function") {
+//            throw new Error("El callback proporcionado no es una función válida.");
+//        }
+
+//        callback(responseData);
+
+//    } catch (e) {
+//        console.error("Error en fetchPost:", e);
+//        alert(`Ocurrió un problema en POST: ${e.message}`);
+//    }
+//}
 
 
 let objConfiguracionGlobal;

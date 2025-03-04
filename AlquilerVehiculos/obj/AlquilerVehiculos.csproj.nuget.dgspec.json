@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\AlquilerVehiculos.csproj": {}
+    "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\AlquilerVehiculos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\AlquilerVehiculos.csproj": {
+    "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\AlquilerVehiculos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\AlquilerVehiculos.csproj",
+        "projectUniqueName": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\AlquilerVehiculos.csproj",
         "projectName": "AlquilerVehiculos",
-        "projectPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\AlquilerVehiculos.csproj",
-        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\",
+        "projectPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\AlquilerVehiculos.csproj",
+        "packagesPath": "C:\\Users\\NICO\\.nuget\\packages\\",
+        "outputPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NICO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj": {
-                "projectPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj"
+              "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj": {
+                "projectPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj"
               },
-              "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj": {
-                "projectPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj"
+              "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj": {
+                "projectPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj"
+              },
+              "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaNegocio\\capaNegocio.csproj": {
+                "projectPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaNegocio\\capaNegocio.csproj"
               }
             }
           }
@@ -85,20 +88,20 @@
         }
       }
     },
-    "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj": {
+    "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj",
+        "projectUniqueName": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj",
         "projectName": "capaDatos",
-        "projectPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj",
-        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\obj\\",
+        "projectPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj",
+        "packagesPath": "C:\\Users\\NICO\\.nuget\\packages\\",
+        "outputPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NICO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -113,8 +116,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj": {
-                "projectPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj"
+              "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj": {
+                "projectPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj"
               }
             }
           }
@@ -172,20 +175,20 @@
         }
       }
     },
-    "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj": {
+    "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj",
+        "projectUniqueName": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj",
         "projectName": "capaEntidad",
-        "projectPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj",
-        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\obj\\",
+        "projectPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj",
+        "packagesPath": "C:\\Users\\NICO\\.nuget\\packages\\",
+        "outputPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NICO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -200,6 +203,78 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaNegocio\\capaNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaNegocio\\capaNegocio.csproj",
+        "projectName": "capaNegocio",
+        "projectPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaNegocio\\capaNegocio.csproj",
+        "packagesPath": "C:\\Users\\NICO\\.nuget\\packages\\",
+        "outputPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NICO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj": {
+                "projectPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaDatos\\capaDatos.csproj"
+              },
+              "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj": {
+                "projectPath": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\capaEntidad\\capaEntidad.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
