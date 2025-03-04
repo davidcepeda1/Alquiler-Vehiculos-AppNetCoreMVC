@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b1otxabk30</Fingerprint>
-      <Integrity>7/eyvhuGykhOet98TOXT4TonDsXKlSjET4hSRgB+2u4=</Integrity>
+      <Fingerprint>2bczqprsv9</Fingerprint>
+      <Integrity>8shJ/64voZ+t8LywRIQnYa9uvGjKfgb2sEt6kurWT8o=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\SingUp.css'))</OriginalItemSpec>
@@ -120,13 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-<<<<<<< HEAD
-      <Fingerprint>bym4mlnyyz</Fingerprint>
-      <Integrity>M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE=</Integrity>
-=======
-      <Fingerprint>swvgkmi68f</Fingerprint>
-      <Integrity>dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY=</Integrity>
->>>>>>> 47bfd35 (Registro y Validar)
+      <Fingerprint>zmshkeg88f</Fingerprint>
+      <Integrity>xcgm9wx/X3LBn8QXGz7Yshtma30aDpEpib+Inap2VCY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\generic.js'))</OriginalItemSpec>
@@ -197,8 +192,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4y24f56ii0</Fingerprint>
-      <Integrity>7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs=</Integrity>
+      <Fingerprint>3sm7ppbe3c</Fingerprint>
+      <Integrity>7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\singup.js'))</OriginalItemSpec>

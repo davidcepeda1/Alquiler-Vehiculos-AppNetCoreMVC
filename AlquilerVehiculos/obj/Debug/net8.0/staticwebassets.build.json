@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "DliLQcdiK4+Y04HyQ438khyf/bnEiknMDuefPGR/Q4g=",
-=======
-  "Hash": "Q5xyIP/BeOJ3fz7bHcDue/1XEQ13eG9c7pdOMK9a4zM=",
->>>>>>> 47bfd35 (Registro y Validar)
+  "Hash": "yRUx1DozQrV8aaAsqzBCq3cMiKU05+85Ot93XWCryRg=",
   "Source": "AlquilerVehiculos",
   "BasePath": "_content/AlquilerVehiculos",
   "Mode": "Default",
@@ -77,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b1otxabk30",
-      "Integrity": "7/eyvhuGykhOet98TOXT4TonDsXKlSjET4hSRgB+2u4=",
+      "Fingerprint": "2bczqprsv9",
+      "Integrity": "8shJ/64voZ+t8LywRIQnYa9uvGjKfgb2sEt6kurWT8o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\SingUp.css"
@@ -182,13 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
-      "Fingerprint": "bym4mlnyyz",
-      "Integrity": "M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE=",
-=======
-      "Fingerprint": "swvgkmi68f",
-      "Integrity": "dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY=",
->>>>>>> 47bfd35 (Registro y Validar)
+      "Fingerprint": "zmshkeg88f",
+      "Integrity": "xcgm9wx/X3LBn8QXGz7Yshtma30aDpEpib+Inap2VCY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\generic.js"
@@ -271,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4y24f56ii0",
-      "Integrity": "7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs=",
+      "Fingerprint": "3sm7ppbe3c",
+      "Integrity": "7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\singup.js"
@@ -1541,11 +1532,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:47 GMT"
-=======
-          "Value": "Mon, 03 Mar 2025 21:52:00 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 06:53:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1590,11 +1577,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:47 GMT"
-=======
-          "Value": "Mon, 03 Mar 2025 21:52:00 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 06:53:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1639,11 +1622,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:47 GMT"
-=======
-          "Value": "Mon, 03 Mar 2025 21:52:00 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 06:53:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1680,11 +1659,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:47 GMT"
-=======
-          "Value": "Mon, 03 Mar 2025 21:52:00 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 06:53:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1699,7 +1674,7 @@
       ]
     },
     {
-      "Route": "css/SingUp.b1otxabk30.css",
+      "Route": "css/SingUp.2bczqprsv9.css",
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\SingUp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1717,15 +1692,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7/eyvhuGykhOet98TOXT4TonDsXKlSjET4hSRgB+2u4=\""
+          "Value": "\"8shJ/64voZ+t8LywRIQnYa9uvGjKfgb2sEt6kurWT8o=\""
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
-          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 15:40:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1735,7 +1706,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b1otxabk30"
+          "Value": "2bczqprsv9"
         },
         {
           "Name": "label",
@@ -1743,7 +1714,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7/eyvhuGykhOet98TOXT4TonDsXKlSjET4hSRgB+2u4="
+          "Value": "sha256-8shJ/64voZ+t8LywRIQnYa9uvGjKfgb2sEt6kurWT8o="
         }
       ]
     },
@@ -1766,15 +1737,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7/eyvhuGykhOet98TOXT4TonDsXKlSjET4hSRgB+2u4=\""
+          "Value": "\"8shJ/64voZ+t8LywRIQnYa9uvGjKfgb2sEt6kurWT8o=\""
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
-          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 15:40:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1784,7 +1751,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7/eyvhuGykhOet98TOXT4TonDsXKlSjET4hSRgB+2u4="
+          "Value": "sha256-8shJ/64voZ+t8LywRIQnYa9uvGjKfgb2sEt6kurWT8o="
         }
       ]
     },
@@ -1811,11 +1778,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 22:45:40 GMT"
-=======
-          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 06:44:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1830,13 +1793,8 @@
       ]
     },
     {
-<<<<<<< HEAD
       "Route": "css/site.dviem40wyx.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
-=======
-      "Route": "css/site.s3yuq5939s.css",
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\css\\site.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1857,11 +1815,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 22:45:40 GMT"
-=======
-          "Value": "Mon, 03 Mar 2025 17:05:03 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 06:44:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1906,11 +1860,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1955,11 +1905,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -1996,11 +1942,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2045,11 +1987,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2086,11 +2024,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2135,11 +2069,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2154,54 +2084,6 @@
       ]
     },
     {
-<<<<<<< HEAD
-      "Route": "js/generic.bym4mlnyyz.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8371"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 22:28:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bym4mlnyyz"
-        },
-        {
-          "Name": "label",
-          "Value": "js/generic.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE="
-        }
-      ]
-    },
-    {
-=======
->>>>>>> 47bfd35 (Registro y Validar)
       "Route": "js/generic.js",
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
       "Selectors": [],
@@ -2212,11 +2094,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "8371"
-=======
-          "Value": "11463"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "12639"
         },
         {
           "Name": "Content-Type",
@@ -2224,19 +2102,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE=\""
+          "Value": "\"xcgm9wx/X3LBn8QXGz7Yshtma30aDpEpib+Inap2VCY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 22:28:31 GMT"
-=======
-          "Value": "\"dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 05:53:59 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 06:44:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2246,15 +2116,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-M4dzaU6eYntvkGI/RNvZ/roQ/ZZbUrWcQu2nrsXtuHE="
-=======
-          "Value": "sha256-dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY="
+          "Value": "sha256-xcgm9wx/X3LBn8QXGz7Yshtma30aDpEpib+Inap2VCY="
         }
       ]
     },
     {
-      "Route": "js/generic.swvgkmi68f.js",
+      "Route": "js/generic.zmshkeg88f.js",
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\generic.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2264,7 +2131,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11463"
+          "Value": "12639"
         },
         {
           "Name": "Content-Type",
@@ -2272,11 +2139,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY=\""
+          "Value": "\"xcgm9wx/X3LBn8QXGz7Yshtma30aDpEpib+Inap2VCY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 05:53:59 GMT"
+          "Value": "Tue, 04 Mar 2025 06:44:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2286,7 +2153,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "swvgkmi68f"
+          "Value": "zmshkeg88f"
         },
         {
           "Name": "label",
@@ -2294,8 +2161,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dK6QHPWwHPeQsAHaE01RHaRLxc/Dd72HvwQA3Q3BgaY="
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "sha256-xcgm9wx/X3LBn8QXGz7Yshtma30aDpEpib+Inap2VCY="
         }
       ]
     },
@@ -2322,11 +2188,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2363,11 +2225,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2412,11 +2270,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2461,11 +2315,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2502,11 +2352,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2543,11 +2389,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2570,7 +2412,7 @@
       ]
     },
     {
-      "Route": "js/singup.4y24f56ii0.js",
+      "Route": "js/singup.3sm7ppbe3c.js",
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2580,7 +2422,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7415"
+          "Value": "7607"
         },
         {
           "Name": "Content-Type",
@@ -2588,52 +2430,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs=\""
+          "Value": "\"7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8=\""
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CzHWQjroFKI+SFkpFwVPIehdIRxTJXlUZ0uWlVE0AVc="
-        }
-      ]
-    },
-    {
-      "Route": "js/singup.v3ok2eg10k.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7959"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CzHWQjroFKI+SFkpFwVPIehdIRxTJXlUZ0uWlVE0AVc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
-          "Value": "Tue, 04 Mar 2025 06:10:12 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 15:33:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2643,7 +2444,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4y24f56ii0"
+          "Value": "3sm7ppbe3c"
         },
         {
           "Name": "label",
@@ -2651,7 +2452,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs="
+          "Value": "sha256-7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8="
         }
       ]
     },
@@ -2666,7 +2467,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7415"
+          "Value": "7607"
         },
         {
           "Name": "Content-Type",
@@ -2674,11 +2475,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs=\""
+          "Value": "\"7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 06:10:12 GMT"
+          "Value": "Tue, 04 Mar 2025 15:33:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2688,7 +2489,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7GpF9s0nJcd5LaPgpe1pF39/724UQ1X2EVjFHC/yJIs="
+          "Value": "sha256-7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8="
         }
       ]
     },
@@ -2715,11 +2516,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2764,11 +2561,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2784,7 +2577,7 @@
     },
     {
       "Route": "js/vehiculos.fv47jnxnm5.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2805,7 +2598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 22:04:13 GMT"
+          "Value": "Tue, 04 Mar 2025 06:44:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2850,11 +2643,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 22:04:13 GMT"
-=======
-          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
+          "Value": "Tue, 04 Mar 2025 06:44:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2864,56 +2653,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-<<<<<<< HEAD
           "Value": "sha256-lWxsS3BITVTveEqeZnu7Xs0Honk88Et8UZC2ttJxwLU="
-=======
-          "Value": "sha256-ia2aV7H/CK9cBVpzdPCL4dvYpW6opezDb0F6NmPBNY8="
-        }
-      ]
-    },
-    {
-      "Route": "js/vehiculos.pwzfmdehgj.js",
-      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\vehiculos.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1141"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ia2aV7H/CK9cBVpzdPCL4dvYpW6opezDb0F6NmPBNY8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pwzfmdehgj"
-        },
-        {
-          "Name": "label",
-          "Value": "js/vehiculos.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ia2aV7H/CK9cBVpzdPCL4dvYpW6opezDb0F6NmPBNY8="
->>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
@@ -2940,11 +2680,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -2981,11 +2717,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3030,11 +2762,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3050,11 +2778,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3075,11 +2799,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3124,11 +2844,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3165,11 +2881,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3214,11 +2926,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3234,11 +2942,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3259,11 +2963,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3308,11 +3008,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3349,11 +3045,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3398,11 +3090,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3418,11 +3106,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3443,11 +3127,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3458,7 +3138,6 @@
         {
           "Name": "fingerprint",
           "Value": "gjcw7pocpk"
-<<<<<<< HEAD
         },
         {
           "Name": "label",
@@ -3467,57 +3146,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162831"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6l4ir0ityv"
-=======
->>>>>>> 47bfd35 (Registro y Validar)
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-ukKL5IDSyNoXFyp0wkgXeBpBITyM7JsCE6Dp96H1vI8="
-=======
-          "Value": "sha256-hA1uBYAPgKq7OVoXF7sqU9NtylyP0K7AJn0a4zQcTbg="
->>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
@@ -3544,9 +3172,6 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
         },
         {
@@ -3593,7 +3218,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3630,11 +3254,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3679,11 +3299,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3720,11 +3336,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3761,11 +3373,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3802,11 +3410,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3830,56 +3434,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51325"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"96ayIUEnpKr7n5BIsFK5vJ3qXMXFgvRl9/CBcHs6/Ts=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5p029spbuu"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-96ayIUEnpKr7n5BIsFK5vJ3qXMXFgvRl9/CBcHs6/Ts="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3900,9 +3455,6 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
         },
         {
@@ -3949,7 +3501,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -3986,11 +3537,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4035,11 +3582,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4055,11 +3598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4080,11 +3619,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4129,11 +3664,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4170,11 +3701,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4219,11 +3746,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4239,56 +3762,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "75607"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+ugQREUkP4Wnp1VX2L2lvw0Q2mgKYvYAZr1c2or+ysM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "e6q6xbwqzk"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+ugQREUkP4Wnp1VX2L2lvw0Q2mgKYvYAZr1c2or+ysM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4297,11 +3771,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "51400"
-=======
           "Value": "75607"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Content-Type",
@@ -4309,13 +3779,6 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"9eX2dpELXvYs+6il2MHwf5OOPVOZjxVK1b1GWgL0B0k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "\"+ugQREUkP4Wnp1VX2L2lvw0Q2mgKYvYAZr1c2or+ysM=\""
         },
         {
@@ -4366,7 +3829,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4403,11 +3865,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4444,11 +3902,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4472,11 +3926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4497,11 +3947,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4546,11 +3992,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4587,11 +4029,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4636,11 +4074,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4677,11 +4111,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4718,11 +4148,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4759,11 +4185,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4787,11 +4209,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4812,11 +4230,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4840,56 +4254,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6276"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtl65EICD4ds6dQZbx1ongvMXj8D127HCg5XRBXXYGw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mk8rdyw69w"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtl65EICD4ds6dQZbx1ongvMXj8D127HCg5XRBXXYGw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4898,11 +4263,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "6250"
-=======
           "Value": "6276"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Content-Type",
@@ -4910,19 +4271,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"G0PQCDL7ETO6rITRlBIHDKvvSuJFn5p6h+WmbPX5xr4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "\"Jtl65EICD4ds6dQZbx1ongvMXj8D127HCg5XRBXXYGw=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -4932,11 +4285,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-<<<<<<< HEAD
-          "Value": "97yrjpyf9r"
-=======
           "Value": "mk8rdyw69w"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "label",
@@ -4944,11 +4293,7 @@
         },
         {
           "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-G0PQCDL7ETO6rITRlBIHDKvvSuJFn5p6h+WmbPX5xr4="
-=======
           "Value": "sha256-Jtl65EICD4ds6dQZbx1ongvMXj8D127HCg5XRBXXYGw="
->>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
@@ -4975,9 +4320,6 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
         },
         {
@@ -5024,7 +4366,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5061,11 +4402,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5110,11 +4447,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5151,11 +4484,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5192,11 +4521,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5233,11 +4558,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5261,11 +4582,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5286,11 +4603,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5335,11 +4648,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5376,11 +4685,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5425,11 +4730,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5445,11 +4746,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5470,11 +4767,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5519,11 +4812,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5560,11 +4849,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5601,11 +4886,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5650,11 +4931,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5691,11 +4968,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5740,11 +5013,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5781,11 +5050,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5822,11 +5087,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5871,11 +5132,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5891,11 +5148,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5916,11 +5169,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -5944,56 +5193,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76307"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1N1aPW6sTYexHfJCcDS4iElpPdWahP2Fr+Um56w0PjI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ophe14yye5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-1N1aPW6sTYexHfJCcDS4iElpPdWahP2Fr+Um56w0PjI="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6002,11 +5202,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "76449"
-=======
           "Value": "76307"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Content-Type",
@@ -6014,19 +5210,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"mcVOHRq7FsWaycSfboGsTpzuQZ3cIOR/GDHYxL6q2Yg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "\"1N1aPW6sTYexHfJCcDS4iElpPdWahP2Fr+Um56w0PjI=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6036,11 +5224,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-<<<<<<< HEAD
-          "Value": "z9shlbduue"
-=======
           "Value": "ophe14yye5"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "label",
@@ -6048,101 +5232,7 @@
         },
         {
           "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-mcVOHRq7FsWaycSfboGsTpzuQZ3cIOR/GDHYxL6q2Yg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "153194"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JV8zLOxqX3ENLwiQX8lCiDY3TvQzbeibDAsdYtalZ4w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1piudyfv7h"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JV8zLOxqX3ENLwiQX8lCiDY3TvQzbeibDAsdYtalZ4w="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "215272"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l/hyCcHXdGwW6cO0xfobuAMZk3Nh8dsRdWwdaeSn9qo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f6zq8v6eb3"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-l/hyCcHXdGwW6cO0xfobuAMZk3Nh8dsRdWwdaeSn9qo="
-=======
           "Value": "sha256-1N1aPW6sTYexHfJCcDS4iElpPdWahP2Fr+Um56w0PjI="
->>>>>>> 47bfd35 (Registro y Validar)
         }
       ]
     },
@@ -6157,9 +5247,6 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "215272"
-=======
           "Value": "76449"
         },
         {
@@ -6206,7 +5293,6 @@
         {
           "Name": "Content-Length",
           "Value": "153194"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Content-Type",
@@ -6214,13 +5300,6 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"l/hyCcHXdGwW6cO0xfobuAMZk3Nh8dsRdWwdaeSn9qo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "\"JV8zLOxqX3ENLwiQX8lCiDY3TvQzbeibDAsdYtalZ4w=\""
         },
         {
@@ -6316,7 +5395,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6353,11 +5431,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6402,11 +5476,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6422,11 +5492,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6447,11 +5513,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6496,11 +5558,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6537,11 +5595,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6586,11 +5640,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6627,11 +5677,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6668,11 +5714,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6717,11 +5759,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6737,11 +5775,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6762,11 +5796,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6811,11 +5841,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6852,11 +5878,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6893,11 +5915,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6921,11 +5939,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6946,11 +5960,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -6995,11 +6005,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7036,11 +6042,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7085,11 +6087,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7105,56 +6103,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59517"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uAMYHAQlaHq1buKLwrk7FF4qxvcLWntS2/DpdKucfmU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4908xmbfjr"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uAMYHAQlaHq1buKLwrk7FF4qxvcLWntS2/DpdKucfmU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7175,9 +6124,6 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
         },
         {
@@ -7224,7 +6170,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7261,11 +6206,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7302,11 +6243,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7351,11 +6288,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7392,11 +6325,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:48 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7420,11 +6349,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7445,11 +6370,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7494,11 +6415,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7535,11 +6452,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7563,11 +6476,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7588,11 +6497,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7637,11 +6542,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7678,11 +6579,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7719,11 +6616,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7768,11 +6661,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7809,11 +6698,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7858,11 +6743,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7899,11 +6780,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7948,11 +6825,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -7968,8 +6841,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7990,7 +6862,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
+          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8014,138 +6886,6 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-=======
-      "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
->>>>>>> 47bfd35 (Registro y Validar)
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "52831"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg=\""
-        },
-        {
-          "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
-          "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-<<<<<<< HEAD
-          "Value": "l1zq2mitth"
-=======
-          "Value": "6d0lkjaslc"
->>>>>>> 47bfd35 (Registro y Validar)
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
-        },
-        {
-          "Name": "integrity",
-<<<<<<< HEAD
-=======
-          "Value": "sha256-5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8259,7 +6999,6 @@
         },
         {
           "Name": "integrity",
->>>>>>> 47bfd35 (Registro y Validar)
           "Value": "sha256-6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w="
         }
       ]
@@ -8287,11 +7026,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -8328,11 +7063,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -8356,11 +7087,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8381,11 +7108,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -8430,11 +7153,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -8450,11 +7169,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\David\\Documents\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-=======
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
->>>>>>> 47bfd35 (Registro y Validar)
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8475,11 +7190,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -8524,11 +7235,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -8565,11 +7272,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",
@@ -8614,11 +7317,7 @@
         },
         {
           "Name": "Last-Modified",
-<<<<<<< HEAD
-          "Value": "Mon, 03 Mar 2025 21:51:49 GMT"
-=======
           "Value": "Sun, 02 Mar 2025 22:19:25 GMT"
->>>>>>> 47bfd35 (Registro y Validar)
         },
         {
           "Name": "Cache-Control",

@@ -1,8 +1,9 @@
-﻿function totxt(e) {
+﻿//---------Eliminar Espacios en Blanco---------
+function totxt(e) {
     e = e.value.trim();
     return e;
 }
-
+//-----Validaciones--------------------------
 function validation(input, inputName, re, label) {
     let value = totxt(input);
 
@@ -57,11 +58,47 @@ function validation(input, inputName, re, label) {
     Rtrue();
     return true;
 }
+//----------------MENSAJES DE ICONOS---------------
+let userIcon = document.getElementById("userIcon");
+let emailIcon = document.getElementById("emailIcon");
+let passIcon = document.getElementById("passIcon");
+let nameIcon = document.getElementById("nameIcon");
+let lastNameIcon = document.getElementById("lastNameIcon");
+let telephoneIcon = document.getElementById("telephoneIcon");
 
+userIcon.onclick = function () {
+
+    Swal.fire(`El usuario debe contener solo letras y números, además de tener de 5 a 15 caracteres`);
+}
+emailIcon.onclick = function () {
+
+    Swal.fire(`El correo electrónico debe ser válido.`);
+}
+passIcon.onclick = function () {
+
+    Swal.fire(`La contraseña debe contener números y letras de 7 a 14 caracteres`);
+}
+nameIcon.onclick = function () {
+    Swal.fire(`El nombre debe contener solo letras y estar entre 2 y 20 caracteres.`);
+}
+
+lastNameIcon.onclick = function () {
+    Swal.fire(`El apellido debe contener solo letras y estar entre 2 y 20 caracteres.`);
+}
+
+telephoneIcon.onclick = function () {
+    Swal.fire(`El teléfono debe contener solo números y tener 10 dígitos.`);
+}
+
+/*
+
+                 INICIO DE LA LOGICA DE FUNCIONES
+
+*/
+
+//Funcion para Registrar Usuario
 async function Registrar() {
-    let form = document.getElementById("frmRegistro"); 
-    let frm = new FormData(form);
-
+    //--------------Validar que nomas permite en registro--------------
     let usernameRe = /^[A-Za-z0-9]{5,15}$/;
     let emailRe = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
     let passwordRe = /^[A-Za-z0-9]{7,14}$/;
@@ -69,6 +106,7 @@ async function Registrar() {
     let lastNameRe = /^[A-Za-zÁÉÍÓÚáéíóúÑñ]{2,20}$/;
     let telephoneRe = /^09[0-9]{8}$/;
 
+    //-----------------Campos de registro----------------
     let username = document.getElementById("nombreUsuario");
     let email = document.getElementById("email");
     let password = document.getElementById("contraseña");
@@ -76,6 +114,7 @@ async function Registrar() {
     let lastName = document.getElementById("apellido");
     let telephone = document.getElementById("telefono");
 
+    //-----------------Validar campos---------------------
     let passwordCorrect = validation(password, "contraseña", passwordRe);
     let emailCorrect = validation(email, "email", emailRe);
     let usernameCorrect = validation(username, "nombreUsuario", usernameRe);
@@ -83,9 +122,10 @@ async function Registrar() {
     let lastNameCorrect = validation(lastName, "apellido", lastNameRe);
     let telephoneCorrect = validation(telephone, "telefono", telephoneRe);
 
-    if (usernameCorrect && emailCorrect && passwordCorrect && nameCorrect && lastNameCorrect && telephoneCorrect) {
 
-       
+    //-----------------Validar que todos los campos estén correctos---------------------
+    if (usernameCorrect && emailCorrect && passwordCorrect && nameCorrect && lastNameCorrect && telephoneCorrect) {
+        // Limpiar los estilos de los campos
         username.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
         email.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
         password.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
@@ -93,8 +133,16 @@ async function Registrar() {
         lastName.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
         telephone.style = "border-bottom:1px solid #fff;background-image: rgba(0,0,0,0);";
 
-        let contraseñaEncriptada = await encriptarSha256(password.value);
-        frm.set("contraseña", contraseñaEncriptada);
+        let contraseñaEncriptada = await encriptarSha256(password.value);  //Encriptar la contraseña
+
+        // Crear un objeto FormData para enviar los datos al servidor
+        let frm = new FormData();
+        frm.append("nombre", name.value);
+        frm.append("apellido", lastName.value);
+        frm.append("telefono", telephone.value);
+        frm.append("nombreUsuario", username.value);
+        frm.append("email", email.value);
+        frm.append("contraseña", contraseñaEncriptada);
 
         // Limpiar los campos
         username.value = "";
@@ -104,11 +152,12 @@ async function Registrar() {
         lastName.value = "";
         telephone.value = "";
 
+        // Enviar los datos al servidor para registrar el usuario
         fetchPost("InicioSecion/Registrar", "text", frm, function (res) {
             
 
             Swal.fire("La cuenta se ha creado con éxito", "La cuenta ha sido creada, por favor inicie sesión", "success");
-
+           
             let chk = document.getElementById("chk");
             chk.checked = true;
             console.log("Usuario agregado");
@@ -119,17 +168,9 @@ async function Registrar() {
     }
 }
 
+//Funcion para Iniciar Sesion
 async function ValidarInicioSesion() {
-    //let form = document.getElementById("frmRegistro");
-    //let frm = new FormData(form);
-
-    //for (let [key, value] of frm.entries()) {
-    //    console.log(`${key}: ${value}`);
-    //}
-
-
     let username = document.getElementById("nombreUsuario2"); // Campo de nombre de usuario
-    //let email = document.getElementById("email"); // Campo de correo electrónico
     let password = document.getElementById("contraseña2"); // Campo de contraseña
 
     // Validar que los campos no estén vacíos
@@ -138,16 +179,15 @@ async function ValidarInicioSesion() {
         return;
     }
 
-    // Encriptar la contraseña antes de enviarla al servidor
-    let contraseñaEncriptada = await encriptarSha256(password.value);
+    let contraseñaEncriptada = await encriptarSha256(password.value); // Encriptar la contraseña
+
+    // Crear un objeto FormData para enviar los datos al servidor
     let frm = new FormData();
     frm.append("nombreUsuario", username.value);
     frm.append("contraseña", contraseñaEncriptada);
 
     // Enviar los datos al servidor para validar el inicio de sesión
     fetchPost("InicioSecion/Validar", "text",frm, function (res) {
-        console.log("Respuesta del servidor:", res);  // 🔍 Ver qué devuelve realmente el backend
-
         if (res != -1) {
             // Si las credenciales son correctas
             Swal.fire("Bienvenido", "Has iniciado sesión correctamente.", "success").then(() => {
@@ -161,49 +201,7 @@ async function ValidarInicioSesion() {
     });
 }
 
-//----------------MENSAJES DE ICONOS---------------
-let userIcon = document.getElementById("userIcon");
-let emailIcon = document.getElementById("emailIcon");
-let passIcon = document.getElementById("passIcon");
-let nameIcon = document.getElementById("nameIcon");
-let lastNameIcon = document.getElementById("lastNameIcon");
-let telephoneIcon = document.getElementById("telephoneIcon");
-
-userIcon.onclick = function () {
-
-    Swal.fire(`El usuario debe
-          # Contener solo letras y números.
-          # Tener de 5 a 15 caracteres`);
-}
-emailIcon.onclick = function () {
-
-    Swal.fire(`El correo electrónico debe ser válido.`);
-}
-passIcon.onclick = function () {
-
-    Swal.fire(`La contraseña debe:
-                #Contener números y letras
-                #Tener de 7 a 14 caracteres`);
-}
-nameIcon.onclick = function () {
-    Swal.fire(`El nombre debe:
-          # Contener solo letras.
-          # Tener entre 2 y 20 caracteres.`);
-}
-
-lastNameIcon.onclick = function () {
-    Swal.fire(`El apellido debe:
-          # Contener solo letras.
-          # Tener entre 2 y 20 caracteres.`);
-}
-
-telephoneIcon.onclick = function () {
-    Swal.fire(`El teléfono debe:
-          # Contener solo números.
-          # Tener 10 dígitos.`);
-}
-
-
+//Funcion para Encriptar Contraseña
 async function encriptarSha256(texto) {
     const hashBuffer = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(texto));
     return Array.from(new Uint8Array(hashBuffer)).map(b => b.toString(16).padStart(2, '0')).join('');

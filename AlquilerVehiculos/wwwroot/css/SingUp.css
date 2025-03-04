@@ -155,7 +155,7 @@ button:hover {
 
 #chk:checked ~ .signup .sig {
     transform: scale(.6);
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .user-box label {
