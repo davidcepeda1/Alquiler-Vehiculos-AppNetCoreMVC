@@ -3,9 +3,9 @@ using capaNegocio;
 using Microsoft.AspNetCore.Mvc;
 namespace AlquilerVehiculos.Controllers
 {
-    public class InicioSecionController : Controller
+    public class InicioSesionController : Controller
     {
-        public IActionResult InicioSecion()
+        public IActionResult InicioSesion()
         {
             return View();
         }

@@ -153,7 +153,7 @@ async function Registrar() {
         telephone.value = "";
 
         // Enviar los datos al servidor para registrar el usuario
-        fetchPost("InicioSecion/Registrar", "text", frm, function (res) {
+        fetchPost("InicioSesion/Registrar", "text", frm, function (res) {
             
 
             Swal.fire("La cuenta se ha creado con éxito", "La cuenta ha sido creada, por favor inicie sesión", "success");
@@ -187,7 +187,7 @@ async function ValidarInicioSesion() {
     frm.append("contraseña", contraseñaEncriptada);
 
     // Enviar los datos al servidor para validar el inicio de sesión
-    fetchPost("InicioSecion/Validar", "text",frm, function (res) {
+    fetchPost("InicioSesion/Validar", "text",frm, function (res) {
         if (res != -1) {
             // Si las credenciales son correctas
             Swal.fire("Bienvenido", "Has iniciado sesión correctamente.", "success").then(() => {

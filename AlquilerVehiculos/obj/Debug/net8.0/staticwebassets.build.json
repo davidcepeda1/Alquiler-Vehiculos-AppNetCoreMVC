@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yRUx1DozQrV8aaAsqzBCq3cMiKU05+85Ot93XWCryRg=",
+  "Hash": "XzglQlY/wgTjYVJft2qLBFZzvjrlCLMf5MVoVtfnUBE=",
   "Source": "AlquilerVehiculos",
   "BasePath": "_content/AlquilerVehiculos",
   "Mode": "Default",
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3sm7ppbe3c",
-      "Integrity": "7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8=",
+      "Fingerprint": "8285j32hld",
+      "Integrity": "EPcT2poYQDA3kXFl3ZLCUbsfyQ1nbEGweissIes6C6w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\singup.js"
@@ -2412,7 +2412,7 @@
       ]
     },
     {
-      "Route": "js/singup.3sm7ppbe3c.js",
+      "Route": "js/singup.8285j32hld.js",
       "AssetFile": "D:\\EQUIPO\\Videos\\Alquiler-Vehiculos-AppNetCoreMVC\\AlquilerVehiculos\\wwwroot\\js\\singup.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2422,7 +2422,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7607"
+          "Value": "8053"
         },
         {
           "Name": "Content-Type",
@@ -2430,11 +2430,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8=\""
+          "Value": "\"EPcT2poYQDA3kXFl3ZLCUbsfyQ1nbEGweissIes6C6w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:33:51 GMT"
+          "Value": "Tue, 04 Mar 2025 18:20:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2444,7 +2444,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3sm7ppbe3c"
+          "Value": "8285j32hld"
         },
         {
           "Name": "label",
@@ -2452,7 +2452,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8="
+          "Value": "sha256-EPcT2poYQDA3kXFl3ZLCUbsfyQ1nbEGweissIes6C6w="
         }
       ]
     },
@@ -2467,7 +2467,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7607"
+          "Value": "8053"
         },
         {
           "Name": "Content-Type",
@@ -2475,11 +2475,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8=\""
+          "Value": "\"EPcT2poYQDA3kXFl3ZLCUbsfyQ1nbEGweissIes6C6w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:33:51 GMT"
+          "Value": "Tue, 04 Mar 2025 18:20:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2489,7 +2489,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7aPP1tJPp3X4aD2yw1KbUIKmETpsnZpH+WnXRrhirk8="
+          "Value": "sha256-EPcT2poYQDA3kXFl3ZLCUbsfyQ1nbEGweissIes6C6w="
         }
       ]
     },
