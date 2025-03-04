@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using capaEntidad;
+using System.Text.RegularExpressions;
 
 namespace capaDatos
 {
@@ -63,6 +64,84 @@ namespace capaDatos
                 }
             }
             return Lista;
+        }
+        public int Registrar(ClientesCLS usuario)
+        {
+            int registrado = 0;
+
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    using (SqlCommand cmd = new SqlCommand("uspRegistroUsuario", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+
+                        // Definir los parámetros
+                        cmd.Parameters.AddWithValue("@nombre", usuario.nombre == null ? " " : usuario.nombre);
+                        cmd.Parameters.AddWithValue("@apellido", usuario.apellido == null ? " " : usuario.apellido);
+                        cmd.Parameters.AddWithValue("@usuario", usuario.nombreUsuario == null ? " " : usuario.nombreUsuario);
+                        cmd.Parameters.AddWithValue("@telefono", usuario.telefono);
+                        cmd.Parameters.AddWithValue("@email", usuario.email == null ? " " : usuario.email);
+                        cmd.Parameters.AddWithValue("@contrasena", usuario.contraseña == null ? " " : usuario.contraseña);
+
+                        cn.Open();
+
+                        // Ejecutar el procedimiento
+                        registrado = cmd.ExecuteNonQuery();
+
+                    }
+                }
+                catch (Exception ex)
+                {
+                    registrado = 0;
+                    // Manejo de error
+                    Console.WriteLine("Error en registrar dal " + ex.Message);
+                }
+            }
+            
+            return registrado;
+        }
+
+        public int ValidarUsuario(ClientesCLS usuario)
+        {
+            int respuesta = 0;
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    using (SqlCommand cmd = new SqlCommand("uspValidarUsuario", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+
+                        // Definir los parámetros
+       
+                        cmd.Parameters.AddWithValue("@usuario", usuario.nombreUsuario ?? string.Empty);
+                        cmd.Parameters.AddWithValue("@contrasena", usuario.contraseña ?? string.Empty);
+
+                        cn.Open();
+
+                        var resultado = cmd.ExecuteScalar();  // ✅ Aquí recuperas el resultado
+                        if (resultado != null)
+                        {
+                            respuesta = Convert.ToInt32(resultado);
+                        }
+
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Manejo de error
+                    Console.WriteLine("Error al insertar usuario: " + ex.Message);
+
+                }
+            }
+
+            return respuesta == 0 ? -1 : respuesta;
         }
     }
 }

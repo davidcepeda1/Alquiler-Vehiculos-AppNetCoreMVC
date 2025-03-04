@@ -10,7 +10,8 @@
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
           "capaDatos": "1.0.0",
-          "capaEntidad": "1.0.0"
+          "capaEntidad": "1.0.0",
+          "capaNegocio": "1.0.0"
         },
         "runtime": {
           "AlquilerVehiculos.dll": {}
@@ -1688,6 +1689,18 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "capaNegocio/1.0.0": {
+        "dependencies": {
+          "capaDatos": "1.0.0",
+          "capaEntidad": "1.0.0"
+        },
+        "runtime": {
+          "capaNegocio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -2606,6 +2619,11 @@
       "sha512": ""
     },
     "capaEntidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "capaNegocio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,5 +1,6 @@
 ﻿using capaDatos;
 using capaEntidad;
+using capaNegocio;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AlquilerVehiculos.Controllers
