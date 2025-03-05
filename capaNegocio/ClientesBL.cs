@@ -31,5 +31,6 @@ namespace capaNegocio
             return cliente.ValidarUsuario(usuario);
         }
 
+        
     }
 }

@@ -66,5 +66,120 @@ namespace capaDatos
             }
             return Lista;
         }
+
+        public int GuardarEmpleado(EmpleadosCLS empleado)
+        {
+            int respuesta = 0;
+
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspGuardarEmpleadoYUsuario", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@idUsuario", empleado.idUsuario);
+                        cmd.Parameters.AddWithValue("@nombreUsuario", empleado.nombreUsuario);
+                        cmd.Parameters.AddWithValue("@email", empleado.email == null ? "" : empleado.email);
+                        cmd.Parameters.AddWithValue("@contrasena", empleado.contraseña == null ? "" : empleado.contraseña);
+                        cmd.Parameters.AddWithValue("@nombreEmpleado", empleado.nombre== null ? "" : empleado.nombre);
+                        cmd.Parameters.AddWithValue("@apellidoEmpleado", empleado.apellido== null ? "" : empleado.apellido);
+                        cmd.Parameters.AddWithValue("@cargoEmpleado", empleado.cargo == null ? "" : empleado.cargo);
+                        cmd.Parameters.AddWithValue("@telefonoEmpleado", empleado.telefono == null ? "" : empleado.telefono);
+
+
+                        respuesta = cmd.ExecuteNonQuery();
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                    respuesta = 0;
+                    throw;
+                }
+            }
+            return respuesta;
+        }
+        
+        public EmpleadosCLS RecuperarEmpleado(int idEmpleado)
+        {
+            EmpleadosCLS empleados = null; // Inicializar como null
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspRecuperarEmpleados", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@usuarioId", idEmpleado);
+
+                        using (SqlDataReader dr = cmd.ExecuteReader())
+                        {
+                            if (dr.HasRows) // Verificar si hay filas
+                            {
+                                while (dr.Read())
+                                {
+                                    empleados = new EmpleadosCLS
+                                    {
+                                        idEmpleado = dr.IsDBNull(0) ? 0 : dr.GetInt32(0),
+                                        idUsuario = dr.IsDBNull(1) ? 0 : dr.GetInt32(1),
+                                        nombre = dr.IsDBNull(2) ? "" : dr.GetString(2),
+                                        apellido = dr.IsDBNull(3) ? "" : dr.GetString(3),
+                                        cargo = dr.IsDBNull(4) ? "" : dr.GetString(4),
+                                        telefono = dr.IsDBNull(5) ? "" : dr.GetString(5),
+                                        email = dr.IsDBNull(6) ? "" : dr.GetString(6) // Corregido el índice
+                                    };
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("No se encontraron registros para el ID proporcionado.");
+                            }
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Manejo de excepciones
+                    Console.WriteLine("Error: " + ex.Message);
+                }
+                finally
+                {
+                    cn.Close();
+                }
+            }
+            return empleados; // Devolver el objeto empleados
+        }
+
+        public int EliminarEmpleado(int idEmpleado)
+        {
+            int respuesta = 0;
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspEliminarEmpleado", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@idEmpleado", idEmpleado);
+                        respuesta = cmd.ExecuteNonQuery();
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                }
+            }
+            return respuesta;
+        }
     }
 }

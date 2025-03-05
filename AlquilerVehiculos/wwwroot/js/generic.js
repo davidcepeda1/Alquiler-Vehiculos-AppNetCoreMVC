@@ -30,83 +30,20 @@ function LimpiarDatos(idFormulario) {
 
 async function fetchGet(url, tipoRespuesta, callback) {
     try {
-        let raiz = document.getElementById("hdfOculto")?.value || "";
-        let urlCompleta = `${window.location.protocol}//${window.location.host}/${raiz}${url}`;
-        console.log("🔍 URL completa que intenta acceder: ", urlCompleta);  // Verifica la URL
+        let urlCompleta = window.location.protocol + "//" + window.location.host + "/" + url;
+        let res = await fetch(urlCompleta)
 
-        let res = await fetch(urlCompleta);
-        if (!res.ok) {
-            throw new Error('Error en la solicitud: ' + res.statusText);
-        }
-
-
-        
-        if (tipoRespuesta == "json") {
+        if (tipoRespuesta == "json")
             res = await res.json();
-        } else if (tipoRespuesta == "text") {
+        else if (tipoRespuesta == "text")
             res = await res.text();
-        }
 
-        console.log("✅ Datos recibidos del backend:", res);
-        callback(res);
+        callback(res)
 
     } catch (e) {
-        console.error("❌ Error en fetchGet:", e);
-        alert("Ocurrió un problema: " + e.message);
+        alert("ERROR! Ocurre un problema.");
     }
 }
-
-//async function fetchGet(url, tipoRespuesta, callback) {
-//    try {
-//        let raiz = document.getElementById("hdfOculto")?.value || "";
-//        let urlCompleta = `${window.location.protocol}//${window.location.host}/${raiz}${url}`;
-
-//        console.log("🔍 URL completa que intenta acceder: ", urlCompleta);  // Verifica la URL
-
-//        let res = await fetch(urlCompleta);
-//        console.log(res);
-
-//        // Verifica si la respuesta es exitosa
-//        if (!res.ok) {
-//            throw new Error(`Error en la solicitud: ${res.status} ${res.statusText}`);
-//        }
-
-//        // Procesa la respuesta según el tipo solicitado
-//        if (tipoRespuesta === "json") {
-//            try {
-//                res = await res.json();
-//            } catch (jsonError) {
-//                throw new Error("Error al procesar la respuesta como JSON: " + jsonError.message);
-//            }
-//        } else if (tipoRespuesta === "text") {
-//            try {
-//                res = await res.text();
-//            } catch (textError) {
-//                throw new Error("Error al procesar la respuesta como texto: " + textError.message);
-//            }
-//        }
-
-//        console.log("✅ Datos recibidos del backend:", res);
-//        callback(res);
-
-//    } catch (e) {
-//        // Manejo de errores más específicos
-//        if (e.name === 'TypeError' && e.message.includes('Failed to fetch')) {
-//            console.error("❌ Error de red: No se pudo conectar al servidor.");
-//            alert("No se pudo conectar con el servidor. Verifica tu conexión a internet.");
-//        } else if (e.message.includes('Error en la solicitud')) {
-//            console.error("❌ Error en la solicitud:", e.message);
-//            alert(`Ocurrió un error en la solicitud: ${e.message}`);
-//        } else if (e.message.includes('Error al procesar la respuesta')) {
-//            console.error("❌ Error en el procesamiento de la respuesta:", e.message);
-//            alert(`Error al procesar la respuesta del servidor: ${e.message}`);
-//        } else {
-//            console.error("❌ Error desconocido:", e);
-//            alert("Ocurrió un problema desconocido: " + e.message);
-//        }
-//    }
-//}
-
 
 async function fetchPost(url, tipoRespuesta, frm, callback) {
     try {
@@ -135,156 +72,99 @@ async function fetchPost(url, tipoRespuesta, frm, callback) {
     }
 }
 
-//async function fetchPost(url, tipoRespuesta, frm, callback) {
-//    try {
-//        // Validar que la URL no esté vacía
-//        if (!url || typeof url !== "string") {
-//            throw new Error("URL no válida o vacía.");
-//        }
-
-//        let raiz = document.getElementById("hdfOculto")?.value || ""; 
-//        let urlCompleta = `${window.location.protocol}//${window.location.host}/${raiz}${url}`;
-
-//        let res;
-//        try {
-//            res = await fetch(urlCompleta, {
-//                method: "POST",
-//                body: frm
-//            });
-//        } catch (networkError) {
-//            throw new Error(`Error de red: No se pudo conectar con el servidor. Detalles: ${networkError.message}`);
-//        }
-
-//        // Manejo de errores HTTP
-//        if (!res.ok) {
-//            throw new Error(`Error HTTP ${res.status}: ${res.statusText}`);
-//        }
-
-//        let responseData;
-//        try {
-//            if (tipoRespuesta === "json") {
-//                responseData = await res.json();
-//            } else if (tipoRespuesta === "text") {
-//                responseData = await res.text();
-//            } else {
-//                throw new Error(`Tipo de respuesta desconocido: '${tipoRespuesta}'. Usa 'json' o 'text'.`);
-//            }
-//        } catch (parseError) {
-//            throw new Error(`Error al procesar la respuesta: ${parseError.message}`);
-//        }
-
-//        // Validar que el callback sea una función
-//        if (typeof callback !== "function") {
-//            throw new Error("El callback proporcionado no es una función válida.");
-//        }
-
-//        callback(responseData);
-
-//    } catch (e) {
-//        console.error("Error en fetchPost:", e);
-//        alert(`Ocurrió un problema en POST: ${e.message}`);
-//    }
-//}
-
 
 let objConfiguracionGlobal;
 
 function pintar(objConfiguracion) {
     objConfiguracionGlobal = objConfiguracion;
 
-    if (objConfiguracionGlobal.divContenedorTabla == undefined) {
-        objConfiguracionGlobal.divContenedorTabla = "divContenedorTabla"
-    }
+    if (objConfiguracionGlobal.divContenedorTabla == undefined)
+        objConfiguracionGlobal.divContenedorTabla = "divTabla";
+    if (objConfiguracionGlobal.editar == undefined)
+        objConfiguracionGlobal.editar = false;
+    if (objConfiguracionGlobal.eliminar == undefined)
+        objConfiguracionGlobal.eliminar = false;
+    if (objConfiguracionGlobal.propiedadID == undefined)
+        objConfiguracionGlobal.propiedadID = "";
 
     fetchGet(objConfiguracion.url, "json", function (res) {
         let contenido = "";
 
-        contenido += "<div id='" + objConfiguracionGlobal.divContenedorTabla + "'>"
+        contenido += "<div id='divContenedor'>";
 
         contenido += generarTabla(res);
 
         contenido += "</div>";
 
-        document.getElementById("divtabla").innerHTML = contenido;
-        new DataTable("#dataTable")
-    })
+        document.getElementById(objConfiguracionGlobal.divContenedorTabla).innerHTML = contenido;
+
+        new DataTable('#myTable');
+    });
 }
 
 function generarTabla(res) {
+    let contenido = "";
 
-    let contenido = " ";
-
+    // ["Id tipo Medicamento", "Nombre", "Descripcion", "Stock"]
     let cabeceras = objConfiguracionGlobal.cabeceras;
+    let propiedades = objConfiguracionGlobal.propiedades;
 
-    let nombrePropiedades = objConfiguracionGlobal.propiedades;
+    contenido += "<table id='myTable' class='table table-striped'>";
+    contenido += "<thead>";
+    contenido += "<tr>";
 
-    contenido = '<table class="table" id="dataTable">';
-    contenido += "<thead>"
-
-    /* Primera fila de la tabla con los headers */
-
-    contenido += "<tr>"
-
-    for (var i = 0; i < cabeceras.length; i++) {
-        contenido += "<td>" + cabeceras[i] + "</td>";
+    for (let i = 0; i < cabeceras.length; i++) {
+        contenido += "<th>" + cabeceras[i] + "</th>";
     }
 
-    if (objConfiguracionGlobal.editar || objConfiguracionGlobal.eliminar) {
-        contenido += "<td>Operaciones</td>";
+    if (objConfiguracionGlobal.editar === true || objConfiguracionGlobal.eliminar === true) {
+        contenido += "<th>Operaciones</th>";
     }
 
-    contenido += "</tr>"
-
-    contenido += "</thead>"
-
-    // Cuerpo
-
-    contenido += "<tbody>"
+    contenido += "</tr>";
+    contenido += "</thead>";
 
     let nroRegistros = res.length;
     let obj;
     let propiedadActual;
 
+    contenido += "<tbody>";
+
     for (let i = 0; i < nroRegistros; i++) {
         obj = res[i];
         contenido += "<tr>";
-
-        for (var j = 0; j < nombrePropiedades.length; j++) {
-            propiedadActual = nombrePropiedades[j];
+        for (let j = 0; j < propiedades.length; j++) {
+            propiedadActual = propiedades[j];
             contenido += "<td>" + obj[propiedadActual] + "</td>";
         }
 
-        if (objConfiguracionGlobal.editar || objConfiguracionGlobal.eliminar) {
+        if (objConfiguracionGlobal.editar === true || objConfiguracionGlobal.eliminar === true) {
+            let propiedadID = objConfiguracionGlobal.propiedadID;
             contenido += "<td>";
-
-            if (objConfiguracionGlobal.editar) {
-                contenido += `<button class="btn btn-primary" type="submit">
-                    <i class="icon">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
-                      <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
-                      <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5z"/>
-                        </svg>
-                    </i>
-                </button>`;
+            if (objConfiguracionGlobal.editar === true) {
+                contenido += `<i onclick="Editar(${obj[propiedadID]})" class="btn btn-primary">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
+                                    <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
+                                    <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5z"/>
+                                </svg>
+                            </i>`;
             }
-
             contenido += " ";
-            if (objConfiguracionGlobal.eliminar) {
-                contenido += `<button class="btn btn-danger" type="submit">
-                    <i class="icon">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash-fill" viewBox="0 0 16 16">
-                        <path d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5M8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5m3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0"/>
-                        </svg>
-                    </i>
-                </button>`;
+            if (objConfiguracionGlobal.eliminar === true) {
+                contenido += `<i onclick="Eliminar(${obj[propiedadID]})" class="btn btn-danger">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
+                          <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0z"/>
+                          <path d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4zM2.5 3h11V2h-11z"/>
+                        </svg></i>`;
             }
             contenido += "</td>";
         }
+
         contenido += "</tr>";
     }
 
-    contenido += "</tbody>"
-    contenido += "</table>"
+    contenido += "</tbody>";
+    contenido += "</table>";
 
     return contenido;
 }
@@ -344,4 +224,18 @@ function generarLista(data, contenedorId, opciones) {
 
     listaHTML += '</div>';
     contenedor.innerHTML = listaHTML;
+}
+
+function LimpiarDatos(idFormulario) {
+    let elementsName = document.querySelectorAll('#' + idFormulario + " [name]");
+
+    elementsName.forEach(element => {
+        element.value = "";
+    });
+}
+
+//Funcion para Encriptar Contraseña
+async function encriptarSha256(texto) {
+    const hashBuffer = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(texto));
+    return Array.from(new Uint8Array(hashBuffer)).map(b => b.toString(16).padStart(2, '0')).join('');
 }
