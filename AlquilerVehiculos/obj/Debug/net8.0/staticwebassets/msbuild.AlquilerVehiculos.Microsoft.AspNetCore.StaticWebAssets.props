@@ -210,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lln1jh7u37</Fingerprint>
-      <Integrity>ufRg6/VkYGIGh1VqCkHW1F1Ip2vo9zwJTTIoc5A5JRk=</Integrity>
+      <Fingerprint>klzapfc39u</Fingerprint>
+      <Integrity>SFgHOnpjkumM7F7PerGfB8o9RvDJUOJQT8+1v9pbwSU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\singup.js'))</OriginalItemSpec>

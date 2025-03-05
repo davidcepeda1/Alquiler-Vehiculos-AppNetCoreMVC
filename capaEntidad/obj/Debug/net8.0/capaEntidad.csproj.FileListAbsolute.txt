@@ -45,3 +45,15 @@ D:\EQUIPO\Videos\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\c
 D:\EQUIPO\Videos\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\refint\capaEntidad.dll
 D:\EQUIPO\Videos\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.pdb
 D:\EQUIPO\Videos\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\ref\capaEntidad.dll
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\bin\Debug\net8.0\capaEntidad.deps.json
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.AssemblyInfo.cs
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.sourcelink.json
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.dll
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\refint\capaEntidad.dll
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\capaEntidad.pdb
+C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaEntidad\obj\Debug\net8.0\ref\capaEntidad.dll

@@ -44,9 +44,13 @@
         </nav>
 
         <div id="login-btn">
-            <a href="/InicioSesion/InicioSesion" class="btn">Login</a>
-            <i class="far fa-user"></i>
+            <!-- Botón de "Iniciar sesión", visible cuando no hay sesión activa -->
+            <a id="loginButton" class="btn" href="/InicioSesion/InicioSesion">Iniciar sesión</a>
+
+            <!-- Botón de "Cerrar sesión", visible solo cuando el usuario ha iniciado sesión -->
+            <a id="logoutButton" class="btn" onclick="cerrarSesion()" style="display: none;">Cerrar sesión</a>
         </div>
+
 
 
     </header>
@@ -87,6 +91,7 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 	<script src="~/js/site.js"></script>
+    <script src="~/js/singup.js"></script>
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>

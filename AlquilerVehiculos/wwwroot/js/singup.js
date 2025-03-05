@@ -1,4 +1,35 @@
-﻿//---------Eliminar Espacios en Blanco---------
+﻿// Verificar estado de la sesión y actualizar botones cuando el DOM esté cargado
+document.addEventListener('DOMContentLoaded', function () {
+    // Verificar si el usuario está autenticado al cargar cada página
+    if (sessionStorage.getItem("UserId")) {
+        // Si el usuario está autenticado, ocultamos el botón de "Iniciar sesión"
+        document.getElementById("loginButton").style.display = "none";
+
+        // Y mostramos el botón de "Cerrar sesión"
+        document.getElementById("logoutButton").style.display = "inline-block";
+    } else {
+        // Si no está autenticado, mostramos el botón de "Iniciar sesión"
+        document.getElementById("loginButton").style.display = "inline-block";
+
+        // Y ocultamos el botón de "Cerrar sesión"
+        document.getElementById("logoutButton").style.display = "none";
+    }
+});
+
+
+// Función para cerrar sesión
+function cerrarSesion() {
+    // Eliminar el UserId del sessionStorage
+    sessionStorage.removeItem("UserId");
+
+    // Mostrar una notificación de cierre de sesión
+    Swal.fire("Cerrar sesión", "Has cerrado sesión correctamente.", "success").then(() => {
+        // Redirigir al usuario a la página de inicio después de cerrar sesión
+        window.location.href = "/Home"; // Redirigir al home
+    });
+}
+
+//---------Eliminar Espacios en Blanco---------
 function totxt(e) {
     e = e.value.trim();
     return e;
@@ -168,7 +199,7 @@ async function Registrar() {
     }
 }
 
-//Funcion para Iniciar Sesion
+// Función para validar inicio de sesión
 async function ValidarInicioSesion() {
     let username = document.getElementById("nombreUsuario2"); // Campo de nombre de usuario
     let password = document.getElementById("contraseña2"); // Campo de contraseña
@@ -188,20 +219,24 @@ async function ValidarInicioSesion() {
 
     // Enviar los datos al servidor para validar el inicio de sesión
     fetchPost("InicioSesion/Validar", "text", frm, function (res) {
-        console.log(res + "respuesta");
         if (res >= 0) {
-            // Si las credenciales son correctas
+            // Si las credenciales son correctas, guarda el UserId en sessionStorage
+            sessionStorage.setItem("UserId", res);  // Aquí se guarda el UserId en sessionStorage
+
             Swal.fire("Bienvenido", "Has iniciado sesión correctamente.", "success").then(() => {
-                // Redirigir al usuario a la página principal
-                window.location.href = "/Home";
+                // Cambiar el texto del botón "Iniciar sesión" a "Cerrar sesión" en el nav
+                document.getElementById("loginButton").style.display = "none";
+                document.getElementById("logoutButton").style.display = "inline-block";
+
+                // Redirigir al usuario a la página principal después del login exitoso
+                window.location.href = "/Home"; // Redirigir al usuario a la página principal
             });
-        } else if ( res == -1) {
+        } else if (res == -1) {
             Swal.fire("Bienvenido Administrador", "Has iniciado sesión correctamente.", "success").then(() => {
                 // Redirigir al administrador a su página específica
                 window.location.href = "/Admin/Admin";
             });
-        }
-        else {
+        } else {
             // Si las credenciales son incorrectas
             Swal.fire("Error", "Usuario o contraseña incorrectos.", "error");
         }

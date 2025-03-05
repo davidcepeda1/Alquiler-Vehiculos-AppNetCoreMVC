@@ -10,6 +10,12 @@ namespace AlquilerVehiculos.Controllers
             return View();
         }
 
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            return Json(new { success = true });
+        }
+
         public int Registrar(ClientesCLS usuario)
         {
             ClientesBL cliente = new ClientesBL(); 
