@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i2fdn3nw5i</Fingerprint>
-      <Integrity>imAmNBVkx1AgXCecdhbBSqJSd5svmELFEVcZ+YmowLs=</Integrity>
+      <Fingerprint>8cnbp2vjn4</Fingerprint>
+      <Integrity>GAR5GJIu0+qei7g229gs+2hYZOQ1vNIA+vytHci+K7A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\empleados.js'))</OriginalItemSpec>
@@ -138,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>q0a9k49m4f</Fingerprint>
-      <Integrity>+s7CXIK58DQ2cqXZZsdOhXcyGG7XoaiA3kSfqkeKFtg=</Integrity>
+      <Fingerprint>u42k4t7g5e</Fingerprint>
+      <Integrity>MjCM8IqMoIKS788a/M7bCtUS3lOlRLhx6tiE2B8Zy8Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\generic.js'))</OriginalItemSpec>
@@ -174,8 +174,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6p3n6cz223</Fingerprint>
-      <Integrity>epiD/0doV4Zg6YXtTPLOcAHX+5t8FhqSf+OZMHdjzZ8=</Integrity>
+      <Fingerprint>7felc2m25n</Fingerprint>
+      <Integrity>vQ/fYCHu/B/hrU0fvlKNufVQdYqyaPWHItgB5ls4Nvc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\reservas.js'))</OriginalItemSpec>
@@ -192,8 +192,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nrer5m1va7</Fingerprint>
-      <Integrity>fW8D68X9IMCxfyZEDJK0kZLGoj5+eLU5EExYyQeoWO4=</Integrity>
+      <Fingerprint>lf0abma7so</Fingerprint>
+      <Integrity>T3z+xqlPBQe4poxGBEoZ4gagq5ECnm4MYriFN7AbuxM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\seguros.js'))</OriginalItemSpec>
@@ -210,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>klzapfc39u</Fingerprint>
-      <Integrity>SFgHOnpjkumM7F7PerGfB8o9RvDJUOJQT8+1v9pbwSU=</Integrity>
+      <Fingerprint>7q9i50bydi</Fingerprint>
+      <Integrity>QamjuLTpByDsx+oQV9cRs0H1CmZ/GU7+KfR2xbCt3u0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\singup.js'))</OriginalItemSpec>
@@ -246,8 +246,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ghdzeeastc</Fingerprint>
-      <Integrity>BJWHHKGd1NUNhMhr7QbLpdRjCUPk01Iq2ZXGM/Vqj0k=</Integrity>
+      <Fingerprint>fv47jnxnm5</Fingerprint>
+      <Integrity>lWxsS3BITVTveEqeZnu7Xs0Honk88Et8UZC2ttJxwLU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vehiculos.js'))</OriginalItemSpec>

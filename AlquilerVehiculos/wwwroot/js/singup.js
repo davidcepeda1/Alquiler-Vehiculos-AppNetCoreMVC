@@ -243,8 +243,3 @@ async function ValidarInicioSesion() {
     });
 }
 
-//Funcion para Encriptar Contraseña
-async function encriptarSha256(texto) {
-    const hashBuffer = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(texto));
-    return Array.from(new Uint8Array(hashBuffer)).map(b => b.toString(16).padStart(2, '0')).join('');
-}

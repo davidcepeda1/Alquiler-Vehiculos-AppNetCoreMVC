@@ -15,5 +15,21 @@ namespace capaNegocio
             EmpleadosDAL obj = new EmpleadosDAL();
             return obj.listarEmpleados();
         }
+        public int GuardarEmpleado(EmpleadosCLS empleado)
+        {
+            // Llamamos al método de la capa de datos
+            EmpleadosDAL obj = new EmpleadosDAL();
+            return obj.GuardarEmpleado(empleado);
+        }
+        public EmpleadosCLS RecuperarEmpleado(int idEmpleado)
+        {
+            EmpleadosDAL obj = new EmpleadosDAL();
+            return obj.RecuperarEmpleado(idEmpleado);
+        }
+        public int EliminarEmpleado(int idEmpleado)
+        {
+            EmpleadosDAL obj = new EmpleadosDAL();
+            return obj.EliminarEmpleado(idEmpleado);
+        }
     }
 }
