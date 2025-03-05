@@ -15,5 +15,10 @@ namespace AlquilerVehiculos.Controllers
             ReservasDAL obj = new ReservasDAL();
             return obj.listarReservas();
         }
+        public int CrearReserva(ReservasCLS reservas)
+        {
+            ReservasDAL obj = new ReservasDAL();
+            return obj.CrearReserva(reservas);
+        }
     }
 }

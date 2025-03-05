@@ -71,5 +71,45 @@ namespace capaDatos
             }
             return Lista;
         }
+        public int CrearReserva(ReservasCLS reservas)
+        {
+            try
+            {
+                // Verificar si 'reservas' es nulo
+                if (reservas == null)
+                {
+                    throw new Exception("El objeto de reserva es nulo.");
+                }
+
+                string cadenaDato = ConexionBD.getCadenaConexion();
+                using (SqlConnection cn = new SqlConnection(cadenaDato))
+                {
+                    cn.Open();
+                    SqlCommand cmd = new SqlCommand("uspCrearReserva", cn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    // Asegurarse de que el idCliente y idVehiculo no sean nulos antes de agregarlos como parámetros
+                    if (reservas.idCliente == 0 || reservas.idVehiculo == 0)
+                    {
+                        throw new Exception("El ID del cliente o del vehículo es inválido.");
+                    }
+
+                    cmd.Parameters.AddWithValue("@ClienteID", reservas.idCliente);
+                    cmd.Parameters.AddWithValue("@VehiculoID", reservas.idVehiculo);
+                    cmd.Parameters.AddWithValue("@FechaInicio", reservas.fechaInicio);
+                    cmd.Parameters.AddWithValue("@FechaFin", reservas.fechaFin);
+                    cmd.Parameters.AddWithValue("@Estado", reservas.estado ?? string.Empty);
+
+                    // Ejecutar el procedimiento y obtener el ID de la reserva
+                    int idReserva = Convert.ToInt32(cmd.ExecuteScalar());
+                    return idReserva;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al crear la reserva: " + ex.Message);
+            }
+        }
+
     }
 }

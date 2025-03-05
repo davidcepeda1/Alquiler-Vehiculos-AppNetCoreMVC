@@ -1,4 +1,6 @@
-﻿window.onload = function () {
+﻿let vehiculos = [];
+
+window.onload = function () {
     if (document.getElementById("divtabla")) {
         listarVehiculos();
     }
@@ -20,10 +22,14 @@ async function listarVehiculos() {
         editar: true,
         eliminar: true
     }
-    pintar(objVehiculos);
+    fetchGet("Vehiculos/listarVehiculos", "json", function (res) {
+        vehiculos = res;  // Guardamos los vehículos cargados en la variable global
+        pintar(objVehiculos);  // Llamamos a pintar con la configuración
+    });
 }
 function listarVehiculosSlider() {
     fetchGet("Vehiculos/listarVehiculos", "json", function (res) {
+        vehiculos = res;
         generarSliderVehiculos(res);
         new Swiper(".vehicles-slider", {
             pagination: {

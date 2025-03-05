@@ -301,7 +301,7 @@ function generarSliderVehiculos(res) {
         slider += `<p>Precio : $${vehiculo.precio}</p>`;
         slider += `<p>Año: ${vehiculo.año}</p>`;
         slider += `<p>Estado: ${vehiculo.estado}</p>`;
-        slider += '<button class="btn">Rentar Ahora</button>';
+        slider += `<button class="btn" onclick="mostrarModal(${vehiculo.idVehiculo})">Rentar Ahora</button>`;
         slider += '</div>';
         slider += '</div>';
     });
@@ -336,7 +336,7 @@ function generarLista(data, contenedorId, opciones) {
             <div class="tarjeta-precio">
                 <h3>Pago x Día</h3>
                 <p class="precio">$${item.precio}</p>
-                <button class="btn reservar">Reservar</button>
+                <button class="btn" onclick="mostrarModal(${item.idVehiculo})">Rentar Ahora</button>
                 <a href="https://wa.me/message/5BYYLRCUIQBEB1" class="btn whatsapp">Whatsapp</a>
             </div>
         </div>`;
@@ -344,4 +344,93 @@ function generarLista(data, contenedorId, opciones) {
 
     listaHTML += '</div>';
     contenedor.innerHTML = listaHTML;
+}
+
+function getClienteId() {
+    const cookies = document.cookie.split(';');
+    for (let i = 0; i < cookies.length; i++) {
+        const cookie = cookies[i].trim();
+        if (cookie.startsWith('clienteId=')) {
+            return cookie.substring('clienteId='.length, cookie.length);
+        }
+    }
+    return null;  // Si no se encuentra el idCliente
+}
+
+function mostrarModal(vehiculoId) {
+    const vehiculo = vehiculos.find(v => v.idVehiculo === vehiculoId);
+    if (vehiculo) {
+        const modal = new bootstrap.Modal(document.getElementById('modalReserva')); // Usamos el modal de Bootstrap
+        const modalInfo = document.getElementById("modalVehiculoInfo");
+        modalInfo.setAttribute("data-id", vehiculoId);
+        modalInfo.innerHTML = `
+            <p>Marca: ${vehiculo.marca}</p>
+            <p>Modelo: ${vehiculo.modelo}</p>
+            <p>Año: ${vehiculo.año}</p>
+            <p>Precio x Día: $${vehiculo.precio}</p>
+        `;
+        modal.show();  // Abrimos el modal
+    } else {
+        console.error("Vehículo no encontrado");
+    }
+}
+
+document.getElementById("btnReservar").onclick = function () {
+    const vehiculoId = document.getElementById("modalVehiculoInfo").getAttribute("data-id");
+    console.log("VehiculoId:", vehiculoId);
+    const fechaInicio = document.getElementById("fechaInicio").value;
+    console.log("FechaInicio:", fechaInicio);
+    const fechaFin = document.getElementById("fechaFin").value;
+    console.log("FechaFin:", fechaFin);
+    const userId = sessionStorage.getItem("UserId");
+    console.log("UserId:", userId);
+
+    if (!userId) {
+        // Si no está en sessionStorage, redirigir a la página de inicio de sesión
+        Swal.fire("Error", "Debes iniciar sesión primero.", "error").then(() => {
+            window.location.href = "InicioSesion/InicioSesion";  // Redirigir al login si no está autenticado
+        });
+    } else {
+        // Si el UserId está en sessionStorage, permitir la reserva
+        console.log("UserId:", userId);  // Puedes comprobar que se ha obtenido correctamente
+    }
+
+    // Validación de fechas
+    if (!fechaInicio || !fechaFin) {
+        alert("Por favor selecciona un rango de fechas.");
+        return;
+    }
+
+    // Preparar los datos para enviar como JSON
+    const reservaData = {
+        idCliente: userId,
+        idVehiculo: vehiculoId,
+        fechaInicio: fechaInicio,
+        fechaFin: fechaFin,
+        estado: "Pendiente"
+    };
+
+    // Enviar los datos como JSON
+    fetch("Reservas/crearReserva", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",  // Asegúrate de que el servidor espere JSON
+        },
+        body: JSON.stringify(reservaData)  // Convertir los datos a formato JSON
+    })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                alert("Reserva realizada con éxito.");
+                // Cerrar el modal
+                const modal = bootstrap.Modal.getInstance(document.getElementById('modalReserva'));
+                modal.hide();
+            } else {
+                alert("Hubo un error al realizar la reserva.");
+            }
+        })
+        .catch(error => {
+            console.error("Error al enviar los datos de reserva:", error);
+            alert("Error al realizar la reserva.");
+        });
 }

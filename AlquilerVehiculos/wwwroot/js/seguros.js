@@ -14,3 +14,17 @@ async function listarSeguros() {
     }
     pintar(objSeguros);
 }
+
+function cargarSeguros() {
+    fetchGet("Seguros/listarSeguros", "json", function (seguros) {
+        const selectSeguros = document.getElementById("seguros");
+        selectSeguros.innerHTML = "";
+        seguros.forEach(seguro => {
+            const option = document.createElement("option");
+            option.value = seguro.idSeguro;
+            option.textContent = `${seguro.tipoSeguro} - $${seguro.costo}`;
+            selectSeguros.appendChild(option);
+        });
+    });
+}
+

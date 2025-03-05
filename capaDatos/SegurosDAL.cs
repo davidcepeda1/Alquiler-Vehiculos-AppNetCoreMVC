@@ -69,5 +69,31 @@ namespace capaDatos
             }
             return Lista;
         }
+        public int ContratarSeguro(SegurosCLS seguros)
+        {
+            try
+            {
+                string cadenaDato = ConexionBD.getCadenaConexion();
+
+                using (SqlConnection cn = new SqlConnection(cadenaDato))
+                {
+                    cn.Open();
+                    SqlCommand cmd = new SqlCommand("ContratarSeguro", cn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.Parameters.AddWithValue("@ReservaID", seguros.idReserva);
+                    cmd.Parameters.AddWithValue("@TipoSeguroID", seguros.idTipoSeguro);
+                    cmd.Parameters.AddWithValue("@Costo", seguros.costo);
+
+                    // Ejecutar el procedimiento y obtener el ID del seguro
+                    int seguroID = Convert.ToInt32(cmd.ExecuteScalar());
+                    return seguroID;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al contratar el seguro: " + ex.Message);
+            }
+        }
     }
 }

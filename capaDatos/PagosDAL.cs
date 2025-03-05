@@ -67,5 +67,31 @@ namespace capaDatos
             }
             return Lista;
         }
+        public int RegistrarPago(PagosCLS pagos)
+        {
+            try
+            {
+                string cadenaDato = ConexionBD.getCadenaConexion();
+
+                using (SqlConnection cn = new SqlConnection(cadenaDato))
+                {
+                    cn.Open();
+                    SqlCommand cmd = new SqlCommand("RegistrarPago", cn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.Parameters.AddWithValue("@ReservaID", pagos.idReserva);
+                    cmd.Parameters.AddWithValue("@Monto", pagos.monto);
+                    cmd.Parameters.AddWithValue("@MetodoPagoID", pagos.idMetodoPago);
+
+                    // Ejecutar el procedimiento y obtener el ID del pago
+                    int pagoID = Convert.ToInt32(cmd.ExecuteScalar());
+                    return pagoID;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al registrar el pago: " + ex.Message);
+            }
+        }
     }
 }

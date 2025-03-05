@@ -27,5 +27,10 @@ namespace AlquilerVehiculos.Controllers
             SegurosDAL obj = new SegurosDAL();
             return obj.listarSeguros();
         }
+        public int ContratarSeguro(SegurosCLS seguros)
+        {
+            SegurosDAL obj = new SegurosDAL();
+            return obj.ContratarSeguro(seguros);
+        }
     }
 }

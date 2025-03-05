@@ -15,5 +15,11 @@ namespace capaNegocio
             PagosDAL obj = new PagosDAL();
             return obj.listarPagos();
         }
+        public int RegistrarPago(PagosCLS pagos)
+        {
+            PagosDAL obj = new PagosDAL();
+            return obj.RegistrarPago(pagos);
+        }
+        
     }
 }
