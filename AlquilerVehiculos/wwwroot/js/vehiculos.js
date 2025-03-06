@@ -1,11 +1,15 @@
 ﻿let vehiculos = [];
 
 window.onload = function () {
-    //if (document.getElementById("divtabla")) {
-    //    listarVehiculos();
-    //}
-    listarVehiculosSlider();
-    listarVehiculosCard();
+    if (document.getElementById("divtabla")) {
+       listarVehiculos();
+    }
+    if (document.getElementById("vehicles")) {
+        listarVehiculosSlider();
+    }
+    if (document.getElementById("vehicles-container")) {
+        listarVehiculosCard();
+    }
 };
 
 let objVehiculos;
@@ -28,13 +32,16 @@ function listarVehiculosSlider() {
         console.log(res);
         generarSliderVehiculos(res);
         new Swiper(".vehicles-slider", {
+            grabCursor: true,
+            centeredSlides: true,
+            spaceBetween: 20,
+            loop: true,
+            autoplay: {
+                delay: 9500,
+            },
             pagination: {
                 el: ".swiper-pagination",
                 clickable: true,
-            },
-            loop: true, 
-            autoplay: {
-                delay: 3000,
             },
             navigation: {
                 nextEl: ".swiper-button-next",
@@ -43,6 +50,7 @@ function listarVehiculosSlider() {
         });
     });
 }
+
 
 function listarVehiculosCard() {
     fetch("Vehiculos/listarVehiculos")

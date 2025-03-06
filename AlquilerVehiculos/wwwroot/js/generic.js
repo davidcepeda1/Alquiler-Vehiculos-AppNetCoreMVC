@@ -195,7 +195,7 @@ function generarSliderVehiculos(res) {
     slider += '<div class="swiper-button-prev"></div>';
     slider += '</div>';
 
-    document.getElementById("vehicles-slider-contenedor").innerHTML = slider;
+    document.getElementById("vehicles").innerHTML = slider;
 }
 
 function generarLista(data, contenedorId, opciones) {
