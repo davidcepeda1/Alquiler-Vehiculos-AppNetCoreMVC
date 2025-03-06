@@ -1,15 +1,11 @@
 ﻿let vehiculos = [];
 
 window.onload = function () {
-    if (document.getElementById("divtabla")) {
-        listarVehiculos();
-    }
-    if (document.getElementById("vehicles")) {
-        listarVehiculosSlider();
-    }
-    if (document.getElementById("vehicles-container")) {
-        listarVehiculosCard();
-    }
+    //if (document.getElementById("divtabla")) {
+    //    listarVehiculos();
+    //}
+    listarVehiculosSlider();
+    listarVehiculosCard();
 };
 
 let objVehiculos;
@@ -20,16 +16,16 @@ async function listarVehiculos() {
         cabeceras: ["Id", "Marca", "Modelo", "Año", "Precio", "Estado"],
         propiedades: ["idVehiculo", "marca", "modelo", "año", "precio", "estado"],
         editar: true,
-        eliminar: true
+        eliminar: true,
+        propiedadID: "idVehiculo"
+
     }
-    fetchGet("Vehiculos/listarVehiculos", "json", function (res) {
-        vehiculos = res;  // Guardamos los vehículos cargados en la variable global
-        pintar(objVehiculos);  // Llamamos a pintar con la configuración
-    });
+    pintar(objVehiculos);
+    
 }
 function listarVehiculosSlider() {
     fetchGet("Vehiculos/listarVehiculos", "json", function (res) {
-        vehiculos = res;
+        console.log(res);
         generarSliderVehiculos(res);
         new Swiper(".vehicles-slider", {
             pagination: {

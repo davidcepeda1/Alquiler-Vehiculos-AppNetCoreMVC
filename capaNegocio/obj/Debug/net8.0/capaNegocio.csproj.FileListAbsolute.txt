@@ -52,3 +52,21 @@ C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\ne
 C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\refint\capaNegocio.dll
 C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\capaNegocio.pdb
 C:\Users\David\Desktop\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\ref\capaNegocio.dll
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\bin\Debug\net8.0\capaNegocio.deps.json
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\bin\Debug\net8.0\capaNegocio.dll
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\bin\Debug\net8.0\capaNegocio.pdb
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\bin\Debug\net8.0\capaDatos.dll
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\bin\Debug\net8.0\capaEntidad.dll
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\bin\Debug\net8.0\capaDatos.pdb
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\bin\Debug\net8.0\capaEntidad.pdb
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.AssemblyReference.cache
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfoInputs.cache
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfo.cs
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.CoreCompileInputs.cache
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\capaNegocio.sourcelink.json
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\capaNego.836DF9B9.Up2Date
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\capaNegocio.dll
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\refint\capaNegocio.dll
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\capaNegocio.pdb
+D:\Nicolay Chillo\Universidad\Semestre 4\Programacion Web\Alquiler-Vehiculos-AppNetCoreMVC\capaNegocio\obj\Debug\net8.0\ref\capaNegocio.dll
