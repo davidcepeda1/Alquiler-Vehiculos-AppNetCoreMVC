@@ -90,36 +90,24 @@ function validation(input, inputName, re, label) {
     return true;
 }
 //----------------MENSAJES DE ICONOS---------------
-let userIcon = document.getElementById("userIcon");
-let emailIcon = document.getElementById("emailIcon");
-let passIcon = document.getElementById("passIcon");
-let nameIcon = document.getElementById("nameIcon");
-let lastNameIcon = document.getElementById("lastNameIcon");
-let telephoneIcon = document.getElementById("telephoneIcon");
+function mensaje(tipo) {
+    let mensajes = {
+        user: "El usuario debe contener solo letras y números, además de tener de 5 a 15 caracteres",
+        email: "El correo electrónico debe ser válido.",
+        pass: "La contraseña debe contener números y letras de 7 a 14 caracteres",
+        name: "El nombre debe contener solo letras y estar entre 2 y 20 caracteres.",
+        lastName: "El apellido debe contener solo letras y estar entre 2 y 20 caracteres.",
+        telephone: "El teléfono debe contener solo números y tener 10 dígitos."
+    };
 
-userIcon.onclick = function () {
-
-    Swal.fire(`El usuario debe contener solo letras y números, además de tener de 5 a 15 caracteres`);
-}
-emailIcon.onclick = function () {
-
-    Swal.fire(`El correo electrónico debe ser válido.`);
-}
-passIcon.onclick = function () {
-
-    Swal.fire(`La contraseña debe contener números y letras de 7 a 14 caracteres`);
-}
-nameIcon.onclick = function () {
-    Swal.fire(`El nombre debe contener solo letras y estar entre 2 y 20 caracteres.`);
+    // Mostrar el mensaje según el tipo recibido
+    if (mensajes[tipo]) {
+        Swal.fire(mensajes[tipo]);
+    } else {
+        Swal.fire("Información no disponible.");
+    }
 }
 
-lastNameIcon.onclick = function () {
-    Swal.fire(`El apellido debe contener solo letras y estar entre 2 y 20 caracteres.`);
-}
-
-telephoneIcon.onclick = function () {
-    Swal.fire(`El teléfono debe contener solo números y tener 10 dígitos.`);
-}
 
 /*
 
@@ -219,6 +207,7 @@ async function ValidarInicioSesion() {
 
     // Enviar los datos al servidor para validar el inicio de sesión
     fetchPost("InicioSesion/Validar", "text", frm, function (res) {
+        console.log(res);
         if (res >= 0) {
             // Si las credenciales son correctas, guarda el UserId en sessionStorage
             sessionStorage.setItem("UserId", res);  // Aquí se guarda el UserId en sessionStorage

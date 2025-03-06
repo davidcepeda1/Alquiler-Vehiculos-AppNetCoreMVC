@@ -20,19 +20,22 @@ window.onscroll = () => {
 };
 
 document.querySelector('.home').onmousemove = (e) => {
-
     document.querySelectorAll('.home-parallax').forEach(elm => {
-
         let speed = elm.getAttribute('data-speed');
+        speed = parseFloat(speed) || 1;  // Asegúrate de que speed sea un número válido.
 
         let x = (window.innerWidth - e.pageX * speed) / 90;
         let y = (window.innerHeight - e.pageY * speed) / 90;
 
-        elm.style.transform = `translateX(${y}px) translateY(${x}px)`;
-
+        // Verificar si x y y son números válidos
+        if (!isNaN(x) && !isNaN(y)) {
+            elm.style.transform = `translateX(${y}px) translateY(${x}px)`;
+        } else {
+            console.error("Valores no válidos para x o y", x, y);
+        }
     });
-
 };
+
 
 
 document.querySelector('.home').onmouseleave = (e) => {

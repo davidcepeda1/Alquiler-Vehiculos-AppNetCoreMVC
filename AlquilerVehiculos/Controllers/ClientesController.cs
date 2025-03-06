@@ -14,7 +14,8 @@ namespace AlquilerVehiculos.Controllers
         public List<ClientesCLS> listarClientes()
         {
             ClientesDAL obj = new ClientesDAL();
-            return obj.listarClientes();
+            List<ClientesCLS> clientes =  obj.listarClientes();
+            return clientes;
         }
     }
 }
