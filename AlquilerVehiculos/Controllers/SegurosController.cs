@@ -32,5 +32,6 @@ namespace AlquilerVehiculos.Controllers
             SegurosDAL obj = new SegurosDAL();
             return obj.ContratarSeguro(seguros);
         }
+
     }
 }

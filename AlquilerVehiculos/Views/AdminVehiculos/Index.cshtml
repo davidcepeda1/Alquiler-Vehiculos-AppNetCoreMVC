@@ -1,0 +1,80 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    ViewBag.Title = "Vehiculos - Administración";
+}
+<h1>Vehiculos</h1>
+
+
+<button type="button" class="btn btn-success" data-bs-toggle="modal" onclick="MostrarModal()">
+    Nuevo Vehiculo
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-briefcase" viewBox="0 0 16 16">
+        <path d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v8A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-8A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1zm0 1h3a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5m1.886 6.914L15 7.151V12.5a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5V7.15l6.614 1.764a1.5 1.5 0 0 0 .772 0M1.5 4h13a.5.5 0 0 1 .5.5v1.616L8.129 7.948a.5.5 0 0 1-.258 0L1 6.116V4.5a.5.5 0 0 1 .5-.5" />
+    </svg>
+</button>
+
+<br />
+<br />
+
+
+<!-- Modal -->
+<div class="modal fade" id="modalVehiculoAdmin" tabindex="-1" aria-labelledby="modalVehiculoLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalVehiculoLabel">Gestionar Vehiculo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmVehiculoAdmin" method="post" class="row g-3">
+                    <div class="col-md-4">
+                        <label for="inputIdVehiculo" class="form-label">Id Vehiculo</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="idVehiculo" id="idVehiculo" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputMarca" class="form-label">Marca</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="marca" id="marca">
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputModelo" class="form-label">Modelo</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="modelo" id="modelo">
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputAño" class="form-label">Año</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="año" id="año">
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputPrecio" class="form-label">Precio</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="precio" id="precio">
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputCargo" class="form-label">Estado</label>
+                        <select class="form-select shadow-sm rounded" name="estado" id="estado">
+                            <option value="">Seleccione un estado</option>
+                            <option value="Disponible">Disponible</option>
+                            <option value="Reservado">Reservado</option>
+                            <option value="Mantenimiento">Mantenimiento</option>
+                            <option value="No disponible">No disponible</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputImagen" class="form-label">Imagen</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="imagen" id="imagen">
+                    </div>
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" onclick="GuardarVehiculo()">Guardar</button>
+                <button type="button" class="btn btn-secondary" onclick="LimpiarVehiculo()">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="divTabla"></div>
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/vehiculos.js"></script>
+
+<script src="~/js/adminvehiculos.js"></script>

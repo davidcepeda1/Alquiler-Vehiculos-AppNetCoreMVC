@@ -1,5 +1,6 @@
 ﻿using capaDatos;
 using capaEntidad;
+using capaNegocio;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AlquilerVehiculos.Controllers
@@ -15,5 +16,6 @@ namespace AlquilerVehiculos.Controllers
             VehiculosDAL obj = new VehiculosDAL();
             return obj.listarVehiculos();
         }
+        
     }
 }

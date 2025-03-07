@@ -1,7 +1,7 @@
 ﻿let vehiculos = [];
 
 window.onload = function () {
-    if (document.getElementById("divtabla")) {
+    if (document.getElementById("divTabla")) {
        listarVehiculos();
     }
     if (document.getElementById("vehicles")) {
@@ -62,4 +62,3 @@ function listarVehiculosCard() {
         })
         .catch(error => console.error("Error al obtener vehículos:", error));
 }
-

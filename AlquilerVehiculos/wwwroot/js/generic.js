@@ -19,13 +19,11 @@ function GetN(namecontrol) {
 }
 
 function LimpiarDatos(idFormulario) {
-    let formulario = document.getElementById(idFormulario);
-    if (formulario) {
-        let elementos = formulario.querySelectorAll("input, textarea, select");
-        elementos.forEach(elemento => {
-            elemento.value = "";
-        });
-    }
+    let elementsName = document.querySelectorAll('#' + idFormulario + " [name]");
+
+    elementsName.forEach(element => {
+        element.value = "";
+    });
 }
 
 async function fetchGet(url, tipoRespuesta, callback) {

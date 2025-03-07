@@ -7,8 +7,8 @@ let objEmpleados;
 async function listarEmpleados() {
     objEmpleados = {
         url: "Empleados/listarEmpleados",
-        cabeceras: ["ID Empleado", "ID Usuario", "Nombre Usuario", "Email", "Nombre", "Apellido", "Cargo", "Telefono"],
-        propiedades: ["idEmpleado", "idUsuario", "nombreUsuario", "email", "nombre", "apellido", "cargo", "telefono"],
+        cabeceras: ["ID Empleado", "Nombre Usuario", "Email", "Nombre", "Apellido", "Cargo", "Telefono"],
+        propiedades: ["idEmpleado", "nombreUsuario", "email", "nombre", "apellido", "cargo", "telefono"],
         editar: true,
         eliminar: true,
         propiedadID: "idEmpleado"
@@ -16,7 +16,7 @@ async function listarEmpleados() {
     pintar(objEmpleados);
 }
 function MostrarModal() {
-    // LimpiarDatos("frmLaboratorio");
+    LimpiarDatos("frmEmpleado");
     var myModal = new bootstrap.Modal(document.getElementById('modalEmpleado'));
     myModal.show();
 }
@@ -106,7 +106,7 @@ function Eliminar(id) {
     fetchGet("Empleados/RecuperarEmpleado/?idEmpleado=" + id, "json", function (data) {
         Swal.fire({
             title: '¿Estás seguro?',
-            text: "¿Desea eliminar el Empleado" + data.nombre + "?",
+            text: "¿Desea eliminar el Empleado " + data.nombre + "?",
             icon: 'warning',
             showCancelButton: true,
             confirmButtonColor: '#3085d6',

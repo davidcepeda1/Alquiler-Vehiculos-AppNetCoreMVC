@@ -1,10 +1,9 @@
 ﻿@{
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
-    ViewBag.Title = "Empleados - Administración";
+    ViewBag.Title = "Clientes - Administración";
 }
+<h1>Clientes</h1>
 
-
-<h1>Empleados</h1>
 
 <button type="button" class="btn btn-success" data-bs-toggle="modal" onclick="MostrarModal()">
     Nuevo Cliente
@@ -18,21 +17,20 @@
 
 
 <!-- Modal -->
-<div class="modal fade" id="modalEmpleado" tabindex="-1" aria-labelledby="modalEmpleadoLabel" aria-hidden="true">
+<div class="modal fade" id="modalCliente" tabindex="-1" aria-labelledby="modalClienteLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="modalEmpleadoLabel">Gestionar Empleado</h5>
+                <h5 class="modal-title" id="modalClienteLabel">Gestionar Cliente</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <form id="frmEmpleado" method="post" class="row g-3">
+                <form id="frmCliente" method="post" class="row g-3">
                     <div class="col-md-4">
-                        <label for="inputIdEmpleado" class="form-label">Id Empleado</label>
-                        <input type="text" class="form-control shadow-sm rounded" name="idEmpleado" id="idEmpleado"  readonly>
+                        <label for="inputIdCliente" class="form-label">Id Cliente</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="idCliente" id="idCliente" readonly>
                     </div>
-¿                        <input type="hidden" class="form-control shadow-sm rounded" name="idUsuario" id="idUsuario" readonly>
-                    
+                    <input type="hidden" class="form-control shadow-sm rounded" name="idUsuario" id="idUsuario" readonly>
                     <div class="col-md-4">
                         <label for="inputNombre" class="form-label">Nombre</label>
                         <input type="text" class="form-control shadow-sm rounded" name="nombre" id="nombre">
@@ -42,18 +40,12 @@
                         <input type="text" class="form-control shadow-sm rounded" name="apellido" id="apellido">
                     </div>
                     <div class="col-md-4">
-                        <label for="inputEmail" class="form-label">Email</label>
-                        <input type="text" class="form-control shadow-sm rounded" name="email" id="email">
+                        <label for="inputNombreUsuario" class="form-label">Nombre Usuario</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="nombreUsuario" id="nombreUsuario">
                     </div>
                     <div class="col-md-4">
-                        <label for="inputCargo" class="form-label">Cargo</label>
-                        <select class="form-select shadow-sm rounded" name="cargo" id="cargo">
-                            <option value="">Seleccione un cargo</option>
-                            <option value="Administrativo">Administrativo</option>
-                            <option value="Operativo">Operativo</option>
-                            <option value="Atencion al Cliente y Ventas">Atención al Cliente y Ventas</option>
-                            <option value="Logistica">Logística</option>
-                        </select>
+                        <label for="inputEmail" class="form-label">Email</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="email" id="email">
                     </div>
                     <div class="col-md-4">
                         <label for="inputTelefono" class="form-label">Telefono</label>
@@ -63,16 +55,16 @@
                 </form>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-success" onclick="GuardarEmpleado()">Guardar</button>
-                <button type="button" class="btn btn-secondary" onclick="LimpiarEmpleados()">Limpiar</button>
+                <button type="button" class="btn btn-success" onclick="GuardarCliente()">Guardar</button>
+                <button type="button" class="btn btn-secondary" onclick="LimpiarCliente()">Limpiar</button>
             </div>
         </div>
     </div>
 </div>
 
 
-
 <div id="divTabla"></div>
+
 <script src="~/js/generic.js"></script>
 
-<script src="~/js/empleados.js"></script>
+<script src="~/js/clientes.js"></script>

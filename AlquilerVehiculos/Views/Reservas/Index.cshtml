@@ -1,11 +1,79 @@
 ﻿@{
-    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    ViewBag.Title = "Reservas - Administración";
 }
 
 <h1>Reservas</h1>
 
-<div id="divtabla"></div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalReserva" tabindex="-1" aria-labelledby="modalReservasLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalReservasLabel">Gestionar Reservas</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmReserva" method="post" class="row g-3">
+                    <div class="col-md-4">
+                        <label for="inputIdReservas" class="form-label">Id Reservas</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="idReservas" id="idReservas" readonly>
+                    </div>
+                    <input type="text" class="form-control shadow-sm rounded" name="idCliente" id="idCliente" readonly>
+                    <input type="text" class="form-control shadow-sm rounded" name="idVehiculo" id="idVehiculo" readonly>
+
+                    <div class="col-md-4">
+                        <label for="inputNombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="nombre" id="nombre" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputApellido" class="form-label">Apellido</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="apellido" id="apellido" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputMarca" class="form-label">Marca Vehiculo</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="marca" id="marca" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputModelo" class="form-label">Modelo Vehiculo</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="modelo" id="modelo" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputAño" class="form-label">Año Vehiculo</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="año" id="año" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputFechaInicio" class="form-label">Fecha Inicio</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="fechaInicio" id="fechaInicio" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputFechaFinal" class="form-label">Fecha Final</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="fechaFinal" id="fechaFinal" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputEstado" class="form-label">Estado</label>
+                        <select class="form-select shadow-sm rounded" name="estado" id="estado">
+                            <option value="">Seleccione un estado</option>
+                            <option value="Finalizada">Finalizada</option>
+                            <option value="Cancelada">Cancelada</option>
+                            <option value="Confirmada">Confirmada</option>
+                            <option value="Pendiente">Pendiente</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" onclick="ActualizarEstadoReserva()">Guardar</button>
+                <button type="button" class="btn btn-secondary" onclick="LimpiarReserva()">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="divTabla"></div>
+<script src="~/js/generic.js"></script>
 
 <script src="~/js/reservas.js"></script>
-<script src="~/js/generic.js"></script>
 

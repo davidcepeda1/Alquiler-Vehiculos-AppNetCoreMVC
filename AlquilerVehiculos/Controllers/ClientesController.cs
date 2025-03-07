@@ -17,5 +17,21 @@ namespace AlquilerVehiculos.Controllers
             List<ClientesCLS> clientes =  obj.listarClientes();
             return clientes;
         }
+        public int GuardarCliente(ClientesCLS cliente)
+        {
+            ClientesBL obj = new ClientesBL();
+            return obj.GuardarCliente(cliente);
+        }
+        public ClientesCLS RecuperarCliente(int idCliente)
+        {
+            ClientesBL obj = new ClientesBL();
+            return obj.RecuperarCliente(idCliente);
+        }
+        public int EliminarCliente(int idCliente)
+        {
+            ClientesBL obj = new ClientesBL();
+            return obj.EliminarCliente(idCliente);
+        }
+
     }
 }

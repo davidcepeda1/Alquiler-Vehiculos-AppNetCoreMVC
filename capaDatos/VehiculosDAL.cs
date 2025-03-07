@@ -63,5 +63,115 @@ namespace capaDatos
             }
             return Lista;
         }
+        public int GuardarVehiculo(VehiculosCLS vehiculos)
+        {
+            int respuesta = 0;
+
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspGuardarVehiculo", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@idVehiculo", vehiculos.idVehiculo);
+                        cmd.Parameters.AddWithValue("@marca", vehiculos.marca == null ? "" : vehiculos.marca);
+                        cmd.Parameters.AddWithValue("@modelo", vehiculos.modelo == null ? "" : vehiculos.modelo);
+                        cmd.Parameters.AddWithValue("@año", vehiculos.año == 0 ? 0 : vehiculos.año);
+                        cmd.Parameters.AddWithValue("@precio", vehiculos.precio == 0 ? 0  : vehiculos.precio);
+                        cmd.Parameters.AddWithValue("@estado", vehiculos.estado == null ? "" : vehiculos.estado);
+                        cmd.Parameters.AddWithValue("@imagen", vehiculos.imagen == null ? "" : vehiculos.imagen);
+                       
+                        respuesta = cmd.ExecuteNonQuery();
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                    respuesta = 0;
+                    throw;
+                }
+            }
+            return respuesta;
+        }
+        public VehiculosCLS RecuperarVehiculo(int idVehiculo)
+        {
+            VehiculosCLS vehiculo = null; // Inicializar como null
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspRecuperarVehiculo", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@vehiculoId", idVehiculo);
+
+                        using (SqlDataReader dr = cmd.ExecuteReader())
+                        {
+                            if (dr.HasRows) // Verificar si hay filas
+                            {
+                                while (dr.Read())
+                                {
+                                    vehiculo = new VehiculosCLS
+                                    {
+                                        idVehiculo  = dr.IsDBNull(0) ? 0 : dr.GetInt32(0),
+                                        marca = dr.IsDBNull(1) ? "" : dr.GetString(1),
+                                        modelo = dr.IsDBNull(2) ? "" : dr.GetString(2),
+                                        año = dr.IsDBNull(3) ? 0 : dr.GetInt32(3),
+                                        precio = dr.IsDBNull(4) ? 0 : dr.GetDecimal(4),
+                                        estado = dr.IsDBNull(5) ? "" : dr.GetString(5),
+                                        imagen = dr.IsDBNull(6) ? "" : dr.GetString(6)
+                                    };
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("No se encontraron registros para el ID proporcionado.");
+                            }
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Manejo de excepciones
+                    Console.WriteLine("Error: " + ex.Message);
+                }
+                finally
+                {
+                    cn.Close();
+                }
+            }
+            return vehiculo; // Devolver el objeto empleados
+        }
+        public int EliminarVehiculo(int idVehiculo)
+        {
+            int respuesta = 0;
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspEliminarVehiculo", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@idVehiculo", idVehiculo);
+                        respuesta = cmd.ExecuteNonQuery();
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                }
+            }
+            return respuesta;
+        }
     }
 }

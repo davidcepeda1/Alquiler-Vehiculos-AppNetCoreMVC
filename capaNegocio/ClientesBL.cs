@@ -30,7 +30,22 @@ namespace capaNegocio
 
             return cliente.ValidarUsuario(usuario);
         }
+        public int GuardarCliente(ClientesCLS cliente)
+        {
+            // Llamamos al método de la capa de datos
+            ClientesDAL obj = new ClientesDAL();
+            return obj.GuardarCliente(cliente);
+        }
+        public ClientesCLS RecuperarCliente(int idCliente)
+        {
+            ClientesDAL obj = new ClientesDAL();
+            return obj.RecuperarCliente(idCliente);
+        }
 
-        
+        public int EliminarCliente(int idCliente)
+        {
+            ClientesDAL obj = new ClientesDAL();
+            return obj.EliminarCliente(idCliente);
+        }
     }
 }

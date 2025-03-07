@@ -20,5 +20,20 @@ namespace capaNegocio
             ReservasDAL obj = new ReservasDAL();
             return obj.CrearReserva(reservas);
         }
+        public int ActualizarEstadoReserva(ReservasCLS reserva)
+        {
+            ReservasDAL obj = new ReservasDAL();
+            return obj.ActualizarEstadoReserva(reserva);
+        }
+        public ReservasCLS RecuperarReserva(int idReserva)
+        {
+            ReservasDAL obj = new ReservasDAL();
+            return obj.RecuperarReserva(idReserva);
+        }
+        public int EliminarReserva(int idReserva)
+        {
+            ReservasDAL obj = new ReservasDAL();
+            return obj.EliminarReserva(idReserva);
+        }
     }
 }

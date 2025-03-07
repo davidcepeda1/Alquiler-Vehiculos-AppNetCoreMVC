@@ -111,5 +111,118 @@ namespace capaDatos
             }
         }
 
+        public int ActualizarEstadoReserva(ReservasCLS reserva)
+        {
+            int respuesta = 0;
+
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspActualizarEstadoReserva", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@reservaId", reserva.idReserva);
+                        cmd.Parameters.AddWithValue("@nuevoEstado", reserva.estado== null ? "" : reserva.estado);
+
+
+                        respuesta = cmd.ExecuteNonQuery();
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                    respuesta = 0;
+                    throw;
+                }
+            }
+            return respuesta;
+        }
+
+        public ReservasCLS RecuperarReserva(int idReserva)
+        {
+            ReservasCLS reserva = null; // Inicializar como null
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspRecuperarClientes", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@reservaId", idReserva);
+
+                        using (SqlDataReader dr = cmd.ExecuteReader())
+                        {
+                            if (dr.HasRows) // Verificar si hay filas
+                            {
+                                while (dr.Read())
+                                {
+                                    reserva = new ReservasCLS
+                                    {
+                                        idReserva = dr.IsDBNull(0) ? 0 : dr.GetInt32(0),
+                                        idCliente = dr.IsDBNull(1) ? 0 : dr.GetInt32(1),
+                                        clienteNombre = dr.IsDBNull(2) ? "" : dr.GetString(2),
+                                        clienteApellido = dr.IsDBNull(3) ? "" : dr.GetString(3),
+                                        idVehiculo = dr.IsDBNull(4) ? 0 : dr.GetInt32(4),
+                                        vehiculoMarca = dr.IsDBNull(5) ? "" : dr.GetString(5),
+                                        vehiculoModelo = dr.IsDBNull(6) ? "" : dr.GetString(6),
+                                        vehiculoAño = dr.IsDBNull(7) ? 0 : dr.GetInt32(7),
+                                        fechaInicio = dr.IsDBNull(8) ? DateTime.MinValue : dr.GetDateTime(8),
+                                        fechaFin = dr.IsDBNull(9) ? DateTime.MinValue : dr.GetDateTime(9),
+                                        estado = dr.IsDBNull(10) ? "" : dr.GetString(10)
+                                    };
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("No se encontraron registros para el ID proporcionado.");
+                            }
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Manejo de excepciones
+                    Console.WriteLine("Error: " + ex.Message);
+                }
+                finally
+                {
+                    cn.Close();
+                }
+            }
+            return reserva; // Devolver el objeto empleados
+        }
+        public int EliminarReserva(int idReserva)
+        {
+            int respuesta = 0;
+            string cadenaDato = ConexionBD.getCadenaConexion();
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+                    using (SqlCommand cmd = new SqlCommand("uspEliminarEmpleado", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@reservaId", idReserva);
+                        respuesta = cmd.ExecuteNonQuery();
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                }
+            }
+            return respuesta;
+        }
+
+
     }
 }
