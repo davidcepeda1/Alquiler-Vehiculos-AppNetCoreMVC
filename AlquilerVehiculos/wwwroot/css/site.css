@@ -8,7 +8,10 @@
     --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
     --border: 0.1rem solid rgba(0, 0, 0, 0.1);
     --white: #ffffff;
-    --gold: #C79800
+    --gold: #C79800;
+    --background-dark: #121212;
+    --border-dark: #333;
+    --button-dark: #444;
 }
 
 * {
@@ -151,6 +154,279 @@ section {
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+    .switch #input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #2196f3;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    z-index: 0;
+    overflow: hidden;
+}
+
+.sun-moon {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: yellow;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+
+#input:checked + .slider {
+    background-color: black;
+}
+
+#input:focus + .slider {
+    box-shadow: 0 0 1px #2196f3;
+}
+
+#input:checked + .slider .sun-moon {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+    background-color: white;
+    -webkit-animation: rotate-center 0.6s ease-in-out both;
+    animation: rotate-center 0.6s ease-in-out both;
+}
+
+.moon-dot {
+    opacity: 0;
+    transition: 0.4s;
+    fill: gray;
+}
+
+#input:checked + .slider .sun-moon .moon-dot {
+    opacity: 1;
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+    .slider.round .sun-moon {
+        border-radius: 50%;
+    }
+
+#moon-dot-1 {
+    left: 10px;
+    top: 3px;
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    z-index: 4;
+}
+
+#moon-dot-2 {
+    left: 2px;
+    top: 10px;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    z-index: 4;
+}
+
+#moon-dot-3 {
+    left: 16px;
+    top: 18px;
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    z-index: 4;
+}
+
+#light-ray-1 {
+    left: -8px;
+    top: -8px;
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    z-index: -1;
+    fill: white;
+    opacity: 10%;
+}
+
+#light-ray-2 {
+    left: -50%;
+    top: -50%;
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    z-index: -1;
+    fill: white;
+    opacity: 10%;
+}
+
+#light-ray-3 {
+    left: -18px;
+    top: -18px;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    z-index: -1;
+    fill: white;
+    opacity: 10%;
+}
+
+.cloud-light {
+    position: absolute;
+    fill: #eee;
+    animation-name: cloud-move;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+.cloud-dark {
+    position: absolute;
+    fill: #ccc;
+    animation-name: cloud-move;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+}
+
+#cloud-1 {
+    left: 30px;
+    top: 15px;
+    width: 40px;
+}
+
+#cloud-2 {
+    left: 44px;
+    top: 10px;
+    width: 20px;
+}
+
+#cloud-3 {
+    left: 18px;
+    top: 24px;
+    width: 30px;
+}
+
+#cloud-4 {
+    left: 36px;
+    top: 18px;
+    width: 40px;
+}
+
+#cloud-5 {
+    left: 48px;
+    top: 14px;
+    width: 20px;
+}
+
+#cloud-6 {
+    left: 22px;
+    top: 26px;
+    width: 30px;
+}
+
+@keyframes cloud-move {
+    0% {
+        transform: translateX(0px);
+    }
+
+    40% {
+        transform: translateX(4px);
+    }
+
+    80% {
+        transform: translateX(-4px);
+    }
+
+    100% {
+        transform: translateX(0px);
+    }
+}
+
+.stars {
+    transform: translateY(-32px);
+    opacity: 0;
+    transition: 0.4s;
+}
+
+.star {
+    fill: white;
+    position: absolute;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    animation-name: star-twinkle;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+#input:checked + .slider .stars {
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+}
+
+#star-1 {
+    width: 20px;
+    top: 2px;
+    left: 3px;
+    animation-delay: 0.3s;
+}
+
+#star-2 {
+    width: 6px;
+    top: 16px;
+    left: 3px;
+}
+
+#star-3 {
+    width: 12px;
+    top: 20px;
+    left: 10px;
+    animation-delay: 0.6s;
+}
+
+#star-4 {
+    width: 18px;
+    top: 0px;
+    left: 18px;
+    animation-delay: 1.3s;
+}
+
+@keyframes star-twinkle {
+    0% {
+        transform: scale(1);
+    }
+
+    40% {
+        transform: scale(1.2);
+    }
+
+    80% {
+        transform: scale(0.8);
+    }
+
+    100% {
+        transform: scale(1);
+    }
 }
 
 #login-btn .btn {
@@ -1186,6 +1462,260 @@ footer .credit {
     color: var(--black);
 }
 
+/* Estilos para el modo oscuro */
+body.dark-mode {
+    background-color: #333;
+    color: var(--white);
+}
+
+    body.dark-mode .header {
+        background-color: var(--background-dark);
+        border-bottom: var(--border-dark);
+    }
+        body.dark-mode .header #login-btn .btn {
+            background: #333 !important;
+            color: var(--white) !important;
+        }
+
+        body.dark-mode .header .dropdown-content{
+            background: var(--background-dark);
+        }
+body.dark-mode .header .dropdown-content li a:hover {
+    color: var(--light-yellow)!important;
+}
+        body.dark-mode .content p {
+            color: var(--white) !important;
+        }
+
+    body.dark-mode a {
+        color: var(--white) !important;
+    }
+        body.dark-mode .header .logo,
+        body.dark-mode .icons-container .icons .content h3,
+        body.dark-mode .vehicles .vehicles-slider .box .content h3,
+        body.dark-mode .vehicles .vehicles-slider .box .content .price,
+        body.dark-mode .services .box-container .box h3,
+        body.dark-mode .featured .featured-slider .box .content h3,
+        body.dark-mode .reviews .review-slider .box .content h3,
+        body.dark-mode .contact .row form h3,
+        body.dark-mode .newsletter h3,
+        body.dark-mode footer .box-container .box h3,
+        body.dark-mode footer .credit {
+            color: var(--white) !important;
+        }
+    body.dark-mode .heading{
+        color: var(--gold) !important;
+    }
+        body.dark-mode .heading span{
+            color: var(--white) !important;
+        }
+        body.dark-mode .icons-container {
+            background: #666;
+        }
+            body.dark-mode .header .navbar a:hover,
+            body.dark-mode .dropdown-content li a:hover,
+            body.dark-mode .btn:hover,
+            body.dark-mode .icons-container .icons:hover .content h3,
+            body.dark-mode .services .box-container .box:hover h3 {
+                color: var(--white);
+            }
+
+    body.dark-mode .icons-container .icons,
+    body.dark-mode .services .box-container .box,
+    body.dark-mode .featured .featured-slider .box,
+    body.dark-mode .reviews .review-slider .box,
+    body.dark-mode .contact .row form,
+    body.dark-mode .contact .row .map,
+    body.dark-mode .newsletter form {
+        background-color: var(--button-dark);
+        border-color: var(--border-dark);
+    }
+
+        body.dark-mode .icons-container .icons:hover,
+        body.dark-mode .services .box-container .box:hover {
+            background-color: var(--gold);
+        }
+
+            body.dark-mode .icons-container .icons:hover i,
+            body.dark-mode .services .box-container .box:hover i {
+                color: var(--gold);
+                background-color: var(--white);
+            }
+
+            body.dark-mode .icons-container .icons:hover .content p,
+            body.dark-mode .services .box-container .box:hover p {
+                color: var(--white);
+            }
+
+    body.dark-mode footer {
+        background-color: var(--background-dark);
+    }
+
+        body.dark-mode footer .box-container .box a {
+            color: var(--light-color);
+        }
+
+            body.dark-mode footer .box-container .box a:hover {
+                color: var(--white);
+            }
+
+                body.dark-mode footer .box-container .box a:hover i {
+                    color: var(--white);
+                }
+    body.dark-mode .cuerpoPagina {
+        background-color: var(--background-dark);
+        color: var(--white);
+    }
+
+        body.dark-mode .cuerpoPagina h1 {
+            color: var(--white);
+        }
+
+    body.dark-mode .modal-content {
+        background-color: var(--background-dark);
+        color: var(--white);
+    }
+
+    body.dark-mode .modal-header,
+    body.dark-mode .modal-body{
+        border-color: var(--border-dark);
+    }
+
+    body.dark-mode .modal-title {
+        color: var(--white);
+    }
+
+    body.dark-mode .form-control {
+        background-color: var(--button-dark);
+        color: var(--white);
+        border-color: var(--border-dark);
+    }
+
+    body.dark-mode .btn-close {
+        filter: invert(1);
+    }
+
+    body.dark-mode .btn-primary {
+        background-color: var(--light-yellow);
+        color: var(--black);
+        border-color: var(--light-yellow);
+    }
+
+        body.dark-mode .btn-primary:hover {
+            background-color: var(--yellow);
+            border-color: var(--yellow);
+        }
+    /* Estilos para los contenedores de vehículos en modo oscuro */
+    body.dark-mode #vehicles-container {
+        background-color: var(--background-dark);
+        color: var(--white);
+    }
+
+    body.dark-mode .lista-generica {
+        background-color: #333 !important;
+    }
+
+    body.dark-mode .tarjeta {
+        background-color: var(--button-dark);
+        border-color: var(--border-dark);
+    }
+
+    body.dark-mode .tarjeta-detalles h2 {
+        color: var(--white);
+    }
+
+    body.dark-mode .tarjeta-detalles li {
+        color: var(--white);
+    }
+
+    body.dark-mode .tarjeta-detalles .detalles {
+        color: var(--light-color);
+    }
+
+    body.dark-mode .tarjeta-precio {
+        background-color: var(--black);
+        color: var(--white);
+    }
+
+        body.dark-mode .tarjeta-precio .precio {
+            color: var(--white);
+        }
+
+    body.dark-mode .btn.reservar {
+        background-color: var(--light-yellow);
+        color: var(--black);
+    }
+
+        body.dark-mode .btn.reservar:hover {
+            background-color: var(--yellow);
+        }
+
+    body.dark-mode .btn.whatsapp {
+        background-color: #25D366;
+        color: var(--white);
+    }
+
+        body.dark-mode .btn.whatsapp:hover {
+            background-color: #128C7E;
+        }
+
+    /* Estilos para la sección de Seguros en modo oscuro */
+    body.dark-mode .seguros {
+        background-color: var(--background-dark);
+        color: var(--white);
+    }
+
+        body.dark-mode .seguros h3 {
+            color: var(--white);
+        }
+
+    body.dark-mode .cuerpoPagina {
+        background-color: var(--background-dark);
+        color: var(--white);
+    }
+
+    body.dark-mode .intro {
+        background-color: var(--button-dark);
+        color: var(--white);
+        border-color: var(--border-dark);
+    }
+
+    body.dark-mode .seguros-container {
+        background-color: var(--background-dark);
+    }
+
+    body.dark-mode .card {
+        background-color: var(--button-dark);
+        border-color: var(--border-dark);
+    }
+
+        body.dark-mode .card .content {
+            background-color: var(--button-dark);
+            color: var(--white);
+        }
+
+            body.dark-mode .card .content .title,
+            body.dark-mode .card .content .info,
+            body.dark-mode .card .content .price {
+                color: var(--white);
+            }
+
+            body.dark-mode .card .content .btn {
+                background-color: var(--gold);
+                color: var(--black);
+            }
+
+                body.dark-mode .card .content .btn:hover {
+                    background-color: var(--yellow);
+                }
+
+            body.dark-mode .card .content i {
+                color: var(--white);
+            }
+
+    body.dark-mode .seguros-container {
+        background-color: #333 !important;
+    }
 @media (max-width: 991px) {
     html {
         font-size: 55%;
