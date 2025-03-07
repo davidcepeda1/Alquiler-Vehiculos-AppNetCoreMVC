@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 17:20:09 GMT"
+          "Value": "Fri, 07 Mar 2025 08:56:18 GMT"
         }
       ],
       "EndpointProperties": [
@@ -74,7 +74,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 17:20:09 GMT"
+          "Value": "Fri, 07 Mar 2025 08:56:18 GMT"
         }
       ],
       "EndpointProperties": [
@@ -741,6 +741,51 @@
       ]
     },
     {
+      "Route": "js/pagos.jd4lfcy1ii.js",
+      "AssetFile": "js/pagos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mXdICheFYzfUL9LlGcuLdwXgphjTev5WrIN0g7gflho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 09:43:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jd4lfcy1ii"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mXdICheFYzfUL9LlGcuLdwXgphjTev5WrIN0g7gflho="
+        },
+        {
+          "Name": "label",
+          "Value": "js/pagos.js"
+        }
+      ]
+    },
+    {
       "Route": "js/pagos.js",
       "AssetFile": "js/pagos.js",
       "Selectors": [],
@@ -755,7 +800,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "535"
+          "Value": "586"
         },
         {
           "Name": "Content-Type",
@@ -763,62 +808,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+odPED9XYmJmu2EbdpQOJdF1c9HxracChQV4O/h0kWw=\""
+          "Value": "\"mXdICheFYzfUL9LlGcuLdwXgphjTev5WrIN0g7gflho=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 17:18:41 GMT"
+          "Value": "Fri, 07 Mar 2025 09:43:36 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+odPED9XYmJmu2EbdpQOJdF1c9HxracChQV4O/h0kWw="
-        }
-      ]
-    },
-    {
-      "Route": "js/pagos.mt5q0acv8r.js",
-      "AssetFile": "js/pagos.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "535"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+odPED9XYmJmu2EbdpQOJdF1c9HxracChQV4O/h0kWw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 17:18:41 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mt5q0acv8r"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+odPED9XYmJmu2EbdpQOJdF1c9HxracChQV4O/h0kWw="
-        },
-        {
-          "Name": "label",
-          "Value": "js/pagos.js"
+          "Value": "sha256-mXdICheFYzfUL9LlGcuLdwXgphjTev5WrIN0g7gflho="
         }
       ]
     },

@@ -14,7 +14,6 @@ namespace capaDatos
         public List<PagosCLS> listarPagos()
         {
             List<PagosCLS> Lista = null;
-
             string cadenaDato = ConexionBD.getCadenaConexion();
 
             using (SqlConnection cn = new SqlConnection(cadenaDato))
@@ -22,10 +21,19 @@ namespace capaDatos
                 try
                 {
                     cn.Open();
-                    using (SqlCommand cmd = new SqlCommand("uspListarPagos", cn))
+
+                    // 1️⃣ Ejecutar el procedimiento almacenado para generar pagos
+                    using (SqlCommand cmdGenerarPagos = new SqlCommand("uspGenerarPagos", cn))
                     {
-                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
-                        SqlDataReader drd = cmd.ExecuteReader(CommandBehavior.SingleResult);
+                        cmdGenerarPagos.CommandType = System.Data.CommandType.StoredProcedure;
+                        cmdGenerarPagos.ExecuteNonQuery(); // No esperamos resultados, solo ejecutamos
+                    }
+
+                    // 2️⃣ Ejecutar el procedimiento almacenado para listar pagos
+                    using (SqlCommand cmdListarPagos = new SqlCommand("uspListarPagos", cn))
+                    {
+                        cmdListarPagos.CommandType = System.Data.CommandType.StoredProcedure;
+                        SqlDataReader drd = cmdListarPagos.ExecuteReader(CommandBehavior.SingleResult);
 
                         if (drd != null)
                         {
@@ -45,28 +53,29 @@ namespace capaDatos
                             while (drd.Read())
                             {
                                 oPagosCLS = new PagosCLS();
-                                oPagosCLS.idPago = drd.IsDBNull(posidPago) ? 0 : drd.GetInt32(0);
-                                oPagosCLS.idReserva = drd.IsDBNull(posidReserva) ? 0 : drd.GetInt32(1);
-                                oPagosCLS.idCliente = drd.IsDBNull(posidCliente) ? 0 : drd.GetInt32(2);
-                                oPagosCLS.clienteNombre = drd.IsDBNull(posclienteNombre) ? " " : drd.GetString(3);
-                                oPagosCLS.clienteApellido = drd.IsDBNull(posclienteApellido) ? " " : drd.GetString(4);
-                                oPagosCLS.monto = drd.IsDBNull(posmontoP) ? 0 : drd.GetDecimal(5);
-                                oPagosCLS.idMetodoPago = drd.IsDBNull(posmetodoPagoId) ? 0 : drd.GetInt32(6);
-                                oPagosCLS.metodoPago = drd.IsDBNull(posmetodoPago) ? " " : drd.GetString(7);
-                                oPagosCLS.fechaPago = drd.IsDBNull(posfechaPago) ? DateTime.Now : drd.GetDateTime(8);
+                                oPagosCLS.idPago = drd.IsDBNull(posidPago) ? 0 : drd.GetInt32(posidPago);
+                                oPagosCLS.idReserva = drd.IsDBNull(posidReserva) ? 0 : drd.GetInt32(posidReserva);
+                                oPagosCLS.idCliente = drd.IsDBNull(posidCliente) ? 0 : drd.GetInt32(posidCliente);
+                                oPagosCLS.clienteNombre = drd.IsDBNull(posclienteNombre) ? " " : drd.GetString(posclienteNombre);
+                                oPagosCLS.clienteApellido = drd.IsDBNull(posclienteApellido) ? " " : drd.GetString(posclienteApellido);
+                                oPagosCLS.monto = drd.IsDBNull(posmontoP) ? 0 : drd.GetDecimal(posmontoP);
+                                oPagosCLS.idMetodoPago = drd.IsDBNull(posmetodoPagoId) ? 0 : drd.GetInt32(posmetodoPagoId);
+                                oPagosCLS.metodoPago = drd.IsDBNull(posmetodoPago) ? " " : drd.GetString(posmetodoPago);
+                                oPagosCLS.fechaPago = drd.IsDBNull(posfechaPago) ? DateTime.Now : drd.GetDateTime(posfechaPago);
                                 Lista.Add(oPagosCLS);
                             }
                         }
                     }
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
-                    cn.Close();
+                    Console.WriteLine("Error: " + ex.Message);
                     Lista = null;
                 }
             }
             return Lista;
         }
+
         public int RegistrarPago(PagosCLS pagos)
         {
             try
@@ -93,5 +102,7 @@ namespace capaDatos
                 throw new Exception("Error al registrar el pago: " + ex.Message);
             }
         }
+
+        
     }
 }

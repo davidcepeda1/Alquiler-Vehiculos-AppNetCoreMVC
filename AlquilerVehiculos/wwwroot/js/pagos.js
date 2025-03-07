@@ -14,3 +14,7 @@ async function listarPagos() {
     }
     pintar(objPagos);
 }
+
+function calcularPagos() {
+    fetchGet("")
+}
