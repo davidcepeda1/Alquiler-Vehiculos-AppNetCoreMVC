@@ -27,8 +27,18 @@ async function listarVehiculos() {
     pintar(objVehiculos);
     
 }
+
+async function listarVehiculosDisponibles() {
+    objVehiculos = {
+        url: "Vehiculos/listarVehiculosDisponibles",
+        cabeceras: ["Id", "Marca", "Modelo", "Año", "Precio", "Estado"],
+        propiedades: ["idVehiculo", "marca", "modelo", "año", "precio", "estado"],
+    }
+    pintar(objVehiculos);
+}
+
 function listarVehiculosSlider() {
-    fetchGet("Vehiculos/listarVehiculos", "json", function (res) {
+    fetchGet("Vehiculos/listarVehiculosDisponibles", "json", function (res) {
         console.log(res);
         generarSliderVehiculos(res);
         new Swiper(".vehicles-slider", {
@@ -53,7 +63,7 @@ function listarVehiculosSlider() {
 
 
 function listarVehiculosCard() {
-    fetch("Vehiculos/listarVehiculos")
+    fetch("Vehiculos/listarVehiculosDisponibles")
         .then(response => response.json())
         .then(vehiculos => {
             if (document.getElementById("vehicles-container")) {

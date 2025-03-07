@@ -15,5 +15,10 @@ namespace capaNegocio
             VehiculosDAL obj = new VehiculosDAL();
             return obj.listarVehiculos();
         }
+        public List<VehiculosCLS> listarVehiculosDisponibles()
+        {
+            VehiculosDAL obj = new VehiculosDAL();
+            return obj.listarVehiculosDisponibles();
+        }
     }
 }

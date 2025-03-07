@@ -9,6 +9,7 @@
 
     <div id="vehicles-container"></div>
 
+
     <!-- Modal de reserva -->
     <div class="modal fade" id="modalReserva" tabindex="-1" aria-labelledby="modalReservaLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -21,7 +22,11 @@
                     <div id="modalVehiculoInfo" data-id="">
                         <!-- Los detalles del vehículo se cargarán aquí -->
                     </div>
-                    <form>
+                    <form id="frmReserva">
+                        <div class="mb-3" style="display: none;">
+                            <label for="idVehiculo" class="form-label">ID Vehiculo:</label>
+                            <input type="text" class="form-control" id="idVehiculofrm" name="idVehiculo" readonly>
+                        </div>
                         <div class="mb-3">
                             <label for="fechaInicio" class="form-label">Fecha de Inicio:</label>
                             <input type="date" class="form-control" id="fechaInicio" name="fechaInicio" required>
@@ -31,7 +36,7 @@
                             <input type="date" class="form-control" id="fechaFin" name="fechaFin" required>
                         </div>
                         <div class="mb-3">
-                            <button type="button" id="btnReservar" class="btn btn-primary">Reservar</button>
+                            <button type="button" id="btnReservar" class="btn btn-primary" onclick="guardarReserva()">Reservar</button>
                         </div>
                     </form>
                 </div>
@@ -42,5 +47,7 @@
 
 </body>
 
-<script src="~/js/vehiculos.js"></script>
 <script src="~/js/generic.js"></script>
+<script src="~/js/vehiculos.js"></script>
+<script src="~/js/reservas.js"></script>
+

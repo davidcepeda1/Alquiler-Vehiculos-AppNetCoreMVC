@@ -196,23 +196,10 @@
 
     <section class="contact" id="contact">
 
-        <h1 class="heading"><span>Contactanos</span></h1>
+        <h1 class="heading"><span>Ubicacion</span></h1>
 
         <div class="row">
-
             <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7580792352273!2d-78.44506203863827!3d-0.31485318570432824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5bd12538eb13b%3A0x907c61f1abbe45ab!2sUNIVERSITY%20OF%20THE%20ARMED%20FORCES%20ESPE!5e0!3m2!1sen!2sin!4v1740524140863!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-            <form action="">
-                <input type="text" placeholder="Nombre" class="box">
-                <input type="text" placeholder="Apellido" class="box">
-                <input type="tel" placeholder="Telefono" class="box">
-                <input type="email" placeholder="Email" class="box">
-                <input type="submit" value="Reservar" class="btn">
-                <br/>
-                <br/>
-                <p>Llena los datos y en unos instantes nos comunicaremos contigo</p>
-            </form>
-
         </div>
 
     </section>
@@ -229,7 +216,11 @@
                 <div id="modalVehiculoInfo" data-id="">
                     <!-- Los detalles del vehículo se cargarán aquí -->
                 </div>
-                <form>
+                <form id="frmReserva">
+                    <div class="mb-3" style="display: none;">
+                        <label for="idVehiculo" class="form-label">ID Vehiculo:</label>
+                        <input type="text" class="form-control" id="idVehiculofrm" name="idVehiculo" readonly>
+                    </div>
                     <div class="mb-3">
                         <label for="fechaInicio" class="form-label">Fecha de Inicio:</label>
                         <input type="date" class="form-control" id="fechaInicio" name="fechaInicio" required>
@@ -239,7 +230,7 @@
                         <input type="date" class="form-control" id="fechaFin" name="fechaFin" required>
                     </div>
                     <div class="mb-3">
-                        <button type="button" id="btnReservar" class="btn btn-primary">Reservar</button>
+                        <button type="button" id="btnReservar" class="btn btn-primary" onclick="guardarReserva()">Reservar</button>
                     </div>
                 </form>
             </div>
@@ -251,3 +242,4 @@
 <script src="~/js/site.js"></script>
 <script src="~/js/generic.js"></script>
 <script src="~/js/vehiculos.js"></script>
+<script src="~/js/reservas.js"></script>

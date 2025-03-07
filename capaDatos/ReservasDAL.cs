@@ -94,7 +94,7 @@ namespace capaDatos
                         throw new Exception("El ID del cliente o del vehículo es inválido.");
                     }
 
-                    cmd.Parameters.AddWithValue("@ClienteID", reservas.idCliente);
+                    cmd.Parameters.AddWithValue("@UsuarioID", reservas.idCliente);
                     cmd.Parameters.AddWithValue("@VehiculoID", reservas.idVehiculo);
                     cmd.Parameters.AddWithValue("@FechaInicio", reservas.fechaInicio);
                     cmd.Parameters.AddWithValue("@FechaFin", reservas.fechaFin);

@@ -1,8 +1,4 @@
-﻿window.onload = function () {
-    listarReservas();
-}
-
-let objReservas;
+﻿let objReservas;
 
 async function listarReservas() {
     objReservas = {
@@ -16,41 +12,51 @@ async function listarReservas() {
 }
 
 // Función que se llama al hacer clic en el botón de reserva
-function crearReserva() {
+
+function validarFormulario() {
+    let fechaInicio = document.getElementById("fechaInicio").value;
+    let fechaFin = document.getElementById("fechaFin").value;
+
+    if (!fechaInicio || !fechaFin) {
+        Swal.fire("Error", "Por favor, complete ambas fechas.", "error");
+        return false;
+    }
+
+    if (new Date(fechaInicio) > new Date(fechaFin)) {
+        Swal.fire("Error", "La fecha de fin no puede ser anterior a la fecha de inicio.", "error");
+        return false;
+    }
+
+    return true;
+}
+function crearReserva(idVehiculo) {
     const userId = sessionStorage.getItem("UserId");  // Obtener el UserId de sessionStorage
     if (!userId) {
         Swal.fire("Error", "Debes iniciar sesión primero.", "error");
         return; // Salir de la función si no hay un UserId
     }
+    mostrarModal(idVehiculo);
+}
 
-    // Recuperar los otros datos necesarios para la reserva
-    const vehiculoId = document.getElementById("vehiculoId").value;  // Suponiendo que tienes el ID del vehículo
-    const fechaInicio = document.getElementById("fechaInicio").value;
-    const fechaFin = document.getElementById("fechaFin").value;
+function guardarReserva() {
+    if (!validarFormulario()) {
+        return;
+    }
+
+    const userId = sessionStorage.getItem("UserId");  // Obtener el UserId de sessionStorage
+    let form = document.getElementById("frmReserva");
 
     // Crear un objeto FormData para enviar los datos al servidor
-    const frm = new FormData();
-    frm.append("ClienteID", userId);
-    frm.append("VehiculoID", vehiculoId);
-    frm.append("FechaInicio", fechaInicio);
-    frm.append("FechaFin", fechaFin);
-    frm.append("Estado", "Pendiente");
+    let frm = new FormData(form);
+    frm.append("idCliente", userId);  
+    frm.append("estado", "Pendiente");  
 
-    // Enviar los datos al servidor para crear la reserva
-    fetch("/Reservas/CrearReserva", {
-        method: "POST",
-        body: frm,
-    })
-        .then(response => response.json())
-        .then(data => {
-            if (data.success) {
-                Swal.fire("Reserva exitosa", "Tu reserva ha sido realizada con éxito.", "success");
-            } else {
-                Swal.fire("Error", "Hubo un problema al crear la reserva.", "error");
-            }
-        })
-        .catch(error => {
-            console.error("Error al enviar los datos:", error);
-            Swal.fire("Error", "Ocurrió un error inesperado.", "error");
-        });
+    let formObject = Object.fromEntries(frm.entries());
+    console.log("Formulario enviado:", formObject);
+    fetchPost("Reservas/CrearReserva", "text", frm, function () {
+        Swal.fire("Reserva exitosa", "Tu reserva ha sido realizada con éxito.", "success");
+        LimpiarDatos("frmReserva");
+        var myModal = bootstrap.Modal.getInstance(document.getElementById('modalReserva'));
+        myModal.hide();
+    });
 }

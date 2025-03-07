@@ -43,9 +43,24 @@ body {
     transition: background 0.3s ease; /* Transición suave */
 }
 
-    .nav-link:hover {
-        background: #279BE4; /* Color de fondo al pasar el mouse */
-    }
+.nav-link:hover {
+    background: #279BE4; /* Color de fondo al pasar el mouse */
+}
+
+/* Estilo del botón */
+#btn .btn {
+    background-color: #0e3969;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+#btn .btn:hover {
+    background-color: #0056b3;
+}
 
 /* Contenido principal */
 .main-content {
@@ -56,6 +71,9 @@ body {
 }
 
 .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background: #279BE4; /* Color de fondo del header */
     color: #fff; /* Color del texto */
     padding: 15px; /* Espaciado interno */

@@ -26,6 +26,8 @@
                     <a class="nav-link" asp-area="" asp-controller="Clientes" asp-action="Index">Clientes</a>
                 </li>
             </ul>
+
+            
         </nav>
     </aside>
 
@@ -33,6 +35,9 @@
     <main class="main-content">
         <header class="header">
             <h1>Panel Empleados</h1>
+            <div id="btn" class="d-flex justify-content-end">
+                <a id="logoutButton" class="btn" onclick="cerrarSesion()">Cerrar sesión</a>
+            </div>
         </header>
         <div class="container">
             @RenderBody()
@@ -59,6 +64,6 @@
     <!-- Toastr JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
 
-
+    <script src="~/js/singup.js"></script>
 </body>
 </html>
